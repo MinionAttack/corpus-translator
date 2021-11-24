@@ -118,6 +118,11 @@ def fix_errors(original: str, translation: str) -> str:
     fixed = translation
     if len(original) == 1 and original in PUNCTUATION_SYMBOLS:
         fixed = translation
+    if len(original) == 1 and original in PUNCTUATION_SYMBOLS and len(translation) > len(original) and translation[0] in PUNCTUATION_SYMBOLS:
+        if original == translation[0]:
+            fixed = translation[0]
+        else:
+            fixed = original
     if original == "be" and translation.startswith("#"):
         fixed = translation.split("#")[1].strip()
     # We need to use 'fixed' instead of 'translation' so as not to add the removed punctuation symbols again
