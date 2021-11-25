@@ -16,7 +16,7 @@ def translate_corpus(input_language: str, output_language: str, input_file: str,
 
     tokenizer, model = get_translation_tools(input_language, output_language)
     if tokenizer is not None and model is not None:
-        process_file(tokenizer, model, input_file, output_file)
+        process_file(tokenizer, model, input_file, output_file, input_language, output_language)
     else:
         print(f"ERROR: The combination of the selected languages is not available")
 
@@ -61,14 +61,15 @@ def find_model(pattern: str, models) -> Any:
     return model_name
 
 
-def process_file(tokenizer: MarianTokenizer, model: MarianMTModel, input_file: str, output_file: str) -> None:
+def process_file(tokenizer: MarianTokenizer, model: MarianMTModel, input_file: str, output_file: str, input_language: str,
+                 output_language: str) -> None:
     print(f"INFO: Processing the corpus")
 
     input_data = Path(input_file)
     if input_data.exists() and input_data.is_file() and input_data.suffix == ".conllu":
         output_data = Path(output_file)
         if output_data.is_dir():
-            input_name = input_data.name
+            input_name = f"{input_data.stem}-{input_language}-{output_language}{input_data.suffix}"
             output_data = output_data.joinpath(input_name)
             with tqdm(total=input_data.stat().st_size, desc="Translating the FORM and LEMMA parts of sentences") as progress_bar:
                 with open(input_data, 'rt', encoding='UTF-8') as original, open(output_data, 'wt', encoding='UTF-8') as translated:
@@ -114,19 +115,21 @@ def translate_word(tokenizer: MarianTokenizer, model: MarianMTModel, original: s
 
 
 def fix_errors(original: str, translation: str) -> str:
-
     fixed = translation
     if len(original) == 1 and original in PUNCTUATION_SYMBOLS:
         fixed = translation
-    if len(original) == 1 and original in PUNCTUATION_SYMBOLS and len(translation) > len(original) and translation[0] in PUNCTUATION_SYMBOLS:
+    if len(original) == 1 and original in PUNCTUATION_SYMBOLS and len(translation) > len(original) and translation[
+        0] in PUNCTUATION_SYMBOLS:
         if original == translation[0]:
             fixed = translation[0]
         else:
             fixed = original
     if original == "be" and translation.startswith("#"):
         fixed = translation.split("#")[1].strip()
+    if len(original) > 1 and original.isalpha() and not fixed.isalpha():
+        fixed = original
     # We need to use 'fixed' instead of 'translation' so as not to add the removed punctuation symbols again
-    if len(original) > 1 and fixed[0] in PUNCTUATION_SYMBOLS and original[0] not in PUNCTUATION_SYMBOLS:
+    if len(original) > 1 and original[0] not in PUNCTUATION_SYMBOLS and fixed[0] in PUNCTUATION_SYMBOLS:
         fixed = fixed[1:]
     # We need to use 'fixed' instead of 'translation' so as not to add the removed punctuation symbols again
     if len(original) > 1 and fixed[-1] in PUNCTUATION_SYMBOLS and original[-1] not in PUNCTUATION_SYMBOLS:
