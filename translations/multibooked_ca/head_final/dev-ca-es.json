@@ -1,0 +1,7055 @@
+[
+  {
+    "sent_id": "multibooked/corpora/ca/carpe-diem-cadaques403-1",
+    "text": "Tot excel\u00b7lent .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Todo"
+          ],
+          [
+            "0:4"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "excelente"
+          ],
+          [
+            "5:14"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/carpe-diem-cadaques403-2",
+    "text": "Nom\u00e9s vam trobar a faltar prestatges i penjadors a el bany , ja que \u00e9rem tres a l' habitaci\u00f3 i a el bany no hi havia on deixar les coses .",
+    "opinions": [
+      {
+        "Source": [
+          [
+            "vamos"
+          ],
+          [
+            "5:10"
+          ]
+        ],
+        "Target": [
+          [
+            "estantes"
+          ],
+          [
+            "30:38"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "encontrar a faltar"
+          ],
+          [
+            "11:29"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [
+            "vamos"
+          ],
+          [
+            "5:10"
+          ]
+        ],
+        "Target": [
+          [
+            "colgadores a el ba\u00f1o"
+          ],
+          [
+            "41:61"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "encontrar a faltar"
+          ],
+          [
+            "11:29"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/carpe-diem-cadaques403-3",
+    "text": "Totalment recomanable .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "Totalmente recomendable"
+          ],
+          [
+            "0:23"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/carpe-diem-cadaques403-4",
+    "text": "Personal molt amable .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Personal"
+          ],
+          [
+            "0:8"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy amable"
+          ],
+          [
+            "9:19"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/carpe-diem-cadaques403-5",
+    "text": "Esmorzar excel\u00b7lent .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Desayuno"
+          ],
+          [
+            "0:8"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "excelente"
+          ],
+          [
+            "9:18"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/carpe-diem-cadaques403-6",
+    "text": "Aparcament gratu\u00eft .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Aparcamiento"
+          ],
+          [
+            "0:12"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "gratuito"
+          ],
+          [
+            "13:21"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/carpe-diem-cadaques403-7",
+    "text": "Una estada fabulosa .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Una estancia"
+          ],
+          [
+            "0:12"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "fabulosa"
+          ],
+          [
+            "13:21"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/lauria-Santi-1",
+    "text": "Neteja , amabilitat de el personal i situaci\u00f3 de l' hotel .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "el personal"
+          ],
+          [
+            "25:36"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "amabilidad"
+          ],
+          [
+            "11:21"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hostal-ria-de-bilbao-Lluisa 1-1",
+    "text": "erems 4 adults , 1 matrimoni , i 2 fills de 16 i 18 anys , el matrimoni ( nosaltres ) erems la habitacio i els fills grans , en 1 sofa cama tots dos , incomoda total , lo normal era 1 llit de matrimoni i els dos amb dos llits , ja que varem pagar per habitacio ( quadruple ) . 1 habitacio , correcte",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "sofa pierna"
+          ],
+          [
+            "134:145"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "inconoda total"
+          ],
+          [
+            "158:172"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "1 habitacio"
+          ],
+          [
+            "285:296"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "correcto"
+          ],
+          [
+            "299:307"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hotel-le-mathurin-Marta 1-1",
+    "text": "Mida de l' hotel ni molt gran ni molt petit , molt ben situat tant per negocis com per visitar la ciutat .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Tama\u00f1o de el hotel"
+          ],
+          [
+            "0:18"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "ni muy grande ni muy peque\u00f1o"
+          ],
+          [
+            "19:47"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "muy bien situado"
+          ],
+          [
+            "50:66"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hotel-le-mathurin-Marta 1-2",
+    "text": "Sempre que puc hi vaig , el personal tamb\u00e9 es molt atent i les instal\u00b7lacions estan molt netes .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el personal"
+          ],
+          [
+            "25:36"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy atento"
+          ],
+          [
+            "48:58"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "les instalaciones"
+          ],
+          [
+            "61:78"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy netas"
+          ],
+          [
+            "85:94"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/dolce-sitges-J 1-1",
+    "text": "Els preus i la qualitat de els productes de els bars i cafeteries , era car\u00edssim i deixava molt que desitjar .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Els precios"
+          ],
+          [
+            "0:11"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "car\u00edsimo"
+          ],
+          [
+            "74:82"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "la calidad de los productos de los bares y cafeter\u00edas"
+          ],
+          [
+            "14:67"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "car\u00edsimo"
+          ],
+          [
+            "74:82"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Els precios"
+          ],
+          [
+            "0:11"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "dejaba muy que desear"
+          ],
+          [
+            "85:106"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "la calidad de los productos de los bares y cafeter\u00edas"
+          ],
+          [
+            "14:67"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "dejaba muy que desear"
+          ],
+          [
+            "85:106"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/dolce-sitges-J 1-2",
+    "text": "Una cosa \u00e9s que sigui un hotel de 5 * i l' altre que et vulguin robar .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "et quieran robar"
+          ],
+          [
+            "51:67"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/dolce-sitges-J 1-3",
+    "text": "La situaci\u00f3 , perqu\u00e8 est\u00e0 envoltat de paissatges i zones verdes .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La situaci\u00f3n"
+          ],
+          [
+            "0:12"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "rodeado de paisajes y zonas verdes"
+          ],
+          [
+            "27:61"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/dolce-sitges-J 1-4",
+    "text": "\u00c9s un hotel molt gran amb espais molt amplis .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/turismo-rural-sant-marc-Laura-1",
+    "text": "El restaurant est\u00e0 molt b\u00e9 .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "El restaurante"
+          ],
+          [
+            "0:14"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy bien"
+          ],
+          [
+            "20:28"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/capri-sitges-Parella 1-1",
+    "text": "- Poca pressi\u00f3-quantitat d' aigua en el bany . - Esmorzar modest . - Hotel tranquil i confortable . - Molt c\u00e8ntric . - Habitacions \u00e0mplies - Personal molt amable . - Faciliten servei de p\u00e0rquing durant el dia de la partida .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Hotel"
+          ],
+          [
+            "68:73"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "tranquilo"
+          ],
+          [
+            "74:83"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Habitaciones"
+          ],
+          [
+            "119:131"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "amplias"
+          ],
+          [
+            "132:139"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "Muy c\u00e9ntrico"
+          ],
+          [
+            "102:114"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el ba\u00f1o"
+          ],
+          [
+            "35:42"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Poca presi\u00f3n-cantidad de agua"
+          ],
+          [
+            "2:31"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Hotel"
+          ],
+          [
+            "68:73"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "confortable"
+          ],
+          [
+            "86:97"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Personal"
+          ],
+          [
+            "142:150"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy amable"
+          ],
+          [
+            "151:161"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Desayuno"
+          ],
+          [
+            "47:55"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "modesto"
+          ],
+          [
+            "56:63"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "servicio de parking durante el d\u00eda de la partida"
+          ],
+          [
+            "176:224"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Faciliten"
+          ],
+          [
+            "166:175"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/galeon-Josep-1",
+    "text": "Wifi justet .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Wifi"
+          ],
+          [
+            "0:4"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "justet"
+          ],
+          [
+            "5:11"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/galeon-Josep-2",
+    "text": "Per nosaltres cap problema , pero per persones grans o amb mobilitat redu\u00efda i ha moltes escales La situaci\u00f3 excel\u00b7lent , l' habitaci\u00f3 perfecta , molt neta .",
+    "opinions": [
+      {
+        "Source": [
+          [
+            "Por nosotros"
+          ],
+          [
+            "0:12"
+          ]
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "jefe problema"
+          ],
+          [
+            "13:26"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el habitaci\u00f3n"
+          ],
+          [
+            "127:140"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "perfecta"
+          ],
+          [
+            "141:149"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [
+            "por personas grandes o con movilidad reducida"
+          ],
+          [
+            "34:79"
+          ]
+        ],
+        "Target": [
+          [
+            "muchas escaleras"
+          ],
+          [
+            "85:101"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "y ha"
+          ],
+          [
+            "80:84"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el habitaci\u00f3n"
+          ],
+          [
+            "127:140"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy neta"
+          ],
+          [
+            "152:160"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/galeon-Josep-3",
+    "text": "Sense pretensions pero no hi manca res i es molt gran",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "hi"
+          ],
+          [
+            "25:27"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "no",
+            "falta nada"
+          ],
+          [
+            "22:24",
+            "28:38"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "hi"
+          ],
+          [
+            "25:27"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Sin pretensiones"
+          ],
+          [
+            "0:16"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "hi"
+          ],
+          [
+            "25:27"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy grande"
+          ],
+          [
+            "44:54"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/aparthotel-village-golf-beach7-1",
+    "text": "Se sent bastant soroll de el passad\u00eds , per\u00f2 tampoc impedeix dormir tranquil .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "Se siendo bastante ruido"
+          ],
+          [
+            "0:24"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/aparthotel-village-golf-beach7-2",
+    "text": "El preu una mica car .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "El precio"
+          ],
+          [
+            "0:9"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "una poco caro"
+          ],
+          [
+            "10:23"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/aparthotel-village-golf-beach7-3",
+    "text": "La situaci\u00f3 \u00e9s perfecta .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La situaci\u00f3n"
+          ],
+          [
+            "0:12"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "perfecta"
+          ],
+          [
+            "16:24"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/aparthotel-village-golf-beach7-4",
+    "text": "A 1 minut de la platja principal i a 2-3 de la riera on es poc aparcar gratis sense problemes .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "A 1 minuto de la playa principal"
+          ],
+          [
+            "0:32"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "es poco aparcar gratis"
+          ],
+          [
+            "59:81"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/aparthotel-village-golf-beach7-5",
+    "text": "L' habitaci\u00f3 i el bany molt espaiosos .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La habitaci\u00f3n"
+          ],
+          [
+            "0:13"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy espaciosos"
+          ],
+          [
+            "24:38"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el ba\u00f1o"
+          ],
+          [
+            "16:23"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy espaciosos"
+          ],
+          [
+            "24:38"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hostal-central-bilbao-Gemma 1-1",
+    "text": "- Un de els dos matalassos era massa tou ( feia mal d' esquena ) - No ten\u00edem finestra a l' exterior , era un cel obert - Dificultat per trobar l' aparcament p\u00fablic - Situaci\u00f3 molt c\u00e8ntrica - Bon tracte de el personal - Habitaci\u00f3 una mica justa ( armari petit , pas estret ) bona relaci\u00f3 qualitat-preu quan valores com de c\u00e8ntrica est\u00e0 la pensi\u00f3 - Ideal per poder fer turisme durant el dia i tornar a la pensi\u00f3 nom\u00e9s per dormir , jo hi tornaria - Hi ha assecador de cabell - Donen xamp\u00fa , gel i pastilla de sab\u00f3",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Habitaci\u00f3n"
+          ],
+          [
+            "231:241"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "una poco justa"
+          ],
+          [
+            "242:256"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "paso"
+          ],
+          [
+            "277:281"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "estrecho"
+          ],
+          [
+            "282:290"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "ventana a el exterior"
+          ],
+          [
+            "79:100"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "No ten\u00edamos"
+          ],
+          [
+            "67:78"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "relaci\u00f3n calidad-precio"
+          ],
+          [
+            "299:322"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "buena"
+          ],
+          [
+            "293:298"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "la pensi\u00f3n"
+          ],
+          [
+            "359:369"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "c\u00e9ntrica"
+          ],
+          [
+            "345:353"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "Ideal por poder hacer turismo durante el d\u00eda"
+          ],
+          [
+            "372:416"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Uno de los dos colchones"
+          ],
+          [
+            "2:26"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "hac\u00eda mal de espalda"
+          ],
+          [
+            "42:62"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Situaci\u00f3n"
+          ],
+          [
+            "178:187"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy c\u00e9ntrica"
+          ],
+          [
+            "188:200"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "trato de el personal"
+          ],
+          [
+            "208:228"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Buen"
+          ],
+          [
+            "203:207"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [
+            "yo"
+          ],
+          [
+            "457:459"
+          ]
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "hi volver\u00eda"
+          ],
+          [
+            "460:471"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "secador de pelo"
+          ],
+          [
+            "480:495"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Hi ha"
+          ],
+          [
+            "474:479"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Uno de los dos colchones"
+          ],
+          [
+            "2:26"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "masa tou"
+          ],
+          [
+            "31:39"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "armario"
+          ],
+          [
+            "259:266"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "peque\u00f1o"
+          ],
+          [
+            "267:274"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "champ\u00fa"
+          ],
+          [
+            "504:510"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Donen"
+          ],
+          [
+            "498:503"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "hielo"
+          ],
+          [
+            "513:518"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Donen"
+          ],
+          [
+            "498:503"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "pastilla de jab\u00f3n"
+          ],
+          [
+            "521:538"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Donen"
+          ],
+          [
+            "498:503"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el aparcamiento p\u00fablico"
+          ],
+          [
+            "152:175"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Dificultad por encontrar"
+          ],
+          [
+            "127:151"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/milleniumgloucester-EnricSanti 1-1",
+    "text": "La il\u00b7luminaci\u00f3 de el bany .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/milleniumgloucester-EnricSanti 1-2",
+    "text": "Habitualment els hotels et permeten triar entre una il\u00b7luminaci\u00f3 suau ( el mirall , p . ex. ) i una m\u00e9s forta .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/milleniumgloucester-EnricSanti 1-3",
+    "text": "A el bany de la nostra habitaci\u00f3 la il\u00b7luminaci\u00f3 era molt forta , quatre focus empotrats a el sostre sense posibilitat de regularla .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "A el ba\u00f1o de la nuestra habitaci\u00f3n la iluminaci\u00f3n"
+          ],
+          [
+            "0:49"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy fuerte"
+          ],
+          [
+            "54:64"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "A el ba\u00f1o de la nuestra habitaci\u00f3n la iluminaci\u00f3n"
+          ],
+          [
+            "0:49"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "sin posibilidad de regularla"
+          ],
+          [
+            "101:129"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/milleniumgloucester-EnricSanti 1-4",
+    "text": "Quasi tot .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/milleniumgloucester-EnricSanti 1-5",
+    "text": "Tracte amable , f\u00e0cil localitzaci\u00f3 , situaci\u00f3 privilegiada , net , comfortable ....",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "confortable"
+          ],
+          [
+            "68:79"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "situaci\u00f3n"
+          ],
+          [
+            "36:45"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "privilegiada"
+          ],
+          [
+            "46:58"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "limp"
+          ],
+          [
+            "61:65"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "localizaci\u00f3n"
+          ],
+          [
+            "21:33"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "f\u00e1cil"
+          ],
+          [
+            "15:20"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Trato"
+          ],
+          [
+            "0:5"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "amable"
+          ],
+          [
+            "6:12"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/the-z-piccadilly-Monica 1-1",
+    "text": "Preu diari de el parking .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/the-z-piccadilly-Monica 1-2",
+    "text": "A m\u00e9s , el caixer autom\u00e0tic no admet targes de cr\u00e8dit .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el cajero autom\u00e1tico"
+          ],
+          [
+            "8:28"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "no admite tarjetas de cr\u00e9dito"
+          ],
+          [
+            "29:58"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/the-z-piccadilly-Monica 1-3",
+    "text": "Situaci\u00f3 adient , a prop de el Museu Guggenheim i de el casc antic .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Situaci\u00f3n"
+          ],
+          [
+            "0:9"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "adecuado"
+          ],
+          [
+            "10:18"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Situaci\u00f3n"
+          ],
+          [
+            "0:9"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "a cerca de el Museo Guggenheim"
+          ],
+          [
+            "21:51"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/the-z-piccadilly-Monica 1-4",
+    "text": "Instal\u00b7lacions i asepcte general .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/the-z-piccadilly-Monica 1-5",
+    "text": "Amabilitat de el personal .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el personal"
+          ],
+          [
+            "14:25"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Amabilidad"
+          ],
+          [
+            "0:10"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/the-z-piccadilly-Monica 1-6",
+    "text": "Caf\u00e8s i tes disponibles a la habitaci\u00f3 .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Caf\u00e9s"
+          ],
+          [
+            "0:5"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "disponibles a la habitaci\u00f3n"
+          ],
+          [
+            "12:39"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "tas"
+          ],
+          [
+            "8:11"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "disponibles a la habitaci\u00f3n"
+          ],
+          [
+            "12:39"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/the-z-piccadilly-Monica 1-7",
+    "text": "Vidres de les finestres de colors , que donen un toc original .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Cristales de les ventanas"
+          ],
+          [
+            "0:25"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "dan uno toque original"
+          ],
+          [
+            "43:65"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/cleopatra-Rebeca 1-1",
+    "text": "Per ser un 4 estrelles superior , li falta renovar sobretot el mobiliari de les habitacions .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el mobiliario de les habitaciones"
+          ],
+          [
+            "61:94"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "li falta renovar"
+          ],
+          [
+            "35:51"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/cleopatra-Rebeca 1-2",
+    "text": "Dif\u00edcil trobar aparcament a la zona , i el d l' hotel es d pagament .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el d el hotel"
+          ],
+          [
+            "45:58"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "d pago"
+          ],
+          [
+            "62:68"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "aparcamiento a la zona"
+          ],
+          [
+            "18:40"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Dif\u00edcil encontrar"
+          ],
+          [
+            "0:17"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/cleopatra-Rebeca 1-3",
+    "text": "Personal , \u00c0rees comuns i esmorzar bufet tot molt correcte .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Personal"
+          ],
+          [
+            "0:8"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "todo muy correcto"
+          ],
+          [
+            "43:60"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "\u00c1reas comunes"
+          ],
+          [
+            "11:24"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "todo muy correcto"
+          ],
+          [
+            "43:60"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "desayuno bufete"
+          ],
+          [
+            "27:42"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "todo muy correcto"
+          ],
+          [
+            "43:60"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/sercotel-plaza-zaragoza-Catalana 1-1",
+    "text": "La habitaci\u00f3 feia olor a tabac , es veien bastant desperfectes a la habitaci\u00f3 i a la zona de el esmorzar .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "la habitaci\u00f3n"
+          ],
+          [
+            "69:82"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "es ve\u00edan bastante desperfectos"
+          ],
+          [
+            "36:66"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "la zona de el desayuno"
+          ],
+          [
+            "87:109"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "es ve\u00edan bastante desperfectos"
+          ],
+          [
+            "36:66"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La habitaci\u00f3n"
+          ],
+          [
+            "0:13"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "hac\u00eda olor a tabaco"
+          ],
+          [
+            "14:33"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/sercotel-plaza-zaragoza-Catalana 1-2",
+    "text": "La dutxa no va ok , no vaig saber com ficar aigua calenta , sort que feia calor .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La ducha"
+          ],
+          [
+            "0:8"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "no va ok"
+          ],
+          [
+            "9:17"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [
+            "voy"
+          ],
+          [
+            "23:26"
+          ]
+        ],
+        "Target": [
+          [
+            "agua caliente"
+          ],
+          [
+            "43:56"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "no",
+            "saber com meter"
+          ],
+          [
+            "20:22",
+            "27:42"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/sercotel-plaza-zaragoza-Catalana 1-3",
+    "text": "L' esmorzar es molt esc\u00e0s , ens vam trobar pa de motlle florit ( ho vam dir a el cambrer i ho van canviar r\u00e0pidament ) El preu i que No hem tingut que entrar a la ciutat ja que estavem nom\u00e9s x fer nit",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "de molde"
+          ],
+          [
+            "52:60"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "florido"
+          ],
+          [
+            "61:68"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La desayuno"
+          ],
+          [
+            "0:11"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy escaso"
+          ],
+          [
+            "15:25"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/carlemanygirona-Marta-1",
+    "text": "El tracte de la cafeter\u00eda i l' habitaci\u00f3 em va semblar que necesitaba una renovaci\u00f3 Els lavabos de la planta baixa necesitaven un servei de neteja m\u00e9s acurat .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Els lavabos de la planta baja"
+          ],
+          [
+            "84:113"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "necesitaban uno servicio de limpieza m\u00e1s cuidadoso"
+          ],
+          [
+            "114:164"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [
+            "me"
+          ],
+          [
+            "41:43"
+          ]
+        ],
+        "Target": [
+          [
+            "el habitaci\u00f3n"
+          ],
+          [
+            "27:40"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "neditarba una renovaci\u00f3n"
+          ],
+          [
+            "59:83"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/carlemanygirona-Marta-2",
+    "text": "La situaci\u00f3n de l' hotel i el tracte .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hotel-margarit-Rosa-1",
+    "text": "El fet que no hi hagi aire acondicionat ; feia tanta calor a l habitacio que et marejaves L habitacio es correcta i la situaci\u00f3 de l hotel bona",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "aire acondicionado"
+          ],
+          [
+            "24:42"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "no hi haya"
+          ],
+          [
+            "13:23"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "la situaci\u00f3n de l hotel"
+          ],
+          [
+            "119:142"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "buena"
+          ],
+          [
+            "143:148"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "hac\u00eda",
+            "calor"
+          ],
+          [
+            "45:50",
+            "57:62"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "L habitacio"
+          ],
+          [
+            "93:104"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "correcta"
+          ],
+          [
+            "108:116"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/apartaments-turastics-puigcerda-cal-bertran-Francesc-1",
+    "text": "Moltes mosques incl\u00fas sense gaireb\u00e9 obrir finestres .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "moscas"
+          ],
+          [
+            "7:13"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Muchas"
+          ],
+          [
+            "0:6"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/apartaments-turastics-puigcerda-cal-bertran-Francesc-2",
+    "text": "La relaci\u00f3 qualitat preu es bona .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La relaci\u00f3n calidad precio"
+          ],
+          [
+            "0:26"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "buena"
+          ],
+          [
+            "30:35"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/apartaments-turastics-puigcerda-cal-bertran-Francesc-3",
+    "text": "Teniem amplitut i intimitat .",
+    "opinions": [
+      {
+        "Source": [
+          [
+            "Teniamos"
+          ],
+          [
+            "0:8"
+          ]
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "intimidad"
+          ],
+          [
+            "20:29"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [
+            "Teniamos"
+          ],
+          [
+            "0:8"
+          ]
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "amplitut"
+          ],
+          [
+            "9:17"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/carlemanygirona-Mateu-1",
+    "text": "Esta aprop de lestacio , i per tant el trajecte amb lequipatge es curt .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "cerca de lestacio"
+          ],
+          [
+            "5:22"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/carlemanygirona-Mateu-2",
+    "text": "Adames no esta molt lluny de el casc antic",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "no esta muy lejos de el casco antiguo"
+          ],
+          [
+            "7:44"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/sa-guilla72-1",
+    "text": "Se sent bastant soroll de el passad\u00eds , per\u00f2 tampoc impedeix dormir tranquil .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "Se siendo bastante ruido"
+          ],
+          [
+            "0:24"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/sa-guilla72-2",
+    "text": "El preu una mica car .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "El precio"
+          ],
+          [
+            "0:9"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "una poco caro"
+          ],
+          [
+            "10:23"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/sa-guilla72-3",
+    "text": "La situaci\u00f3 \u00e9s perfecta .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La situaci\u00f3n"
+          ],
+          [
+            "0:12"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "perfecta"
+          ],
+          [
+            "16:24"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/sa-guilla72-4",
+    "text": "A 1 minut de la platja principal i a 2-3 de la riera on es poc aparcar gratis sense problemes .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "aparcar"
+          ],
+          [
+            "67:74"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "gratis"
+          ],
+          [
+            "75:81"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "aparcar"
+          ],
+          [
+            "67:74"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "sin problemas"
+          ],
+          [
+            "82:95"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/sa-guilla72-5",
+    "text": "L' habitaci\u00f3 i el bany molt espaiosos .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La habitaci\u00f3n"
+          ],
+          [
+            "0:13"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy espaciosos"
+          ],
+          [
+            "24:38"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el ba\u00f1o"
+          ],
+          [
+            "16:23"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy espaciosos"
+          ],
+          [
+            "24:38"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hospes-villa-paulita-Carmen-1",
+    "text": "la situaci\u00f3 \u00e9s privilegiada .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "la situaci\u00f3n"
+          ],
+          [
+            "0:12"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "privilegiada"
+          ],
+          [
+            "16:28"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hospes-villa-paulita-Carmen-2",
+    "text": "Molta calma i silenci .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "calma"
+          ],
+          [
+            "6:11"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Mucha"
+          ],
+          [
+            "0:5"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "silencio"
+          ],
+          [
+            "14:22"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Mucha"
+          ],
+          [
+            "0:5"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hospes-villa-paulita-Carmen-3",
+    "text": "Ideal per a desconectar",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "Ideal por a desconectar"
+          ],
+          [
+            "0:23"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hospes-villa-paulita-Albert_A-1",
+    "text": "Habitacio amplia i banys molt complets",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Habitacio"
+          ],
+          [
+            "0:9"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "amplia"
+          ],
+          [
+            "10:16"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "ba\u00f1os"
+          ],
+          [
+            "19:24"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy completos"
+          ],
+          [
+            "25:38"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/camping-resort-bungalow-park-mas-patoxas65-1",
+    "text": "No controlaven les arrivades , li van anotar que un hoste arribava m\u00e9s tard i quan va arribar no el va saber localitzar i li van dir que no tenia habitaci\u00f3 .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "No controlaban les arriesgadas"
+          ],
+          [
+            "0:30"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/camping-resort-bungalow-park-mas-patoxas65-2",
+    "text": "Ens van fer pagar per avan\u00e7at la habitaci\u00f3 .",
+    "opinions": [
+      {
+        "Source": [
+          [
+            "Ente"
+          ],
+          [
+            "0:4"
+          ]
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "van hacer pagar por avanzado"
+          ],
+          [
+            "5:33"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/camping-resort-bungalow-park-mas-patoxas65-3",
+    "text": "Em van despertar a les 4 de el mat\u00ed per dir-me si pagar\u00eda l' habitaci\u00f3 d' una companya .",
+    "opinions": [
+      {
+        "Source": [
+          [
+            "Em"
+          ],
+          [
+            "0:2"
+          ]
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "van despertar a les 4 de el ma\u00f1ana"
+          ],
+          [
+            "3:37"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/apartaments-turistics-puigcerda-Joan-1",
+    "text": "L' excel\u00b7lent tracta rebut a la reserva i a l' arribada .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "trata"
+          ],
+          [
+            "13:18"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "excelente"
+          ],
+          [
+            "3:12"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/nharanzazu-Josep-1",
+    "text": "Se sent bastant soroll de el passad\u00eds , per\u00f2 tampoc impedeix dormir tranquil .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el pasillo"
+          ],
+          [
+            "28:38"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Se siendo bastante ruido"
+          ],
+          [
+            "0:24"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el pasillo"
+          ],
+          [
+            "28:38"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "tampoco impidiendo dormir tranquilo"
+          ],
+          [
+            "46:81"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/nharanzazu-Josep-2",
+    "text": "El preu una mica car .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "El precio"
+          ],
+          [
+            "0:9"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "una poco caro"
+          ],
+          [
+            "10:23"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/nharanzazu-Josep-3",
+    "text": "La situaci\u00f3 \u00e9s perfecta .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La situaci\u00f3n"
+          ],
+          [
+            "0:12"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "perfecta"
+          ],
+          [
+            "16:24"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/nharanzazu-Josep-4",
+    "text": "A 1 minut de la platja principal i a 2-3 de la riera on es poc aparcar gratis sense problemes .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "A 1 minuto de la playa"
+          ],
+          [
+            "0:22"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "es poco aparcar gratis"
+          ],
+          [
+            "59:81"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/nharanzazu-Josep-5",
+    "text": "L' habitaci\u00f3 i el bany molt espaiosos .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La habitaci\u00f3n"
+          ],
+          [
+            "0:13"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy espaciosos"
+          ],
+          [
+            "24:38"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el ba\u00f1o"
+          ],
+          [
+            "16:23"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy espaciosos"
+          ],
+          [
+            "24:38"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/cal-marrufa-s-Marion-1",
+    "text": "La banyera de l' estudi , millor un plat de dutxa .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La ba\u00f1era"
+          ],
+          [
+            "0:9"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "mejor uno plato de ducha"
+          ],
+          [
+            "26:50"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/cal-marrufa-s-Marion-2",
+    "text": "Hi han moltes escales .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "escaleras"
+          ],
+          [
+            "14:23"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Hi han muchas"
+          ],
+          [
+            "0:13"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/cal-marrufa-s-Marion-3",
+    "text": "Tot el conjunt en general , la tranquilitat .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/cal-marrufa-s-Marion-4",
+    "text": "Punt d' estada per fer moltes sortides .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "Punto de estancia por hacer muchas salidas"
+          ],
+          [
+            "0:42"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/ciutatdegerona-Emili-1",
+    "text": "Tot ha estar correcte .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Todo"
+          ],
+          [
+            "0:4"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "correcto"
+          ],
+          [
+            "14:22"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/ciutatdegerona-Emili-2",
+    "text": "L ! habitaci\u00f3 i l' atenci\u00f3 a el p\u00fablic",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hospes-villa-paulita-Eivissa-1",
+    "text": "Molt justet , relaci\u00f2 a el preu elevat",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "Muy justet"
+          ],
+          [
+            "0:10"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "relaci\u00f3n a el precio"
+          ],
+          [
+            "13:33"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "elevado"
+          ],
+          [
+            "34:41"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/ciutatdegerona-Pau-1",
+    "text": "M' ha agradat tot molt .",
+    "opinions": [
+      {
+        "Source": [
+          [
+            "Me"
+          ],
+          [
+            "0:2"
+          ]
+        ],
+        "Target": [
+          [
+            "todo"
+          ],
+          [
+            "14:18"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "ha gustado",
+            "muy"
+          ],
+          [
+            "3:13",
+            "19:22"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/ciutatdegerona-Pau-2",
+    "text": "El llit , el bany , el confort , la neteja , el tracte de el personal .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/ciutatdegerona-Pau-3",
+    "text": "Tot",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/novotel-gare-de-lyon-Joan 1-1",
+    "text": "Que la foto de mostra no ha coincidit amb l' apartament assignat .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "la foto de muestra"
+          ],
+          [
+            "4:22"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "no ha coincidido con el apartamento asignado"
+          ],
+          [
+            "23:67"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/novotel-gare-de-lyon-Joan 1-2",
+    "text": "Que la pla\u00e7a d' aparcament no entri en el preu de l' allotjament .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "la plaza de aparcamiento"
+          ],
+          [
+            "4:28"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "no entre en el precio de el alojamiento"
+          ],
+          [
+            "29:68"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/novotel-gare-de-lyon-Joan 1-3",
+    "text": "La situaci\u00f3 molt a prop de el Gugguenheim .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La situaci\u00f3n"
+          ],
+          [
+            "0:12"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy a cerca de el Gugguenheim"
+          ],
+          [
+            "13:42"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/novotel-gare-de-lyon-Joan 1-4",
+    "text": "El tracte molt correcte , les instal\u00b7lacions molt b\u00e9 .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "les instalaciones"
+          ],
+          [
+            "24:41"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy bien"
+          ],
+          [
+            "42:50"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "El trato"
+          ],
+          [
+            "0:8"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy correcto"
+          ],
+          [
+            "9:21"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hispania-Cristina 1-1",
+    "text": "No hi havia secador !",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "secador"
+          ],
+          [
+            "12:19"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "No hi hab\u00eda",
+            "!"
+          ],
+          [
+            "0:11",
+            "20:21"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hispania-Cristina 1-2",
+    "text": "A part una de les recepcionistes va ser una mica antip\u00e0tica .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "una de les recepcionistas"
+          ],
+          [
+            "8:33"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "una poco antip\u00e1tica"
+          ],
+          [
+            "41:60"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hispania-Cristina 1-3",
+    "text": "Habitaci\u00f3 petita .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Habitaci\u00f3n"
+          ],
+          [
+            "0:10"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "peque\u00f1a"
+          ],
+          [
+            "11:18"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hispania-Cristina 1-4",
+    "text": "Si et dutxes m\u00e9s de 5 minuts queda tot ple de fum .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "queda todo pleno de humo"
+          ],
+          [
+            "30:54"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hispania-Cristina 1-5",
+    "text": "Feia caloreta a l' habitaci\u00f3 .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el habitaci\u00f3n"
+          ],
+          [
+            "16:29"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Feia caloreta"
+          ],
+          [
+            "0:13"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hispania-Cristina 1-6",
+    "text": "Molt net tot .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "todo"
+          ],
+          [
+            "9:13"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Muy limp"
+          ],
+          [
+            "0:8"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hispania-Cristina 1-7",
+    "text": "La recepcionista ens va ajudar .",
+    "opinions": [
+      {
+        "Source": [
+          [
+            "ente"
+          ],
+          [
+            "17:21"
+          ]
+        ],
+        "Target": [
+          [
+            "La recepcionista"
+          ],
+          [
+            "0:16"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "va ayudar"
+          ],
+          [
+            "22:31"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hispania-Cristina 1-8",
+    "text": "Molt bona situaci\u00f3 .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "situaci\u00f3n"
+          ],
+          [
+            "10:19"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Muy buena"
+          ],
+          [
+            "0:9"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/subur-Oscar-1",
+    "text": "Amabilitat dls recepcionistes ... i situacio . tranquilitat etc .... lo recomiendo",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "lo recomiendo"
+          ],
+          [
+            "69:82"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "recepcionistas"
+          ],
+          [
+            "15:29"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Amabilidad"
+          ],
+          [
+            "0:10"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/turismo-rural-sant-marc-Joan-1",
+    "text": "Masa calor a l' habitaci\u00f3 Tot b\u00e9 i un entorn molt agradable",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "uno entorno"
+          ],
+          [
+            "39:50"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy agradable"
+          ],
+          [
+            "51:64"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Todo"
+          ],
+          [
+            "27:31"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "bien"
+          ],
+          [
+            "32:36"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "calor"
+          ],
+          [
+            "5:10"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Masa"
+          ],
+          [
+            "0:4"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/la-residencia267-1",
+    "text": "A l' habitaci\u00f3 no hi havia gelera L' habitaci\u00f3 estava a la planta reformada Llit de matrimoni Estava net La dutxa , una passada !",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "gelera"
+          ],
+          [
+            "28:34"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "no hi hab\u00eda"
+          ],
+          [
+            "16:27"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Cama de matrimonio"
+          ],
+          [
+            "78:96"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "limp"
+          ],
+          [
+            "104:108"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La ducha"
+          ],
+          [
+            "109:117"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "una pasada !"
+          ],
+          [
+            "120:132"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La habitaci\u00f3n"
+          ],
+          [
+            "35:48"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "a la planta reformada"
+          ],
+          [
+            "56:77"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/la-residencia267-2",
+    "text": "Hotel f\u00e0cil de trobar , ben situat a l' entrada de el poble Bon aparcament Wi-Fi a l' habitaci\u00f3",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "aparcamiento"
+          ],
+          [
+            "71:83"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Buen"
+          ],
+          [
+            "66:70"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Hotel"
+          ],
+          [
+            "0:5"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "bien situado"
+          ],
+          [
+            "27:39"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Hotel"
+          ],
+          [
+            "0:5"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "f\u00e1cil de encontrar"
+          ],
+          [
+            "6:24"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/ciutatdetarragona-Pere-1",
+    "text": "No estan preparats perque els sords puguin veure la tv .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "la tv"
+          ],
+          [
+            "48:53"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "No est\u00e1n preparats porque los sordos puedan ver"
+          ],
+          [
+            "0:47"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/ciutatdetarragona-Pere-2",
+    "text": "No tenen conexi\u00f3 per auricolars a les tv .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/ciutatdetarragona-Pere-3",
+    "text": "Ni tv .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/ciutatdetarragona-Pere-4",
+    "text": "Subtitulades Nevera bruta .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Nevera"
+          ],
+          [
+            "13:19"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "bruta"
+          ],
+          [
+            "20:25"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/ciutatdetarragona-Pere-5",
+    "text": "El tracte de el personal",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/parada-puigcerda-Xavier-1",
+    "text": "Un de el millors hotels com a comoditat , tranquilitat , la varietat de l' esmor\u00e7ar comoditat de el llit de matrimoni i mides un terraza enorme de la suite el silenci un jardi enorme a 5min de el centre urba",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "a 5min de el centro urba"
+          ],
+          [
+            "192:216"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "hoteles"
+          ],
+          [
+            "18:25"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "tranquilidad"
+          ],
+          [
+            "44:56"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "hoteles"
+          ],
+          [
+            "18:25"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "comodidad"
+          ],
+          [
+            "32:41"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "uno terraza"
+          ],
+          [
+            "132:143"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "enorme"
+          ],
+          [
+            "144:150"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "uno jardi"
+          ],
+          [
+            "175:184"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "enorme"
+          ],
+          [
+            "185:191"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el desayunar"
+          ],
+          [
+            "74:86"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "la variedad"
+          ],
+          [
+            "59:70"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "hoteles"
+          ],
+          [
+            "18:25"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Uno de el mejores"
+          ],
+          [
+            "0:17"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el cama de matrimonio"
+          ],
+          [
+            "100:121"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "comodidad"
+          ],
+          [
+            "87:96"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/galeon-Ramon-1",
+    "text": "Esmorzar molt complert i l horari ampli .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Desayuno"
+          ],
+          [
+            "0:8"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy cumplido"
+          ],
+          [
+            "9:21"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "l horario"
+          ],
+          [
+            "24:33"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "amplio"
+          ],
+          [
+            "34:40"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/galeon-Ramon-2",
+    "text": "Molt bona atenci\u00f3 atents i agradable .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "atentos"
+          ],
+          [
+            "19:26"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "atenci\u00f3n"
+          ],
+          [
+            "10:18"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Muy buena"
+          ],
+          [
+            "0:9"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "agradable"
+          ],
+          [
+            "29:38"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/ciutatdegerona-Josep-1",
+    "text": "Els sofas de la recepcio Tranquilitat Bon tracte Bons consells de el personal",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "trato"
+          ],
+          [
+            "43:48"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Buen"
+          ],
+          [
+            "38:42"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "consejos de el personal"
+          ],
+          [
+            "55:78"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Bonos"
+          ],
+          [
+            "49:54"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/astari-Sergi-1",
+    "text": "La moqueta de la piscina ... Ubicaci\u00f3 , net , piscina i un bon buffet d' esmorzar .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "limp"
+          ],
+          [
+            "41:45"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "uno",
+            "buffet de desayuno"
+          ],
+          [
+            "58:61",
+            "67:85"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "buen"
+          ],
+          [
+            "62:66"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/astari-Sergi-2",
+    "text": "Habitaci\u00f3 triple \u00e0mplia .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Habitaci\u00f3n triple"
+          ],
+          [
+            "0:17"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "amplia"
+          ],
+          [
+            "18:24"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/astari-Sergi-3",
+    "text": "Ambient tranquil .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Ambiente"
+          ],
+          [
+            "0:8"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "tranquilo"
+          ],
+          [
+            "9:18"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/astari-Sergi-4",
+    "text": "F\u00e0cil aparcar relativament aprop gratuitament ( tot i que tenen p\u00e0rking ) .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "aparcar"
+          ],
+          [
+            "6:13"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "relativamente cerca"
+          ],
+          [
+            "14:33"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "aparcar"
+          ],
+          [
+            "6:13"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "F\u00e1cil"
+          ],
+          [
+            "0:5"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "aparcar"
+          ],
+          [
+            "6:13"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "gratuitamente"
+          ],
+          [
+            "34:47"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/nou-estrelles399-1",
+    "text": "Aire condicionat habitaci\u00f3 amb soroll .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Aire condicionado habitaci\u00f3n"
+          ],
+          [
+            "0:28"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "con ruido"
+          ],
+          [
+            "29:38"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/nou-estrelles399-2",
+    "text": "SPA a temperatura incorrecta ( freda ) Hamaques habitaci\u00f3 amb traus a el teixit .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "SPA"
+          ],
+          [
+            "0:3"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "a temperatura incorrecta"
+          ],
+          [
+            "4:28"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "SPA"
+          ],
+          [
+            "0:3"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "fr\u00eda"
+          ],
+          [
+            "31:35"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Hammas habitaci\u00f3n"
+          ],
+          [
+            "38:55"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "con traus a el tejido"
+          ],
+          [
+            "56:77"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/nou-estrelles399-3",
+    "text": "TV de grand\u00e0ria una mica petita .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "TV"
+          ],
+          [
+            "0:2"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "una poco peque\u00f1a"
+          ],
+          [
+            "13:29"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/nou-estrelles399-4",
+    "text": "Cobrament de els entreteniments de el restaurant sense avisar .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Cobro de los entretenimientos de el restaurante"
+          ],
+          [
+            "0:47"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "sin avisar"
+          ],
+          [
+            "48:58"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/nou-estrelles399-5",
+    "text": "Pens\u00e0vem que era un detall de la casa .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/nou-estrelles399-6",
+    "text": "Manca de productes per a cel\u00edacs .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "productos por a cel\u00edacos"
+          ],
+          [
+            "9:33"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Falta"
+          ],
+          [
+            "0:5"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/nou-estrelles399-7",
+    "text": "Entorn molt cuidat .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Entorno"
+          ],
+          [
+            "0:7"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy cuidado"
+          ],
+          [
+            "8:19"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/nou-estrelles399-8",
+    "text": "Restaurant : Qualitat de els plats i ambient .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/nou-estrelles399-9",
+    "text": "Amplitud de les habitacions .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/nou-estrelles399-10",
+    "text": "Tranquil\u00b7litat .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/nou-estrelles399-11",
+    "text": "Amabilitat de el personal .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el personal"
+          ],
+          [
+            "14:25"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Amabilidad"
+          ],
+          [
+            "0:10"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/nou-estrelles399-12",
+    "text": "Buffet d' esmorzar perfecte .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Buffet de desayuno"
+          ],
+          [
+            "0:18"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "perfecto"
+          ],
+          [
+            "19:27"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/apartaments-turistics-puigcerda-Judith-1",
+    "text": "El sof\u00e0_llit molt inc\u00f2mode impossible dormir Molt ampli i ben equipat",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "El sof\u00e1_came"
+          ],
+          [
+            "0:12"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "imposible dormir"
+          ],
+          [
+            "26:42"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "Muy amplio"
+          ],
+          [
+            "43:53"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "El sof\u00e1_came"
+          ],
+          [
+            "0:12"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy inc\u00f3modo"
+          ],
+          [
+            "13:25"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "bien equipado"
+          ],
+          [
+            "56:69"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/es-portal8-1",
+    "text": "No hi ha es destacable per\u00f2 puc fer dos suggeriments : Mirall a cos senser a l' Habitaci\u00f3 .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/es-portal8-2",
+    "text": "L' aigua de la dutxa podria estar millor si assolirs m\u00e9s graus de temperatura .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La agua de la ducha"
+          ],
+          [
+            "0:19"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "podr\u00eda estar mejor"
+          ],
+          [
+            "20:38"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/es-portal8-3",
+    "text": "El tracte , l' esmorzar , l' entorn , les instal\u00b7lacions ( piscina climatitzada oberta totes les hores ) , el llit , el lavabo , els llits de les terrasses de l \u00b4 habitaci\u00f3 .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "piscina"
+          ],
+          [
+            "58:65"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "abierta todas les horas"
+          ],
+          [
+            "78:101"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "piscina"
+          ],
+          [
+            "58:65"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "climatizada"
+          ],
+          [
+            "66:77"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/ultonia-Anonim-1",
+    "text": "Es podria milliorar l' habitaci\u00f3 , que era una mica petita i donava a un pati interior .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el habitaci\u00f3n"
+          ],
+          [
+            "19:32"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Se podr\u00eda miliorar"
+          ],
+          [
+            "0:18"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el habitaci\u00f3n"
+          ],
+          [
+            "19:32"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "daba a uno patio interior"
+          ],
+          [
+            "62:87"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el habitaci\u00f3n"
+          ],
+          [
+            "19:32"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "una poco peque\u00f1a"
+          ],
+          [
+            "43:59"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/ultonia-Anonim-2",
+    "text": "La localitzaci\u00f3 i la qualitat preu .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/octavia356-1",
+    "text": "Costa trobar algo negatiu .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "Costa encontrar algo negativo"
+          ],
+          [
+            "0:29"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/octavia356-2",
+    "text": "Potser les portes les podrien posar de millor qualitat a les habitacions i quan entra canalla jove els haurien de fer callar i portarse be ja que a el arribar uns van fer bastant xivarri El tracte , el lloc en general i la tranquilitat",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "canalla joven los"
+          ],
+          [
+            "88:105"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "habr\u00edan de hacer callar y llevarse be"
+          ],
+          [
+            "106:143"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "les puertas les"
+          ],
+          [
+            "7:22"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "podr\u00edan poner de mejor calidad"
+          ],
+          [
+            "23:53"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/peninsular-Jordi-1",
+    "text": "Manca d' insonoritzaci\u00f3 habitaci\u00f3 , especialment de el carrer Ubicaci\u00f3",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "insonorizaci\u00f3n habitaci\u00f3n"
+          ],
+          [
+            "9:34"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Falta"
+          ],
+          [
+            "0:5"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/subur-Ma-1",
+    "text": "Est\u00e0 situat en plena zona d' ambient nocturn i es fa impossible dormir a la nit fins ben entrada la matinada .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "imposible dormir a la noche"
+          ],
+          [
+            "56:83"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "situado en plena zona de ambiente nocturno"
+          ],
+          [
+            "5:47"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/subur-Ma-2",
+    "text": "Les finestres no a\u00efllen gens ni mica de el soroll exterior .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Les ventanas"
+          ],
+          [
+            "0:12"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "no a\u00edslen genes ni poco"
+          ],
+          [
+            "13:36"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/la-fonda-cadaques119-1",
+    "text": "El fet que no hi hagi ning\u00fa que et pugui atendre a l' hotel a partir de les set de la tarda fins l' endem\u00e0 pot tenir els seus inconvenients si necessites alguna cosa , tens alguna emerg\u00e8ncia o per la pr\u00f2pia seguretat .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "nadie que et pueda atender a el hotel"
+          ],
+          [
+            "24:61"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "pot tener los suyos inconvenientes"
+          ],
+          [
+            "113:147"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "nadie que et pueda atender a el hotel"
+          ],
+          [
+            "24:61"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "no hi haya"
+          ],
+          [
+            "13:23"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/la-fonda-cadaques119-2",
+    "text": "El preu \u00e9s excessiu per el servei i les instal\u00b7lacions que ofereix .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "El precio"
+          ],
+          [
+            "0:9"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "excesivo"
+          ],
+          [
+            "13:21"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/la-fonda-cadaques119-3",
+    "text": "Les vistes de el Cap de Creus i l' entorn de l' hotel .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/cal-marrufa-s-Lleidatana-1",
+    "text": "Feia molta calor i no hi havia aire condicionat .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "aire condicionado"
+          ],
+          [
+            "31:48"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Feia mucha calor"
+          ],
+          [
+            "0:16"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "aire condicionado"
+          ],
+          [
+            "31:48"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "no hi hab\u00eda"
+          ],
+          [
+            "19:30"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/cal-marrufa-s-Lleidatana-2",
+    "text": "L' esmorzar per ser una casa rural podia ser m\u00e9s natural i variat .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La desayuno"
+          ],
+          [
+            "0:11"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "pod\u00eda ser m\u00e1s natural y variado"
+          ],
+          [
+            "35:66"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/cal-marrufa-s-Lleidatana-3",
+    "text": "Sucs prwfabricats El lloc i les instalacions s\u00f3n boniques",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "El puesto"
+          ],
+          [
+            "18:27"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "bonitas"
+          ],
+          [
+            "52:59"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "les instalaciones"
+          ],
+          [
+            "30:47"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "bonitas"
+          ],
+          [
+            "52:59"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Sucs"
+          ],
+          [
+            "0:4"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "prwfabricats"
+          ],
+          [
+            "5:17"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/placa-de-la-font-Marta-1",
+    "text": "el llit doble era petit i molt inc\u00f2mode ben situat",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el cama doble"
+          ],
+          [
+            "0:13"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "peque\u00f1o"
+          ],
+          [
+            "18:25"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el cama doble"
+          ],
+          [
+            "0:13"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "muy inc\u00f3modo"
+          ],
+          [
+            "28:40"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "situado"
+          ],
+          [
+            "46:53"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "bien"
+          ],
+          [
+            "41:45"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hospes-villa-paulita-Gemma-1",
+    "text": "Les parets i portes mal sonoritzaci\u00f3 .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Les paredes"
+          ],
+          [
+            "0:11"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "mal sonorizaci\u00f3n"
+          ],
+          [
+            "22:38"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "puertas"
+          ],
+          [
+            "14:21"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "mal sonorizaci\u00f3n"
+          ],
+          [
+            "22:38"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hospes-villa-paulita-Gemma-2",
+    "text": "Se senten les converses i sorolls de l' entrada , si m\u00e9s no a la planta baixa de l' edifici nou .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "Se sienten les conversaciones y ruidos de el entrada"
+          ],
+          [
+            "0:52"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hospes-villa-paulita-Gemma-3",
+    "text": "P\u00e0rquing 21 Euros-dia .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hospes-villa-paulita-Gemma-4",
+    "text": "Habitaci\u00f3 senzilla decorada amb gust .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Habitaci\u00f3n"
+          ],
+          [
+            "0:10"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "sencilla"
+          ],
+          [
+            "11:19"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Habitaci\u00f3n"
+          ],
+          [
+            "0:10"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "decorado con gusto"
+          ],
+          [
+            "20:38"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/quintessence-Miriam-1",
+    "text": "La porteria i l ' escala . Son poc accesibles quan vas amb nens petits i no posaba res a l ' anunci",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "no posaba nada a l ' anuncio"
+          ],
+          [
+            "82:110"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La porter\u00eda"
+          ],
+          [
+            "0:11"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "poco accesocibles"
+          ],
+          [
+            "31:48"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "l ' escala"
+          ],
+          [
+            "14:24"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "poco accesocibles"
+          ],
+          [
+            "31:48"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hotelcatalunyaexpress-Ruben-1",
+    "text": "No hi ha molt cosa que dir , preu i qualitat m\u00e9s que acceptable .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "precio y calidad"
+          ],
+          [
+            "28:44"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "m\u00e1s que aceptable"
+          ],
+          [
+            "45:62"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hotelcatalunyaexpress-Ruben-2",
+    "text": "Tot en general .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/ciutatdegerona-Miquel-1",
+    "text": "La situaci\u00f3 de l' hotel La amabilitat de el personal",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "el personal"
+          ],
+          [
+            "42:53"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "La amabilidad"
+          ],
+          [
+            "25:38"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/terramar-sitges-Manuel 1-1",
+    "text": "Crec que els cal atendre a detalls que fan l' estada mes confortable .",
+    "opinions": [
+      {
+        "Source": [
+          [
+            "Creo"
+          ],
+          [
+            "0:4"
+          ]
+        ],
+        "Target": [
+          [
+            "detalles que fan el estancia mes confortable"
+          ],
+          [
+            "27:71"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "los cal atender a"
+          ],
+          [
+            "9:26"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/terramar-sitges-Manuel 1-2",
+    "text": "Falta manteniment d' habitaci\u00f3 ( no sortia l' aigua calenta a la dutxa correctament ) - varem avisar .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "mantenimiento de habitaci\u00f3n"
+          ],
+          [
+            "6:33"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Falta"
+          ],
+          [
+            "0:5"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/terramar-sitges-Manuel 1-3",
+    "text": "Cal llum de tauletes no es pot tenir \u00fanicament focus a el sostre .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "luz de tablones"
+          ],
+          [
+            "4:19"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "Cal"
+          ],
+          [
+            "0:3"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/terramar-sitges-Manuel 1-4",
+    "text": "Els radiadors no son graduables .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Els radiadores"
+          ],
+          [
+            "0:14"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "no son graduables"
+          ],
+          [
+            "15:32"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/terramar-sitges-Manuel 1-5",
+    "text": "La ubicaci\u00f3 , la tranquil\u00b7litat , el jardi .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/galeon-Josep 1-1",
+    "text": "Tenir que sortir de el hotel per anar a les habitacions es un anexa , i quant fas la reserva no saps si la habitacio estar en el hotel o es el anexa . quasi tot , estar molt proper de el centre , un gran bufet per esmorza , molt net , i una bona relaci\u00f3 qualitat preu , recomanable .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "la reserva"
+          ],
+          [
+            "82:92"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "no sabes s\u00ed la habitacio estar en el hotel"
+          ],
+          [
+            "93:135"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "bufete por esmorza"
+          ],
+          [
+            "208:226"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "grande"
+          ],
+          [
+            "201:207"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "muy limp"
+          ],
+          [
+            "229:237"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "muy pr\u00f3ximo de el centro"
+          ],
+          [
+            "170:194"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "recomendable"
+          ],
+          [
+            "278:290"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "relaci\u00f3n calidad precio"
+          ],
+          [
+            "252:275"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "buena"
+          ],
+          [
+            "246:251"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hotellosgirasoleszaragoza-Emili 1-1",
+    "text": "Est\u00e0vem a el primer pis I la insonoritzaci\u00f3 de el carrer no \u00e9s bona , com eren festes , tota la nit va haver-hi molt de soroll .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "ruido"
+          ],
+          [
+            "123:128"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "va haber muy"
+          ],
+          [
+            "107:119"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "la insonorizaci\u00f3n"
+          ],
+          [
+            "30:47"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "no es buena"
+          ],
+          [
+            "60:71"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hotellosgirasoleszaragoza-Emili 1-2",
+    "text": "Apartament ample I ben equipat .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Apartamento"
+          ],
+          [
+            "0:11"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "ancho"
+          ],
+          [
+            "12:17"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Apartamento"
+          ],
+          [
+            "0:11"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "bien equipado"
+          ],
+          [
+            "20:33"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hotellosgirasoleszaragoza-Emili 1-3",
+    "text": "P\u00e0rking privat a un preu raonable .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "P\u00e1rking privado"
+          ],
+          [
+            "0:15"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "a uno precio razonable"
+          ],
+          [
+            "16:38"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hotellosgirasoleszaragoza-Emili 1-4",
+    "text": "Prou c\u00e8ntric .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "Basta c\u00e9ntrico"
+          ],
+          [
+            "0:14"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hostal-ria-de-bilbao-Joan 1-1",
+    "text": "Se suposa que no t' has de cremar amb la dutxa .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hostal-ria-de-bilbao-Joan 1-2",
+    "text": "Se suposa que no s' ha de passar fred .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hostal-ria-de-bilbao-Joan 1-3",
+    "text": "Nom\u00e9s hi ha un calefactor mini per el bany i una estufa d' oli electrica de 3 barilles per tot l' apartament .",
+    "opinions": []
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hostal-ria-de-bilbao-Joan 1-4",
+    "text": "El fred va incl\u00f2s en el preu .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "El fr\u00edo va incluido en el precio"
+          ],
+          [
+            "0:32"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/hostal-ria-de-bilbao-Joan 1-5",
+    "text": "La situaci\u00f3 \u00e9s execepcional",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "La situaci\u00f3n"
+          ],
+          [
+            "0:12"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "execepcional"
+          ],
+          [
+            "16:28"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/aparthotel-village-golf-beach8-1",
+    "text": "No m' ha agradat que la habitaci\u00f3 que vam reservar ens fiquessin un llit de matrimoni tot I haver-ho demanat de forma expressa .",
+    "opinions": [
+      {
+        "Source": [
+          [
+            "me"
+          ],
+          [
+            "3:5"
+          ]
+        ],
+        "Target": [
+          [
+            "uno cama de matrimonio"
+          ],
+          [
+            "69:91"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "No",
+            "ha gustado"
+          ],
+          [
+            "0:2",
+            "6:16"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/aparthotel-village-golf-beach8-2",
+    "text": "Van viatjar a Cadaqu\u00e9s I a aquest hotel per celebrar el nostre 6e aniversari de bodes I vam tenir que dormir en llits separats .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [],
+          []
+        ],
+        "Polar_expression": [
+          [
+            "vamos tener que dormir en camas separados"
+          ],
+          [
+            "87:128"
+          ]
+        ],
+        "Polarity": "Negative",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/aparthotel-village-golf-beach8-3",
+    "text": "Zona de pk privat gratu\u00eft a la vora de l' hotel .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Zona de pk privado"
+          ],
+          [
+            "0:18"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "gratuito"
+          ],
+          [
+            "19:27"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/aparthotel-village-golf-beach8-4",
+    "text": "Les habitacions netes I amples .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Les habitaciones"
+          ],
+          [
+            "0:16"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "netas"
+          ],
+          [
+            "17:22"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Les habitaciones"
+          ],
+          [
+            "0:16"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "anchos"
+          ],
+          [
+            "25:31"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  },
+  {
+    "sent_id": "multibooked/corpora/ca/aparthotel-village-golf-beach8-5",
+    "text": "Decoraci\u00f3 genial I original , materials gens deteriorats .",
+    "opinions": [
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Decoraci\u00f3n"
+          ],
+          [
+            "0:10"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "genial"
+          ],
+          [
+            "11:17"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "materiales"
+          ],
+          [
+            "31:41"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "genes deteriorados"
+          ],
+          [
+            "42:60"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      },
+      {
+        "Source": [
+          [],
+          []
+        ],
+        "Target": [
+          [
+            "Decoraci\u00f3n"
+          ],
+          [
+            "0:10"
+          ]
+        ],
+        "Polar_expression": [
+          [
+            "original"
+          ],
+          [
+            "20:28"
+          ]
+        ],
+        "Polarity": "Positive",
+        "Intensity": "Standard"
+      }
+    ]
+  }
+]
