@@ -1,11 +1,14 @@
 # Corpus translator
 
+![build](https://img.shields.io/badge/build-passing-brightgreen) ![license](https://img.shields.io/badge/license-MIT-brightgreen) ![python](https://img.shields.io/badge/python-3.8%2B-blue) ![platform](https://img.shields.io/badge/platform-linux--64%20%7C%20win--64-lightgrey)
+
 Table of contents.
 
 1. [Summary](#summary)
-2. [How to use](#how-to-use)
-3. [Examples](#examples)
-4. [Licensing agreement](#licensing-agreement)
+2. [Project Structure](#project-structure)
+3. [How to use](#how-to-use)
+4. [Examples](#examples)
+5. [Licensing agreement](#licensing-agreement)
 
 ## Summary
 
