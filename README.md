@@ -8,7 +8,8 @@ Table of contents.
 2. [Project Structure](#project-structure)
 3. [How to use](#how-to-use)
 4. [Examples](#examples)
-5. [Licensing agreement](#licensing-agreement)
+5. [Acknowledgements](#acknowledgements)
+6. [Licensing agreement](#licensing-agreement)
 
 ## Summary
 
@@ -115,6 +116,16 @@ Run the script again.
 
 - **input**: Path of the *CoNLL-U* file to translate. For example: `path/to/file.conllu`
 - **output**: Directory where the translated *CoNLL-U* file shall be created. For example: `path/where/to/save/the/translation/`
+
+## Acknowledgements
+
+This work is supported by a 2020 Leonardo Grant for Researchers and Cultural Creators from the FBBVA<sup id="fbbva">[1](#FBBVA)</sup>. The
+work is also supported by the European Research Council (FASTPARSE, grant agreement No 714150), by ERDF/MICINN-AEI (SCANNER-UDC,
+PID2020-113230RB-C21), by Xunta de Galicia (ED431C 2020/11), and by Centro de Investigación de Galicia ‘‘CITIC’’ which is funded by Xunta de
+Galicia, Spain and the European Union (ERDF - Galicia 2014–2020 Program), by grant ED431G 2019/01.
+
+<b id="fbbva">1:</b> FBBVA accepts no responsibility for the opinions, statements and contents included in the project and/or the results
+thereof, which are entirely the responsibility of the authors. [↩](#FBBVA)
 
 ## Licensing agreement
 
