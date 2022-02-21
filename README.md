@@ -29,6 +29,20 @@ In this section you can have a quick view of the project structure.
 ├── README.md
 ├── requirements.txt
 └── translations
+    ├── mpqa
+    │   └── head_final
+    │       ├── dev-en-ca.conllu
+    │       ├── dev-en-ca.json
+    │       ├── dev-en-es.conllu
+    │       ├── dev-en-es.json
+    │       ├── dev-en-eu.conllu
+    │       ├── dev-en-eu.json
+    │       ├── train-en-ca.conllu
+    │       ├── train-en-ca.json
+    │       ├── train-en-es.conllu
+    │       ├── train-en-es.json
+    │       ├── train-en-eu.conllu
+    │       └── train-en-eu.json
     ├── multibooked_ca
     │   └── head_final
     │       ├── dev-ca-es.conllu
@@ -50,7 +64,7 @@ In this section you can have a quick view of the project structure.
 ```
 
 The `translations` folder contains some translated files used in the cross-lingual subtask
-of [SemEval-2022 Shared Task 10: Structured Sentiment Analysis][1]
+of [SemEval-2022 Shared Task 10: Structured Sentiment Analysis][1].
 
 [1]: https://github.com/jerbarnes/semeval22_structured_sentiment
 
