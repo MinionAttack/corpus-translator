@@ -1,0 +1,4137 @@
+# sent_id = opener_es/kaf/hotel/spanish00072_4d6a6a1f0849595749b4c8e149244b6c-4
+# text = El ascensor para entre dos plantas , por lo que tienes que bajar o subir por las escaleras para llegar a la habitacion .
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ|2:targ
+2	igogailua	igogailua	NOUN	_	_	0	root	_	_	6:targ|23:targ
+3	para	para	ADP	_	_	6	case	_	_	6:exp-Negative
+4	tartean	tartean	ADP	_	_	6	case	_	_	6:exp-Negative
+5	bikoa	bikoa	NUM	_	_	6	nummod	_	_	6:exp-Negative
+6	landareak	landarea	NOUN	_	_	2	nmod	_	_	0:exp-Negative
+7	,	,	PUNCT	_	_	11	punct	_	_	_
+8	por	por	ADP	_	_	11	mark	_	_	_
+9	eta	bera	PRON	_	_	13	det	_	_	_
+10	hau	hau	PRON	_	_	13	obl	_	_	_
+11	baduzu	eduki	VERB	_	_	2	acl	_	_	23:exp-Negative
+12	hau	hau	SCONJ	_	_	13	cc	_	_	23:exp-Negative
+13	jaitsi	jaitsi	VERB	_	_	11	conj	_	_	23:exp-Negative
+14	edo	edo	CCONJ	_	_	15	cc	_	_	23:exp-Negative
+15	igo	igo	VERB	_	_	13	conj	_	_	23:exp-Negative
+16	por	por	ADP	_	_	18	case	_	_	23:exp-Negative
+17	laborantza	bat	DET	_	_	18	det	_	_	23:exp-Negative
+18	eskailerak	eskailera	NOUN	_	_	13	obl	_	_	23:exp-Negative
+19	para	para	ADP	_	_	20	mark	_	_	23:exp-Negative
+20	iritsi	iritsi	VERB	_	_	13	advcl	_	_	23:exp-Negative
+21	a	a	ADP	_	_	23	case	_	_	23:exp-Negative
+22	la	bat	DET	_	_	23	det	_	_	23:exp-Negative
+23	bizilekua	bizilekua	NOUN	_	_	20	obl	_	_	0:exp-Negative
+24	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00072_4d6a6a1f0849595749b4c8e149244b6c-5
+# text = A nosotros nos cobraron de mas del precio acordado.Y sobre todo en la habitaciones HAY PULGAS .
+1	A	a	ADP	_	_	2	case	_	_	_
+2	gu	ni	PRON	_	_	4	obj	_	_	6:holder
+3	igual	ni	PRON	_	_	4	obj	_	_	_
+4	cobraron	kobratu	VERB	_	_	0	root	_	_	6:exp-Negative
+5	de	de	ADP	_	_	6	case	_	_	6:exp-Negative
+6	gehiago	gehiago	NOUN	_	_	4	obl	_	_	0:exp-Negative
+7	honengandik	honengandik	ADP	_	_	8	case	_	_	_
+8	prezioa	prezioa	NOUN	_	_	6	nmod	_	_	9:targ
+9	erabakita. Eta	erabakita. Eta	ADJ	_	_	8	amod	_	_	6:targ
+10	sobre	sobre	ADP	_	_	15	advmod	_	_	_
+11	guztiak	guztiak	PRON	_	_	10	fixed	_	_	_
+12	n	n	ADP	_	_	14	case	_	_	_
+13	la	bat	DET	_	_	14	det	_	_	_
+14	logelak	gela	NOUN	_	_	10	nmod	_	_	_
+15	DAY	izana	AUX	_	_	4	conj	_	_	0:exp-Negative
+16	PULGAS	PULGAS	PROPN	_	_	15	obj	_	_	15:targ
+17	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00072_4d6a6a1f0849595749b4c8e149244b6c-6
+# text = Mi señora tuvo que ir a urgencias pues es alergica a las mismas , .,
+1	Nirea	nirea	DET	_	_	2	det	_	_	_
+2	anderea	anderea	NOUN	_	_	5	nsubj	_	_	_
+3	tuvo	eduki	VERB	_	_	0	root	_	_	_
+4	hau	hau	SCONJ	_	_	5	cc	_	_	_
+5	joan	joan	VERB	_	_	3	conj	_	_	_
+6	a	a	ADP	_	_	7	case	_	_	_
+7	larrialdiak	urgentzia	NOUN	_	_	5	obl	_	_	_
+8	zeren	zeren	SCONJ	_	_	10	mark	_	_	_
+9	es	izatea	AUX	_	_	10	cop	_	_	_
+10	alergia	alergikoa	ADJ	_	_	5	advcl	_	_	_
+11	a	a	ADP	_	_	12	case	_	_	_
+12	laborantza	bat	DET	_	_	10	det	_	_	_
+13	berdinak	berdina	DET	_	_	12	compound	_	_	_
+14	,	,	PUNCT	_	_	3	punct	_	_	_
+15	.,	.,	INTJ	_	_	12	dep	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00226_fc303a5ce8960bb04c67c9cf18a5dbbc-1
+# text = Calidad a buen precio
+1	Kalitatea	kalitatea	NOUN	_	_	0	root	_	_	4:targ
+2	a	a	ADP	_	_	4	case	_	_	4:exp-Positive
+3	ona	ona	ADJ	_	_	4	amod	_	_	4:exp-Positive
+4	prezioa	prezioa	NOUN	_	_	1	nmod	_	_	0:exp-Positive
+
+# sent_id = opener_es/kaf/hotel/spanish00226_fc303a5ce8960bb04c67c9cf18a5dbbc-2
+# text = Quería salir de la ciudad para buscar algo tranquilo con mi pareja y lo encontré .
+1	Quería	querer	VERB	_	_	0	root	_	_	_
+2	irten	irten	VERB	_	_	1	xcomp	_	_	_
+3	de	de	ADP	_	_	5	case	_	_	_
+4	la	bat	DET	_	_	5	det	_	_	_
+5	hiria	hiria	NOUN	_	_	2	obl	_	_	_
+6	para	para	ADP	_	_	7	mark	_	_	_
+7	bilatu	bilatu	VERB	_	_	2	advcl	_	_	_
+8	zerbait	zerbait	PRON	_	_	7	obj	_	_	_
+9	lasaia	lasaia	ADJ	_	_	8	amod	_	_	_
+10	honekin	honekin	ADP	_	_	12	case	_	_	_
+11	nirea	nirea	DET	_	_	12	det	_	_	_
+12	bikote	bikote	NOUN	_	_	7	obl	_	_	_
+13	y	y	CCONJ	_	_	15	cc	_	_	_
+14	eta	bera	PRON	_	_	15	obj	_	_	_
+15	encontré	aurkitu	VERB	_	_	1	conj	_	_	_
+16	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00226_fc303a5ce8960bb04c67c9cf18a5dbbc-3
+# text = Un complejo para nada masificado en el que el servicio es de lo mejor .
+1	Bat	bat	DET	_	_	2	det	_	_	2:targ
+2	konplexua	konplexua	NOUN	_	_	0	root	_	_	5:targ
+3	para	para	ADP	_	_	4	case	_	_	5:exp-Positive
+4	nada	nada	PRON	_	_	2	nmod	_	_	5:exp-Positive
+5	masifikatua	masifikatua	ADJ	_	_	4	amod	_	_	0:exp-Positive
+6	n	n	ADP	_	_	8	case	_	_	_
+7	bat	bat	DET	_	_	8	det	_	_	_
+8	hau	hau	PRON	_	_	14	obl	_	_	_
+9	bat	bat	DET	_	_	10	det	_	_	10:targ
+10	zerbitzua	zerbitzua	NOUN	_	_	14	nsubj	_	_	14:targ
+11	es	izatea	AUX	_	_	14	cop	_	_	_
+12	de	de	ADP	_	_	14	case	_	_	14:exp-Positive
+13	eta	bera	PRON	_	_	14	det	_	_	14:exp-Positive
+14	hobea	hobea	ADJ	_	_	2	acl	_	_	0:exp-Positive
+15	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00226_fc303a5ce8960bb04c67c9cf18a5dbbc-4
+# text = Las instalaciones están muy bien y las vistas son geniales .
+1	Horiek	bat	DET	_	_	2	det	_	_	2:targ
+2	instalazioak	instalazioa	NOUN	_	_	5	nsubj	_	_	5:targ
+3	están	estar	AUX	_	_	5	cop	_	_	_
+4	oso	asko	ADV	_	_	5	advmod	_	_	5:exp-Positive
+5	ongi	ongi	ADV	_	_	0	root	_	_	0:exp-Positive
+6	y	y	CCONJ	_	_	10	cc	_	_	_
+7	laborantza	bat	DET	_	_	8	det	_	_	8:targ
+8	ikuspegia	ikuspegia	NOUN	_	_	10	nsubj	_	_	10:targ
+9	direnak	izatea	AUX	_	_	10	cop	_	_	_
+10	apartak	genial	ADJ	_	_	5	conj	_	_	0:exp-Positive
+11	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00226_fc303a5ce8960bb04c67c9cf18a5dbbc-5
+# text = Quizás algo incómoda la cama , pero nada que estropee la estancia .
+1	Agian	agian	ADV	_	_	2	advmod	_	_	_
+2	zerbait	zerbait	PRON	_	_	0	root	_	_	3:exp-Negative
+3	deserosoa	deserosoa	ADJ	_	_	2	amod	_	_	0:exp-Negative
+4	la	bat	DET	_	_	5	det	_	_	5:targ
+5	ohea	ohea	NOUN	_	_	2	appos	_	_	3:targ
+6	,	,	PUNCT	_	_	8	punct	_	_	_
+7	baina	baina	CCONJ	_	_	8	cc	_	_	_
+8	nada	nada	PRON	_	_	2	conj	_	_	_
+9	hau	hau	PRON	_	_	10	nsubj	_	_	_
+10	estropee	hondatu	VERB	_	_	8	acl	_	_	_
+11	la	bat	DET	_	_	12	det	_	_	_
+12	egonaldia	egonaldia	NOUN	_	_	10	obj	_	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00126_9a8f07f91d0950d0b4db61313579030e-1
+# text = Un servicio ejemplar
+1	Bat	bat	DET	_	_	2	det	_	_	2:targ
+2	zerbitzua	zerbitzua	NOUN	_	_	0	root	_	_	3:targ
+3	eredugarria	eredugarria	ADJ	_	_	2	amod	_	_	0:exp-Positive
+
+# sent_id = opener_es/kaf/hotel/spanish00126_9a8f07f91d0950d0b4db61313579030e-2
+# text = Fue una experiencia muy buena con el servicio , la verdad es que quede muy satisfecho , no pase mucho tiempo ya que solo estube dos noches en el , pero como ya he dicho a parte del servicio muy bueno las instalaciones tambien lo eran
+1	Fue	izatea	AUX	_	_	3	cop	_	_	_
+2	bat	bat	DET	_	_	3	det	_	_	3:targ
+3	esperientzia	esperientzia	NOUN	_	_	0	root	_	_	8:targ
+4	oso	asko	ADV	_	_	5	advmod	_	_	8:exp-Positive
+5	ona	ona	ADJ	_	_	3	amod	_	_	8:exp-Positive
+6	honekin	honekin	ADP	_	_	8	case	_	_	8:exp-Positive
+7	bat	bat	DET	_	_	8	det	_	_	8:exp-Positive
+8	zerbitzua	zerbitzua	NOUN	_	_	3	nmod	_	_	0:exp-Positive
+9	,	,	PUNCT	_	_	3	punct	_	_	_
+10	la	bat	DET	_	_	11	det	_	_	_
+11	egia	egia	NOUN	_	_	12	nsubj	_	_	_
+12	es	izatea	AUX	_	_	3	advcl	_	_	_
+13	hau	hau	SCONJ	_	_	14	mark	_	_	_
+14	gelditu	gelditu	VERB	_	_	12	ccomp	_	_	16:exp-Positive
+15	oso	asko	ADV	_	_	16	advmod	_	_	16:exp-Positive
+16	asea	asea	ADJ	_	_	14	obj	_	_	0:exp-Positive
+17	,	,	PUNCT	_	_	19	punct	_	_	_
+18	ez	ez	ADV	_	_	19	advmod	_	_	_
+19	pasa	pasatu	VERB	_	_	12	advcl	_	_	_
+20	asko	asko	DET	_	_	21	det	_	_	_
+21	denbora	denbora	NOUN	_	_	19	nsubj	_	_	_
+22	dagoeneko	dagoeneko	ADV	_	_	25	mark	_	_	_
+23	hau	hau	SCONJ	_	_	22	fixed	_	_	_
+24	bakarrik	bakarrik	NOUN	_	_	22	fixed	_	_	_
+25	iztube	eskolatu	VERB	_	_	19	advcl	_	_	_
+26	bikoa	bikoa	NUM	_	_	27	nummod	_	_	_
+27	gauak	gaua	NOUN	_	_	25	obl	_	_	_
+28	n	n	ADP	_	_	25	advmod	_	_	_
+29	bat	bat	DET	_	_	28	fixed	_	_	_
+30	,	,	PUNCT	_	_	35	punct	_	_	_
+31	baina	baina	CCONJ	_	_	44	cc	_	_	_
+32	honela	honela	SCONJ	_	_	35	mark	_	_	_
+33	dagoeneko	dagoeneko	ADV	_	_	35	advmod	_	_	_
+34	he	izana	AUX	_	_	35	aux	_	_	_
+35	esana	esan	VERB	_	_	44	advcl	_	_	_
+36	a	a	ADP	_	_	39	case	_	_	_
+37	zatia	zatia	NOUN	_	_	36	fixed	_	_	_
+38	honengandik	honengandik	ADP	_	_	36	fixed	_	_	_
+39	zerbitzua	zerbitzua	NOUN	_	_	35	obl	_	_	41:targ
+40	oso	asko	ADV	_	_	41	advmod	_	_	41:exp-Positive
+41	on	ona	ADJ	_	_	39	amod	_	_	0:exp-Positive
+42	laborantza	bat	DET	_	_	43	det	_	_	43:targ
+43	instalazioak	instalazioa	NOUN	_	_	44	nsubj	_	_	44:targ
+44	tambien	tambien	VERB	_	_	25	conj	_	_	0:exp-Positive
+45	eta	bera	PRON	_	_	44	obj	_	_	_
+46	eran	izatea	AUX	_	_	3	conj	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00069_6906d80709477608cc33f773d3a2fd74-1
+# text = Bienn
+1	Bienn	on	INTJ	_	_	0	root	_	_	0:exp-Positive
+
+# sent_id = opener_es/kaf/hotel/spanish00069_6906d80709477608cc33f773d3a2fd74-2
+# text = esta es una de las mejores vacasiones que ice ademas esta super bien y ni hay nada de malo .
+1	hau	hau	PRON	_	_	3	nsubj	_	_	_
+2	es	izatea	AUX	_	_	3	cop	_	_	_
+3	bat	bat	PRON	_	_	0	root	_	_	6:exp-Positive
+4	de	de	ADP	_	_	7	case	_	_	6:exp-Positive
+5	laborantza	bat	DET	_	_	7	det	_	_	6:exp-Positive
+6	hobeak	hobea	ADJ	_	_	7	amod	_	_	0:exp-Positive
+7	behiak	behiak	NOUN	_	_	3	nmod	_	_	6:targ
+8	hau	hau	PRON	_	_	9	nsubj	_	_	_
+9	ice	icer	VERB	_	_	7	acl	_	_	_
+10	ademak	adamar	VERB	_	_	3	advcl	_	_	_
+11	hau	hau	DET	_	_	12	det	_	_	13:exp-Positive
+12	super	super	NOUN	_	_	10	obj	_	_	13:exp-Positive
+13	ongi	ongi	ADV	_	_	10	advmod	_	_	0:exp-Positive
+14	y	y	CCONJ	_	_	16	cc	_	_	17:exp-Positive
+15	ni	ni	CCONJ	_	_	16	cc	_	_	17:exp-Positive
+16	bada	izana	AUX	_	_	10	conj	_	_	17:exp-Positive
+17	nada	nada	PRON	_	_	16	obj	_	_	0:exp-Positive
+18	de	de	ADP	_	_	19	case	_	_	_
+19	txarra	txarra	ADJ	_	_	17	amod	_	_	17:targ
+20	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00069_6906d80709477608cc33f773d3a2fd74-3
+# text = os la la recomiendo a todas las personas q se pasen por la ciudad es grande y muy calida bueno espero aver ayudado
+1	oSA	zu	PRON	_	_	4	iobj	_	_	_
+2	la	bera	PRON	_	_	4	obj	_	_	_
+3	la	bera	PRON	_	_	4	obj	_	_	4:targ
+4	gomendioa	recommer	VERB	_	_	0	root	_	_	0:exp-Positive
+5	a	a	ADP	_	_	8	case	_	_	_
+6	guztiak	guztiak	DET	_	_	7	det	_	_	_
+7	laborantza	bat	DET	_	_	8	det	_	_	_
+8	pertsona	pertsona	NOUN	_	_	4	iobj	_	_	_
+9	q	q	PRON	_	_	11	nsubj	_	_	_
+10	se	bera	PRON	_	_	11	obj	_	_	_
+11	sartu	pasatu	VERB	_	_	8	acl	_	_	_
+12	por	por	ADP	_	_	14	case	_	_	_
+13	la	bat	DET	_	_	14	det	_	_	_
+14	hiria	hiria	NOUN	_	_	11	obl	_	_	_
+15	es	izatea	AUX	_	_	16	cop	_	_	16:exp-Positive
+16	handia	handia	ADJ	_	_	4	advcl	_	_	0:exp-Positive
+17	y	y	CCONJ	_	_	19	cc	_	_	_
+18	oso	asko	ADV	_	_	19	advmod	_	_	19:exp-Positive
+19	kalida	kalidatua	ADJ	_	_	16	conj	_	_	0:exp-Positive
+20	on	ona	ADJ	_	_	19	amod	_	_	_
+21	espero	itxaron	VERB	_	_	16	conj	_	_	_
+22	aver	aver	PRON	_	_	21	obj	_	_	_
+23	ayudado	ayudado	ADJ	_	_	22	amod	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00112_a1a0a5a9162ea6806e7b2aa61845b53b-1
+# text = Una buena combinación
+1	Bat	bat	DET	_	_	3	det	_	_	_
+2	ona	ona	ADJ	_	_	3	amod	_	_	0:exp-Positive
+3	konbinazioa	konbinazioa	NOUN	_	_	0	root	_	_	2:targ
+
+# sent_id = opener_es/kaf/hotel/spanish00112_a1a0a5a9162ea6806e7b2aa61845b53b-2
+# text = La infraestructura es muy buena , cuenta con todas las comodidades para quienes viajan con niños , la pileta es grande y muy limpia , las habitaciones muy completas y cómodas , y la playa nos encantó , si bien el mar es picado , es amplia con mucha arena y el sector sombrillas muy confortable .
+1	La	bat	DET	_	_	2	det	_	_	2:targ
+2	azpiegitura	azpiegitura	NOUN	_	_	5	nsubj	_	_	5:targ
+3	es	izatea	AUX	_	_	5	cop	_	_	_
+4	oso	asko	ADV	_	_	5	advmod	_	_	5:exp-Positive
+5	ona	ona	ADJ	_	_	0	root	_	_	0:exp-Positive
+6	,	,	PUNCT	_	_	7	punct	_	_	_
+7	kontua	kontatu	VERB	_	_	5	advcl	_	_	8:exp-Positive
+8	honekin	honekin	ADP	_	_	11	case	_	_	0:exp-Positive
+9	guztiak	guztiak	DET	_	_	10	det	_	_	16:targ
+10	laborantza	bat	DET	_	_	11	det	_	_	16:targ
+11	erosotasunak	erosotasuna	NOUN	_	_	7	obj	_	_	16:targ
+12	para	para	ADP	_	_	14	mark	_	_	16:targ
+13	nork	nor	PRON	_	_	14	nsubj	_	_	16:targ
+14	bidaiatu	bidaiatzea	VERB	_	_	11	acl	_	_	16:targ
+15	honekin	honekin	ADP	_	_	16	case	_	_	16:targ
+16	haurrak	haurra	NOUN	_	_	14	obl	_	_	8:targ
+17	,	,	PUNCT	_	_	21	punct	_	_	_
+18	la	bat	DET	_	_	19	det	_	_	19:targ|19:targ
+19	pilota	pilota	NOUN	_	_	21	nsubj	_	_	24:targ|21:targ
+20	es	izatea	AUX	_	_	21	cop	_	_	21:exp-Positive
+21	handia	handia	ADJ	_	_	5	advcl	_	_	0:exp-Positive
+22	y	y	CCONJ	_	_	24	cc	_	_	_
+23	oso	asko	ADV	_	_	24	advmod	_	_	24:exp-Positive
+24	garbia	garbia	ADJ	_	_	21	conj	_	_	0:exp-Positive
+25	,	,	PUNCT	_	_	27	punct	_	_	_
+26	laborantza	bat	DET	_	_	27	det	_	_	27:targ|27:targ
+27	logelak	gela	NOUN	_	_	21	obj	_	_	29:targ|31:targ
+28	oso	asko	ADV	_	_	29	advmod	_	_	29:exp-Positive
+29	osoak	osoa	ADJ	_	_	27	amod	_	_	0:exp-Positive
+30	y	y	CCONJ	_	_	31	cc	_	_	_
+31	komodak	erosoa	ADJ	_	_	29	conj	_	_	0:exp-Positive
+32	,	,	PUNCT	_	_	37	punct	_	_	_
+33	y	y	CCONJ	_	_	37	cc	_	_	_
+34	la	bat	DET	_	_	35	det	_	_	35:targ|35:targ|35:targ
+35	hondartza	hondartza	NOUN	_	_	37	nsubj	_	_	44:targ|47:targ|37:targ
+36	igual	ni	PRON	_	_	37	obj	_	_	44:holder|47:holder|37:holder
+37	encantó	gozagarria	VERB	_	_	5	conj	_	_	0:exp-Positive
+38	,	,	PUNCT	_	_	47	punct	_	_	_
+39	bai	bai	SCONJ	_	_	44	mark	_	_	44:exp-Negative
+40	ongi	ongi	ADV	_	_	39	fixed	_	_	44:exp-Negative
+41	bat	bat	DET	_	_	42	det	_	_	44:exp-Negative
+42	itsasoa	itsasoa	NOUN	_	_	44	nsubj	_	_	44:exp-Negative
+43	es	izatea	AUX	_	_	44	aux	_	_	44:exp-Negative
+44	pika	pika	VERB	_	_	47	advcl	_	_	0:exp-Negative
+45	,	,	PUNCT	_	_	44	punct	_	_	_
+46	es	izatea	AUX	_	_	47	cop	_	_	_
+47	handia	handia	ADJ	_	_	37	advcl	_	_	0:exp-Positive
+48	honekin	honekin	ADP	_	_	50	case	_	_	49:exp-Positive
+49	asko	asko	DET	_	_	50	det	_	_	0:exp-Positive
+50	hondarra	hondarra	NOUN	_	_	47	nmod	_	_	49:targ
+51	y	y	CCONJ	_	_	53	cc	_	_	_
+52	bat	bat	DET	_	_	53	det	_	_	54:targ
+53	sektorea	sektorea	NOUN	_	_	50	conj	_	_	54:targ
+54	eguzkitakoak	euritakoak	NOUN	_	_	50	appos	_	_	56:targ
+55	oso	asko	ADV	_	_	56	advmod	_	_	56:exp-Positive
+56	erosoa	erosoa	ADJ	_	_	54	amod	_	_	0:exp-Positive
+57	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00112_a1a0a5a9162ea6806e7b2aa61845b53b-3
+# text = La comida es bastante básica , los restaurants temáticos no son lo que uno imagina , son muy estructurados respecto a las mesas y no entienden el idioma , lo cual suele ser algo molesto .
+1	La	bat	DET	_	_	2	det	_	_	2:targ
+2	janaria	janaria	NOUN	_	_	5	nsubj	_	_	5:targ
+3	es	izatea	AUX	_	_	5	cop	_	_	5:exp-Negative
+4	nahikoa	nahikoa	ADV	_	_	5	advmod	_	_	5:exp-Negative
+5	oinarrizkoa	oinarrizkoa	ADJ	_	_	0	root	_	_	0:exp-Negative
+6	,	,	PUNCT	_	_	11	punct	_	_	_
+7	eta	bat	DET	_	_	8	det	_	_	9:targ|9:targ|9:targ
+8	jatetxeak	jatetxea	NOUN	_	_	11	nsubj	_	_	9:targ|9:targ|9:targ
+9	gaiak	gaimatikoa	ADJ	_	_	8	amod	_	_	15:targ|28:targ|23:targ
+10	ez	ez	ADV	_	_	11	advmod	_	_	15:exp-Negative
+11	direnak	izatea	AUX	_	_	5	advcl	_	_	15:exp-Negative
+12	eta	bera	PRON	_	_	15	det	_	_	15:exp-Negative
+13	hau	hau	PRON	_	_	15	obj	_	_	15:exp-Negative
+14	bat	bat	PRON	_	_	15	nsubj	_	_	15:exp-Negative
+15	imagina	imajina	VERB	_	_	11	ccomp	_	_	0:exp-Negative
+16	,	,	PUNCT	_	_	19	punct	_	_	_
+17	direnak	izatea	AUX	_	_	19	cop	_	_	_
+18	oso	asko	ADV	_	_	19	advmod	_	_	23:exp-Negative
+19	egituratuak	egituratua	ADJ	_	_	11	advcl	_	_	23:exp-Negative
+20	respecto	respecto	NOUN	_	_	23	case	_	_	23:exp-Negative
+21	a	a	ADP	_	_	20	fixed	_	_	23:exp-Negative
+22	laborantza	bat	DET	_	_	23	det	_	_	23:exp-Negative
+23	mahaiak	mahaia	NOUN	_	_	19	obl	_	_	0:exp-Negative
+24	y	y	CCONJ	_	_	26	cc	_	_	_
+25	ez	ez	ADV	_	_	26	advmod	_	_	28:exp-Negative
+26	entienden	ulertzea	VERB	_	_	19	conj	_	_	28:exp-Negative
+27	bat	bat	DET	_	_	28	det	_	_	28:exp-Negative
+28	hizkuntza	hizkuntza	NOUN	_	_	26	obj	_	_	0:exp-Negative
+29	,	,	PUNCT	_	_	32	punct	_	_	_
+30	eta	bera	PRON	_	_	32	det	_	_	31:targ
+31	nor	nor	PRON	_	_	32	nsubj	_	_	35:targ
+32	gehienetan	solerra	VERB	_	_	26	advcl	_	_	35:exp-Negative
+33	izatea	izatea	AUX	_	_	34	cop	_	_	35:exp-Negative
+34	zerbait	zerbait	PRON	_	_	32	xcomp	_	_	35:exp-Negative
+35	gogaituta	gogaituta	ADJ	_	_	34	amod	_	_	0:exp-Negative
+36	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00112_a1a0a5a9162ea6806e7b2aa61845b53b-4
+# text = Es apto para bebes , ya que cuenta con un cuarto con todos los servicios que se pueden necesitar .
+1	Es	izatea	AUX	_	_	2	cop	_	_	4:exp-Positive
+2	gai	gai	ADJ	_	_	0	root	_	_	4:exp-Positive
+3	para	para	ADP	_	_	4	case	_	_	4:exp-Positive
+4	haurrak	edan	NOUN	_	_	2	nmod	_	_	0:exp-Positive
+5	,	,	PUNCT	_	_	8	punct	_	_	_
+6	dagoeneko	dagoeneko	ADV	_	_	8	mark	_	_	_
+7	hau	hau	SCONJ	_	_	6	fixed	_	_	_
+8	kontua	kontatu	VERB	_	_	2	advcl	_	_	9:exp-Positive
+9	honekin	honekin	ADP	_	_	11	case	_	_	0:exp-Positive
+10	bat	bat	DET	_	_	11	det	_	_	19:targ
+11	laugarrena	laugarrena	NOUN	_	_	8	obj	_	_	19:targ
+12	honekin	honekin	ADP	_	_	15	case	_	_	19:targ
+13	guztiak	guztiak	DET	_	_	14	det	_	_	19:targ
+14	eta	bat	DET	_	_	15	det	_	_	19:targ
+15	zerbitzuak	zerbitzua	NOUN	_	_	11	nmod	_	_	19:targ
+16	hau	hau	PRON	_	_	19	nsubj	_	_	19:targ
+17	se	bera	PRON	_	_	19	obj	_	_	19:targ
+18	pueden	boterea	AUX	_	_	19	aux	_	_	19:targ
+19	beharrezkoa	beharrezkoa	VERB	_	_	15	acl	_	_	9:targ
+20	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00112_a1a0a5a9162ea6806e7b2aa61845b53b-5
+# text = Te brindan toallas en ambos sectores , pileta y playa .
+1	Te	zu	PRON	_	_	2	obj	_	_	2:exp-Positive
+2	topa	topa	VERB	_	_	0	root	_	_	0:exp-Positive
+3	eskuoihalak	toaila	NOUN	_	_	2	nsubj	_	_	2:targ
+4	n	n	ADP	_	_	6	case	_	_	_
+5	biak	biak	NUM	_	_	6	nummod	_	_	_
+6	sektoreak	sektorea	NOUN	_	_	2	obl	_	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_	_
+8	pilota	pilota	NOUN	_	_	6	conj	_	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_	_
+10	hondartza	hondartza	NOUN	_	_	6	conj	_	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00112_a1a0a5a9162ea6806e7b2aa61845b53b-6
+# text = Es un buen hotel para ir en familia con actividades permanentes y un buen sector para niños , con kínder y juegos muy entretenidos .
+1	Es	izatea	AUX	_	_	4	cop	_	_	3:exp-Positive
+2	bat	bat	DET	_	_	4	det	_	_	3:exp-Positive
+3	ona	ona	ADJ	_	_	4	amod	_	_	0:exp-Positive
+4	hotela	hotela	NOUN	_	_	0	root	_	_	8:targ|8:targ
+5	para	para	ADP	_	_	6	mark	_	_	8:targ|8:targ
+6	joan	joan	VERB	_	_	4	acl	_	_	8:targ|8:targ
+7	n	n	ADP	_	_	8	case	_	_	8:targ|8:targ
+8	familia	familia	NOUN	_	_	6	obl	_	_	11:targ|3:targ
+9	honekin	honekin	ADP	_	_	10	case	_	_	11:exp-Positive
+10	ekintzak	jarduera	NOUN	_	_	6	obl	_	_	11:exp-Positive
+11	iraunkorrak	iraunkorra	ADJ	_	_	10	amod	_	_	0:exp-Positive
+12	y	y	CCONJ	_	_	15	cc	_	_	_
+13	bat	bat	DET	_	_	15	det	_	_	14:exp-Positive
+14	ona	ona	ADJ	_	_	15	amod	_	_	0:exp-Positive
+15	sektorea	sektorea	NOUN	_	_	10	conj	_	_	17:targ|17:targ
+16	para	para	ADP	_	_	17	case	_	_	17:targ|17:targ
+17	haurrak	haurra	NOUN	_	_	15	nmod	_	_	14:targ|20:targ
+18	,	,	PUNCT	_	_	20	punct	_	_	_
+19	honekin	honekin	ADP	_	_	20	case	_	_	20:exp-Positive
+20	kínder	kínder	NOUN	_	_	15	nmod	_	_	0:exp-Positive
+21	y	y	CCONJ	_	_	22	cc	_	_	_
+22	jokoak	jokoa	NOUN	_	_	20	conj	_	_	24:targ
+23	oso	asko	ADV	_	_	24	advmod	_	_	24:exp-Positive
+24	entretenituak	entretenitua	ADJ	_	_	20	amod	_	_	0:exp-Positive
+25	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00069_4c149aaa9611a25a5c7e36552a70ec41-1
+# text = Muy buena calidad / precio
+1	Osoa	asko	ADV	_	_	3	advmod	_	_	2:exp-Positive
+2	ona	ona	ADJ	_	_	3	amod	_	_	0:exp-Positive
+3	kalitatea	kalitatea	NOUN	_	_	0	root	_	_	5:targ
+4	/	/	PUNCT	_	_	5	punct	_	_	5:targ
+5	prezioa	prezioa	NOUN	_	_	3	conj	_	_	2:targ
+
+# sent_id = opener_es/kaf/hotel/spanish00069_4c149aaa9611a25a5c7e36552a70ec41-2
+# text = El hotel se encuentra en pleno centro de florencia y cerca de la estacion central de florencia , por lo que la situacion es ideal , esta a 30 segundos andando del duomo .
+1	Bera	bat	DET	_	_	2	det	_	_	_
+2	hotela	hotela	NOUN	_	_	4	nsubj	_	_	_
+3	se	bera	PRON	_	_	4	obj	_	_	_
+4	encuentra	aurkitu	VERB	_	_	0	root	_	_	_
+5	n	n	ADP	_	_	7	case	_	_	6:exp-Positive
+6	pleno	pleno	ADJ	_	_	7	amod	_	_	0:exp-Positive
+7	ikastetxea	ikastetxea	NOUN	_	_	4	obl	_	_	9:targ
+8	de	de	ADP	_	_	9	case	_	_	9:targ
+9	florencia	florencia	NOUN	_	_	7	nmod	_	_	6:targ
+10	y	y	CCONJ	_	_	11	cc	_	_	_
+11	hurbil	hurbil	ADV	_	_	4	conj	_	_	0:exp-Positive
+12	de	de	ADP	_	_	14	case	_	_	_
+13	la	bat	DET	_	_	14	det	_	_	17:targ
+14	geltokia	geltokia	NOUN	_	_	11	obl	_	_	17:targ
+15	zentrala	zentrala	ADJ	_	_	14	amod	_	_	17:targ
+16	de	de	ADP	_	_	17	case	_	_	17:targ
+17	florencia	florencia	NOUN	_	_	14	nmod	_	_	11:targ
+18	,	,	PUNCT	_	_	25	punct	_	_	_
+19	por	por	ADP	_	_	25	case	_	_	_
+20	eta	bera	PRON	_	_	25	det	_	_	_
+21	hau	hau	PRON	_	_	25	obl	_	_	_
+22	la	bat	DET	_	_	23	det	_	_	23:targ
+23	egoera	egoera	NOUN	_	_	25	nsubj	_	_	25:targ
+24	es	izatea	AUX	_	_	25	cop	_	_	_
+25	ideala	ideala	ADJ	_	_	4	advcl	_	_	0:exp-Positive
+26	,	,	PUNCT	_	_	27	punct	_	_	_
+27	hau	hau	PRON	_	_	25	obj	_	_	_
+28	a	a	ADP	_	_	30	case	_	_	31:exp-Positive
+29	30	30	NUM	_	_	30	nummod	_	_	31:exp-Positive
+30	segundu	bigarrena	NOUN	_	_	27	nmod	_	_	31:exp-Positive
+31	oinez	ibili	VERB	_	_	27	acl	_	_	0:exp-Positive
+32	honengandik	honengandik	ADP	_	_	33	case	_	_	_
+33	duomoa	duomoa	NOUN	_	_	31	obl	_	_	31:targ
+34	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00069_4c149aaa9611a25a5c7e36552a70ec41-3
+# text = Las habitaciones estan muy bien .
+1	Horiek	bat	DET	_	_	2	det	_	_	2:targ
+2	logelak	gela	NOUN	_	_	5	nsubj	_	_	5:targ
+3	estan	estar	AUX	_	_	5	cop	_	_	_
+4	oso	asko	ADV	_	_	5	advmod	_	_	5:exp-Positive
+5	ongi	ongi	ADV	_	_	0	root	_	_	0:exp-Positive
+6	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00069_4c149aaa9611a25a5c7e36552a70ec41-4
+# text = El desayuno es algo simple , pero por el precio que tiene esta bastante bien .
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ|2:targ
+2	gosaria	gosaria	NOUN	_	_	4	nsubj	_	_	15:targ|5:targ
+3	es	izatea	AUX	_	_	4	cop	_	_	_
+4	zerbait	zerbait	PRON	_	_	0	root	_	_	5:exp-Negative
+5	sinplea	sinplea	ADJ	_	_	4	amod	_	_	0:exp-Negative
+6	,	,	PUNCT	_	_	10	punct	_	_	_
+7	baina	baina	CCONJ	_	_	10	cc	_	_	_
+8	por	por	ADP	_	_	10	case	_	_	15:exp-Positive
+9	bat	bat	DET	_	_	10	det	_	_	15:exp-Positive
+10	prezioa	prezioa	NOUN	_	_	4	conj	_	_	15:exp-Positive
+11	hau	hau	PRON	_	_	12	obj	_	_	_
+12	badu	eduki	VERB	_	_	10	acl	_	_	_
+13	hau	hau	DET	_	_	15	det	_	_	_
+14	nahikoa	nahikoa	ADV	_	_	15	advmod	_	_	15:exp-Positive
+15	ongi	ongi	ADV	_	_	12	advmod	_	_	0:exp-Positive
+16	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00163_ba231ec60843f04782f00ec9502688f4-1
+# text = Buen trato , buena situación del hotel .
+1	Ona	ona	ADJ	_	_	2	amod	_	_	0:exp-Positive
+2	tratuan	tratuan	NOUN	_	_	0	root	_	_	1:targ
+3	,	,	PUNCT	_	_	5	punct	_	_	_
+4	ona	ona	ADJ	_	_	5	amod	_	_	0:exp-Positive
+5	egoera	egoera	NOUN	_	_	2	appos	_	_	7:targ
+6	honengandik	honengandik	ADP	_	_	7	case	_	_	7:targ
+7	hotela	hotela	NOUN	_	_	5	nmod	_	_	4:targ
+8	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00163_ba231ec60843f04782f00ec9502688f4-2
+# text = En el centro de Madrid , la habitación fue espaciosa y limpia , hotel moderno y buen trato. me alojé en unu viaje de negocios y todo fue muy bien. llegué muy temprano ( a las 10 a.m. ) y ya tenían preparada una espaciosa habitación .
+1	En	n	ADP	_	_	3	case	_	_	5:exp-Positive
+2	bat	bat	DET	_	_	3	det	_	_	5:exp-Positive
+3	ikastetxea	ikastetxea	NOUN	_	_	10	obl	_	_	5:exp-Positive
+4	de	de	ADP	_	_	5	case	_	_	5:exp-Positive
+5	Madril	Madril	PROPN	_	_	3	nmod	_	_	0:exp-Positive
+6	,	,	PUNCT	_	_	3	punct	_	_	_
+7	la	bat	DET	_	_	8	det	_	_	8:targ|8:targ
+8	gela	gela	NOUN	_	_	10	nsubj	_	_	10:targ|12:targ
+9	fue	izatea	AUX	_	_	10	cop	_	_	_
+10	zuriunea	zuriunea	ADJ	_	_	0	root	_	_	0:exp-Positive
+11	y	y	CCONJ	_	_	12	cc	_	_	_
+12	garbia	garbia	ADJ	_	_	10	conj	_	_	0:exp-Positive
+13	,	,	PUNCT	_	_	14	punct	_	_	_
+14	hotela	hotela	NOUN	_	_	10	conj	_	_	15:targ
+15	modernoa	modernoa	ADJ	_	_	14	amod	_	_	0:exp-Positive
+16	y	y	CCONJ	_	_	18	cc	_	_	_
+17	ona	ona	ADJ	_	_	18	amod	_	_	0:exp-Positive
+18	tratua.	tratua.	NOUN	_	_	14	conj	_	_	17:targ
+19	me	ni	PRON	_	_	20	obj	_	_	_
+20	alojé	alojar	VERB	_	_	10	conj	_	_	_
+21	n	n	ADP	_	_	23	case	_	_	_
+22	uni	uni	DET	_	_	23	det	_	_	_
+23	bidaia	bidaia	NOUN	_	_	20	obl	_	_	_
+24	de	de	ADP	_	_	25	case	_	_	_
+25	negozioak	negozioa	NOUN	_	_	23	nmod	_	_	_
+26	y	y	CCONJ	_	_	31	cc	_	_	_
+27	guztiak	guztiak	PRON	_	_	30	nsubj	_	_	30:targ
+28	fue	izatea	AUX	_	_	30	cop	_	_	_
+29	oso	asko	ADV	_	_	30	advmod	_	_	30:exp-Positive
+30	ongi.	ongi.	ADJ	_	_	31	conj	_	_	0:exp-Positive
+31	llegué	iritsi	VERB	_	_	20	conj	_	_	_
+32	oso	asko	ADV	_	_	33	advmod	_	_	_
+33	goiz	goiz	ADJ	_	_	31	obj	_	_	_
+34	(	(	PUNCT	_	_	37	punct	_	_	_
+35	a	a	ADP	_	_	37	case	_	_	_
+36	laborantza	bat	DET	_	_	37	det	_	_	_
+37	10	10	NUM	_	_	31	obl	_	_	_
+38	a.m.	a.m.	NOUN	_	_	37	compound	_	_	_
+39	)	)	PUNCT	_	_	37	punct	_	_	_
+40	y	y	CCONJ	_	_	42	cc	_	_	_
+41	dagoeneko	dagoeneko	ADV	_	_	42	advmod	_	_	_
+42	bazeukaten	eduki	VERB	_	_	31	conj	_	_	_
+43	prest	prest	ADJ	_	_	42	obj	_	_	_
+44	bat	bat	DET	_	_	46	det	_	_	_
+45	zuriunea	zuriunea	ADJ	_	_	46	amod	_	_	0:exp-Positive
+46	gela	gela	NOUN	_	_	42	obj	_	_	45:targ
+47	.	.	PUNCT	_	_	10	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00163_ba231ec60843f04782f00ec9502688f4-3
+# text = Muy limpio y con cama cómodas .
+1	Osoa	asko	ADV	_	_	2	advmod	_	_	2:exp-Positive
+2	garbia	garbia	ADJ	_	_	0	root	_	_	0:exp-Positive
+3	y	y	CCONJ	_	_	5	cc	_	_	_
+4	honekin	honekin	ADP	_	_	5	case	_	_	_
+5	ohea	ohea	NOUN	_	_	2	conj	_	_	2:targ|6:targ
+6	komodak	erosoa	ADJ	_	_	5	amod	_	_	0:exp-Positive
+7	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00163_ba231ec60843f04782f00ec9502688f4-4
+# text = El personal de recepción muy atento , me reomendó varias entradas a espectáculos , nos dio indicaciones y consejos , todo muy bien ) .
+1	Bera	bat	DET	_	_	2	det	_	_	4:targ
+2	langileak	langileak	NOUN	_	_	16	nsubj	_	_	4:targ
+3	de	de	ADP	_	_	4	case	_	_	4:targ
+4	harrera	harrera	NOUN	_	_	2	nmod	_	_	6:targ
+5	oso	asko	ADV	_	_	6	advmod	_	_	6:exp-Positive
+6	adi	adi	ADJ	_	_	2	amod	_	_	0:exp-Positive
+7	,	,	PUNCT	_	_	9	punct	_	_	_
+8	me	ni	PRON	_	_	9	obj	_	_	9:holder
+9	reomendó	berrabiatu	VERB	_	_	2	acl	_	_	0:exp-Positive
+10	batzuk	hainbat	DET	_	_	11	det	_	_	13:targ
+11	sarrerak	sarrera	NOUN	_	_	9	obj	_	_	13:targ
+12	a	a	ADP	_	_	13	case	_	_	13:targ
+13	ikuskizunak	ikuskizuna	NOUN	_	_	11	nmod	_	_	9:targ
+14	,	,	PUNCT	_	_	9	punct	_	_	_
+15	igual	ni	PRON	_	_	16	obj	_	_	16:holder
+16	dio	eman	VERB	_	_	0	root	_	_	0:exp-Positive
+17	argibideak	argibidea	NOUN	_	_	16	obj	_	_	19:targ
+18	y	y	CCONJ	_	_	19	cc	_	_	19:targ
+19	aholkuak	kontseilua	NOUN	_	_	17	conj	_	_	16:targ
+20	,	,	PUNCT	_	_	21	punct	_	_	_
+21	guztiak	guztiak	PRON	_	_	17	appos	_	_	23:targ
+22	oso	asko	ADV	_	_	23	advmod	_	_	23:exp-Positive
+23	ongi	ongi	ADV	_	_	21	advmod	_	_	0:exp-Positive
+24	)	)	PUNCT	_	_	21	punct	_	_	_
+25	.	.	PUNCT	_	_	16	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00163_ba231ec60843f04782f00ec9502688f4-5
+# text = El metro esta cerca , pero si vas a pie , se te puede hacer un poco largo llegar a Gran Via .
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ
+2	metroa	metroa	NOUN	_	_	0	root	_	_	4:targ
+3	hau	hau	DET	_	_	4	advmod	_	_	_
+4	hurbil	hurbil	ADV	_	_	2	advmod	_	_	0:exp-Positive
+5	,	,	PUNCT	_	_	15	punct	_	_	_
+6	baina	baina	CCONJ	_	_	15	cc	_	_	_
+7	bai	bai	SCONJ	_	_	8	mark	_	_	_
+8	zoaz	joan	VERB	_	_	15	advcl	_	_	_
+9	a	a	ADP	_	_	8	advmod	_	_	20:exp-Negative
+10	oin	oin	NOUN	_	_	9	fixed	_	_	20:exp-Negative
+11	,	,	PUNCT	_	_	8	punct	_	_	_
+12	se	bera	PRON	_	_	15	obj	_	_	_
+13	te	zu	PRON	_	_	15	obj	_	_	_
+14	puede	boterea	AUX	_	_	15	aux	_	_	_
+15	egin	egin	VERB	_	_	4	conj	_	_	_
+16	bat	bat	DET	_	_	18	advmod	_	_	20:exp-Negative
+17	gutxi	gutxi	ADV	_	_	16	fixed	_	_	20:exp-Negative
+18	luzea	luzea	ADJ	_	_	15	obj	_	_	20:exp-Negative
+19	iritsi	iritsi	VERB	_	_	15	csubj	_	_	20:exp-Negative
+20	a	a	ADP	_	_	21	case	_	_	0:exp-Negative
+21	Handia	Handia	ADJ	_	_	19	obl	_	_	22:targ
+22	Bidea	Bidea	PROPN	_	_	21	flat	_	_	20:targ
+23	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00163_ba231ec60843f04782f00ec9502688f4-6
+# text = ( Plaza de España esta a unos 5 · 7 minutos ) y puerta del Sol a unos 15 a pie .
+1	(	(	PUNCT	_	_	2	punct	_	_	_
+2	Plaza	Plaza	PROPN	_	_	0	root	_	_	4:targ
+3	de	de	ADP	_	_	4	case	_	_	4:targ
+4	Espainia	Espainia	PROPN	_	_	2	flat	_	_	11:targ
+5	hau	hau	DET	_	_	2	det	_	_	_
+6	a	a	ADP	_	_	8	case	_	_	11:exp-Positive
+7	batzuk	bat	PRON	_	_	8	nmod	_	_	11:exp-Positive
+8	5	5	NUM	_	_	2	nummod	_	_	11:exp-Positive
+9	GUTXI EGITEN DUGU	GUTXI EGITEN DUGU	PUNCT	_	_	11	punct	_	_	11:exp-Positive
+10	7	7	NUM	_	_	11	nummod	_	_	11:exp-Positive
+11	minutu	minutu	NOUN	_	_	8	appos	_	_	0:exp-Positive
+12	)	)	PUNCT	_	_	11	punct	_	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_	_
+14	atea	atea	NOUN	_	_	2	conj	_	_	16:targ
+15	honengandik	honengandik	ADP	_	_	16	case	_	_	16:targ
+16	Sol	Sol	PROPN	_	_	14	nmod	_	_	21:targ
+17	a	a	ADP	_	_	19	case	_	_	21:exp-Positive
+18	batzuk	bat	PRON	_	_	19	nmod	_	_	21:exp-Positive
+19	15	15	NUM	_	_	14	nummod	_	_	21:exp-Positive
+20	a	a	ADP	_	_	19	advmod	_	_	21:exp-Positive
+21	oin	oin	NOUN	_	_	20	fixed	_	_	0:exp-Positive
+22	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00163_ba231ec60843f04782f00ec9502688f4-7
+# text = El hotel es muy recomendable .
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ
+2	hotela	hotela	NOUN	_	_	5	nsubj	_	_	5:targ
+3	es	izatea	AUX	_	_	5	cop	_	_	_
+4	oso	asko	ADV	_	_	5	advmod	_	_	5:exp-Positive
+5	gomendagarria	gomendagarria	ADJ	_	_	0	root	_	_	0:exp-Positive
+6	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00163_ba231ec60843f04782f00ec9502688f4-8
+# text = Nada caro para el lugar donde esta y las comodidades que ofrece .
+1	Nada	nada	PRON	_	_	0	root	_	_	2:exp-Positive
+2	garestia	garestia	ADJ	_	_	1	amod	_	_	0:exp-Positive
+3	para	para	ADP	_	_	5	case	_	_	_
+4	bat	bat	DET	_	_	5	det	_	_	_
+5	lekua	lekua	NOUN	_	_	2	nmod	_	_	_
+6	non	non	PRON	_	_	12	obl	_	_	_
+7	hau	hau	PRON	_	_	5	nmod	_	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_	_
+9	laborantza	bat	DET	_	_	10	det	_	_	_
+10	erosotasunak	erosotasuna	NOUN	_	_	7	conj	_	_	_
+11	hau	hau	PRON	_	_	12	obj	_	_	_
+12	ofrece	eskaini	VERB	_	_	10	acl	_	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00163_ba231ec60843f04782f00ec9502688f4-9
+# text = Volvería !
+1	Volvería	itzuli	VERB	_	_	0	root	_	_	2:exp-Positive
+2	!	!	PUNCT	_	_	1	punct	_	_	0:exp-Positive
+
+# sent_id = opener_es/kaf/hotel/spanish00197_dcb2b89f42334c619566d39d132c60e8-1
+# text = Hotel céntrico y con buenos servicios
+1	Hotela	Hotela	NOUN	_	_	0	root	_	_	2:targ
+2	zentrua	zentrua	ADJ	_	_	1	amod	_	_	0:exp-Positive
+3	y	y	CCONJ	_	_	6	cc	_	_	_
+4	honekin	honekin	ADP	_	_	6	case	_	_	_
+5	onak	ona	ADJ	_	_	6	amod	_	_	0:exp-Positive
+6	zerbitzuak	zerbitzua	NOUN	_	_	2	conj	_	_	5:targ
+
+# sent_id = opener_es/kaf/hotel/spanish00197_dcb2b89f42334c619566d39d132c60e8-2
+# text = Durante el mes de abril realizamos un viaje de fin de semana a Milán .
+1	Tartean	bitartea	ADP	_	_	3	case	_	_	_
+2	bat	bat	DET	_	_	3	det	_	_	_
+3	hilabete	hilabete	NOUN	_	_	6	obl	_	_	_
+4	de	de	ADP	_	_	5	case	_	_	_
+5	apirila	apirila	NOUN	_	_	3	compound	_	_	_
+6	realizamos	egitea	VERB	_	_	0	root	_	_	_
+7	bat	bat	DET	_	_	8	det	_	_	_
+8	bidaia	bidaia	NOUN	_	_	6	obj	_	_	_
+9	de	de	ADP	_	_	10	case	_	_	_
+10	amaiera	amaiera	NOUN	_	_	8	nmod	_	_	_
+11	de	de	ADP	_	_	12	case	_	_	_
+12	astea	astea	NOUN	_	_	10	nmod	_	_	_
+13	a	a	ADP	_	_	14	case	_	_	_
+14	Milan	Milan	PROPN	_	_	6	obl	_	_	_
+15	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00197_dcb2b89f42334c619566d39d132c60e8-3
+# text = Nos alojamos en este hotel por estar cerca del centro y porque habíamos probado ya anteriormente la estancia en otros hoteles de la misma cadena .
+1	GUE	ni	PRON	_	_	2	obj	_	_	_
+2	alojamos	alojar	VERB	_	_	0	root	_	_	_
+3	n	n	ADP	_	_	5	case	_	_	_
+4	hau	hau	DET	_	_	5	det	_	_	_
+5	hotela	hotela	NOUN	_	_	2	obl	_	_	_
+6	por	por	ADP	_	_	7	mark	_	_	_
+7	estar	estar	VERB	_	_	2	advcl	_	_	_
+8	hurbil	hurbil	ADV	_	_	7	advmod	_	_	0:exp-Positive
+9	honengandik	honengandik	ADP	_	_	10	case	_	_	_
+10	ikastetxea	ikastetxea	NOUN	_	_	8	obl	_	_	8:targ
+11	y	y	CCONJ	_	_	14	cc	_	_	_
+12	zeren	zeren	SCONJ	_	_	14	mark	_	_	_
+13	bageneukan	izana	AUX	_	_	14	aux	_	_	_
+14	frogatua	probatu	VERB	_	_	2	conj	_	_	_
+15	dagoeneko	dagoeneko	ADV	_	_	14	advmod	_	_	_
+16	aurretik	aurretik	ADV	_	_	14	advmod	_	_	_
+17	la	bat	DET	_	_	18	det	_	_	_
+18	egonaldia	egonaldia	NOUN	_	_	14	obj	_	_	_
+19	n	n	ADP	_	_	21	case	_	_	_
+20	otros	otro	DET	_	_	21	det	_	_	_
+21	hotelak	hotela	NOUN	_	_	18	nmod	_	_	_
+22	de	de	ADP	_	_	25	case	_	_	_
+23	la	bat	DET	_	_	25	det	_	_	_
+24	berdina	berdina	DET	_	_	23	det	_	_	_
+25	katea	katea	NOUN	_	_	21	nmod	_	_	_
+26	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00197_dcb2b89f42334c619566d39d132c60e8-4
+# text = Como siempre , el trato fue espléndido , las habitaciones renovadas y muy limpias , y el desayuno era espectacular .
+1	Nola	honela	SCONJ	_	_	2	mark	_	_	_
+2	beti	beti	ADV	_	_	7	advmod	_	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_	_
+4	bat	bat	DET	_	_	5	det	_	_	5:targ
+5	tratuan	tratuan	NOUN	_	_	7	nsubj	_	_	7:targ
+6	fue	izatea	AUX	_	_	7	cop	_	_	_
+7	ñabardura	ñabardura	ADJ	_	_	0	root	_	_	0:exp-Positive
+8	,	,	PUNCT	_	_	10	punct	_	_	_
+9	laborantza	bat	DET	_	_	10	det	_	_	10:targ|10:targ
+10	logelak	gela	NOUN	_	_	7	obj	_	_	11:targ|14:targ
+11	berrituak	berritu	ADJ	_	_	10	amod	_	_	0:exp-Positive
+12	y	y	CCONJ	_	_	14	cc	_	_	_
+13	oso	asko	ADV	_	_	14	advmod	_	_	14:exp-Positive
+14	garbiak	garbia	ADJ	_	_	11	conj	_	_	0:exp-Positive
+15	,	,	PUNCT	_	_	20	punct	_	_	_
+16	y	y	CCONJ	_	_	20	cc	_	_	_
+17	bat	bat	DET	_	_	18	det	_	_	18:targ
+18	gosaria	gosaria	NOUN	_	_	20	nsubj	_	_	20:targ
+19	era	izatea	AUX	_	_	20	cop	_	_	_
+20	ikusgarria	ikusgarria	ADJ	_	_	7	conj	_	_	0:exp-Positive
+21	.	.	PUNCT	_	_	7	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00197_dcb2b89f42334c619566d39d132c60e8-5
+# text = Lo recomendaría sin duda para un viaje en las mismas condiciones , es decir , para un fin de semana .
+1	Lo	bera	PRON	_	_	2	obj	_	_	2:targ
+2	recomendaría	gomendatzea	VERB	_	_	0	root	_	_	0:exp-Positive
+3	gabe	gabe	ADP	_	_	4	case	_	_	_
+4	zalantza	zalantza	NOUN	_	_	2	obl	_	_	_
+5	para	para	ADP	_	_	7	case	_	_	_
+6	bat	bat	DET	_	_	7	det	_	_	_
+7	bidaia	bidaia	NOUN	_	_	2	obl	_	_	_
+8	n	n	ADP	_	_	11	case	_	_	_
+9	laborantza	bat	DET	_	_	11	det	_	_	_
+10	berdinak	berdina	DET	_	_	9	det	_	_	_
+11	baldintzak	baldintza	NOUN	_	_	7	nmod	_	_	_
+12	,	,	PUNCT	_	_	18	punct	_	_	_
+13	es	es	NOUN	_	_	18	cc	_	_	_
+14	esan	esan	NOUN	_	_	13	fixed	_	_	_
+15	,	,	PUNCT	_	_	13	punct	_	_	_
+16	para	para	ADP	_	_	18	case	_	_	_
+17	bat	bat	DET	_	_	18	det	_	_	_
+18	amaiera	amaiera	NOUN	_	_	7	conj	_	_	_
+19	de	de	ADP	_	_	20	case	_	_	_
+20	astea	astea	NOUN	_	_	18	nmod	_	_	_
+21	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00109_854fe9452860249e9aa95da863afda36-1
+# text = Excesivamente caro , demasiado .
+1	Exzesiboa	gehiegi	ADV	_	_	2	advmod	_	_	2:exp-Negative
+2	garestia	garestia	ADJ	_	_	0	root	_	_	0:exp-Negative
+3	,	,	PUNCT	_	_	2	punct	_	_	_
+4	gehiegi	gehiegi	ADV	_	_	2	advmod	_	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00109_854fe9452860249e9aa95da863afda36-2
+# text = Un hotel de esta característica que te demuestra que para tener lo que esperas tienes que pagar aún más del doble de lo que ya has pagado .
+1	Bat	bat	DET	_	_	2	det	_	_	_
+2	hotela	hotela	NOUN	_	_	0	root	_	_	_
+3	de	de	ADP	_	_	5	case	_	_	_
+4	hau	hau	DET	_	_	5	det	_	_	_
+5	ezaugarria	ezaugarria	NOUN	_	_	2	nmod	_	_	_
+6	hau	hau	PRON	_	_	8	nsubj	_	_	_
+7	te	zu	PRON	_	_	8	iobj	_	_	_
+8	erakutsi	erakutsi	VERB	_	_	5	acl	_	_	_
+9	hau	hau	SCONJ	_	_	17	mark	_	_	_
+10	para	para	ADP	_	_	11	mark	_	_	_
+11	eduki	eduki	VERB	_	_	17	advcl	_	_	_
+12	eta	bera	PRON	_	_	14	det	_	_	_
+13	hau	hau	PRON	_	_	14	obj	_	_	_
+14	itxaron	itxaron	VERB	_	_	11	ccomp	_	_	_
+15	baduzu	eduki	VERB	_	_	8	ccomp	_	_	_
+16	hau	hau	SCONJ	_	_	17	cc	_	_	_
+17	ordaindu	ordaindu	VERB	_	_	15	conj	_	_	_
+18	oraindik	oraindik	ADV	_	_	19	advmod	_	_	_
+19	gehiago	gehiago	ADV	_	_	17	advmod	_	_	_
+20	honengandik	honengandik	ADP	_	_	21	case	_	_	_
+21	bikoitza	bikoitza	NOUN	_	_	17	obl	_	_	_
+22	de	de	ADP	_	_	27	mark	_	_	_
+23	eta	bera	PRON	_	_	27	det	_	_	_
+24	hau	hau	PRON	_	_	27	obj	_	_	_
+25	dagoeneko	dagoeneko	ADV	_	_	27	advmod	_	_	_
+26	has	izana	AUX	_	_	27	aux	_	_	_
+27	ordaindutakoa	ordaindu	VERB	_	_	21	acl	_	_	_
+28	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00109_854fe9452860249e9aa95da863afda36-3
+# text = No se puede optar a ser tan elitista ofreciendo en las habitaciones para ellos estándard un tamaño pequeño en el que gracias a la modernidad cabe un baño casi integrado en la habitación del cual dejamos fuera el lavamanos .
+1	Ez	ez	ADV	_	_	4	advmod	_	_	_
+2	se	bera	PRON	_	_	4	obj	_	_	_
+3	puede	boterea	AUX	_	_	4	aux	_	_	_
+4	hautatu	hautatu	VERB	_	_	0	root	_	_	_
+5	a	a	ADP	_	_	8	case	_	_	_
+6	izatea	izatea	AUX	_	_	8	cop	_	_	_
+7	tan	hainbeste	ADV	_	_	4	advmod	_	_	_
+8	elitista	elitista	ADJ	_	_	4	xcomp	_	_	_
+9	eskaintzen	eskaini	VERB	_	_	4	xcomp	_	_	_
+10	n	n	ADP	_	_	12	case	_	_	_
+11	laborantza	bat	DET	_	_	12	det	_	_	_
+12	logelak	gela	NOUN	_	_	9	obl	_	_	_
+13	para	para	ADP	_	_	14	case	_	_	_
+14	beraiek	bera	PRON	_	_	9	obl	_	_	_
+15	estandarra	estandarra	ADJ	_	_	14	amod	_	_	_
+16	bat	bat	DET	_	_	17	det	_	_	_
+17	tamaina	tamaina	NOUN	_	_	9	obj	_	_	_
+18	txikia	txikia	ADJ	_	_	17	amod	_	_	_
+19	n	n	ADP	_	_	21	case	_	_	_
+20	bat	bat	DET	_	_	21	det	_	_	_
+21	hau	hau	PRON	_	_	26	obl	_	_	_
+22	gracias	gracias	NOUN	_	_	25	case	_	_	_
+23	a	a	ADP	_	_	22	fixed	_	_	_
+24	la	bat	DET	_	_	25	det	_	_	_
+25	modernotasuna	modernotasuna	NOUN	_	_	26	obl	_	_	_
+26	buru	buru	VERB	_	_	17	acl	_	_	_
+27	bat	bat	DET	_	_	28	det	_	_	_
+28	komuna	komuna	NOUN	_	_	26	nsubj	_	_	_
+29	ia	ia	ADV	_	_	30	advmod	_	_	_
+30	integratua	integratua	ADJ	_	_	28	amod	_	_	_
+31	n	n	ADP	_	_	33	case	_	_	_
+32	la	bat	DET	_	_	33	det	_	_	_
+33	gela	gela	NOUN	_	_	30	obl	_	_	_
+34	honengandik	honengandik	ADP	_	_	35	case	_	_	_
+35	nor	nor	PRON	_	_	33	nmod	_	_	_
+36	dejamos	utzi	VERB	_	_	28	acl	_	_	_
+37	kanpora	kanpora	ADV	_	_	36	advmod	_	_	_
+38	bat	bat	DET	_	_	39	det	_	_	_
+39	lavamanos	lavamano	NOUN	_	_	36	obj	_	_	_
+40	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00109_854fe9452860249e9aa95da863afda36-4
+# text = Y finalmente tienes que soportar que los no huespedes usen los mismos ascensores para subir a una terraza lounge no privada en la azotea , con el consiguiente atasco en ascensor , los ruidos por los pasillos , señores , o ponen un acceso independiente a este otro negocio , o que sea privado solo para el hotel ( que para algo lo pagamos )
+1	Eta	y	CCONJ	_	_	5	advmod	_	_	_
+2	azkenik	azkenik	ADV	_	_	5	advmod	_	_	_
+3	baduzu	eduki	VERB	_	_	0	root	_	_	_
+4	hau	hau	SCONJ	_	_	5	cc	_	_	_
+5	jasan	jasan	VERB	_	_	3	conj	_	_	_
+6	hau	hau	SCONJ	_	_	10	mark	_	_	_
+7	eta	bat	DET	_	_	9	det	_	_	_
+8	ez	ez	ADV	_	_	9	advmod	_	_	_
+9	huespedeak	huesped	NOUN	_	_	10	nsubj	_	_	_
+10	erabili	erabili	VERB	_	_	5	ccomp	_	_	_
+11	eta	bat	DET	_	_	13	det	_	_	_
+12	berdinak	berdina	DET	_	_	11	det	_	_	_
+13	igogailuak	igogailua	NOUN	_	_	10	obj	_	_	_
+14	para	para	ADP	_	_	15	mark	_	_	_
+15	igo	igo	VERB	_	_	10	advcl	_	_	_
+16	a	a	ADP	_	_	18	case	_	_	_
+17	bat	bat	DET	_	_	18	det	_	_	_
+18	terraza	terraza	NOUN	_	_	15	obl	_	_	_
+19	loungea	loungea	ADJ	_	_	18	amod	_	_	_
+20	ez	ez	ADV	_	_	21	advmod	_	_	_
+21	pribatua	pribatua	ADJ	_	_	18	amod	_	_	_
+22	n	n	ADP	_	_	24	case	_	_	_
+23	la	bat	DET	_	_	24	det	_	_	_
+24	teilatuak	teilatuak	NOUN	_	_	21	obl	_	_	_
+25	,	,	PUNCT	_	_	29	punct	_	_	_
+26	honekin	honekin	ADP	_	_	29	case	_	_	_
+27	bat	bat	DET	_	_	29	det	_	_	_
+28	consiguiente	consiguiente	ADJ	_	_	29	amod	_	_	_
+29	atasakoa	atasakoa	NOUN	_	_	15	obl	_	_	_
+30	n	n	ADP	_	_	31	case	_	_	_
+31	igogailua	igogailua	NOUN	_	_	29	nmod	_	_	_
+32	,	,	PUNCT	_	_	34	punct	_	_	_
+33	eta	bat	DET	_	_	34	det	_	_	_
+34	soinuak	zarata	NOUN	_	_	29	appos	_	_	_
+35	por	por	ADP	_	_	37	case	_	_	_
+36	eta	bat	DET	_	_	37	det	_	_	_
+37	pasilloak	pasilloa	NOUN	_	_	34	nmod	_	_	_
+38	,	,	PUNCT	_	_	39	punct	_	_	_
+39	jaunak	jauna	NOUN	_	_	29	appos	_	_	_
+40	,	,	PUNCT	_	_	42	punct	_	_	_
+41	edo	edo	CCONJ	_	_	42	cc	_	_	_
+42	ponen	jarri	VERB	_	_	10	conj	_	_	_
+43	bat	bat	DET	_	_	44	det	_	_	_
+44	atzipena	atzipena	NOUN	_	_	42	obj	_	_	_
+45	independentea	independentea	ADJ	_	_	44	amod	_	_	_
+46	a	a	ADP	_	_	49	case	_	_	_
+47	hau	hau	DET	_	_	49	det	_	_	_
+48	otro	otro	DET	_	_	47	det	_	_	_
+49	negozioa	negozioa	NOUN	_	_	42	obj	_	_	_
+50	,	,	PUNCT	_	_	54	punct	_	_	_
+51	edo	edo	CCONJ	_	_	54	cc	_	_	_
+52	hau	hau	SCONJ	_	_	54	mark	_	_	_
+53	sea	izatea	AUX	_	_	54	aux	_	_	_
+54	pribatua	kendu	VERB	_	_	42	conj	_	_	_
+55	bakarrik	bakarrik	ADJ	_	_	54	obj	_	_	_
+56	para	para	ADP	_	_	58	case	_	_	_
+57	bat	bat	DET	_	_	58	det	_	_	_
+58	hotela	hotela	NOUN	_	_	55	nmod	_	_	_
+59	(	(	PUNCT	_	_	64	punct	_	_	_
+60	hau	hau	PRON	_	_	64	nsubj	_	_	_
+61	para	para	ADP	_	_	62	case	_	_	_
+62	zerbait	zerbait	PRON	_	_	64	obl	_	_	_
+63	eta	bera	PRON	_	_	64	obj	_	_	_
+64	pagamos	ordaindu	VERB	_	_	58	acl	_	_	_
+65	)	)	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00010_09bc8df9f09056de5554df501b0036d1-1
+# text = Nuestro hotel en Madrid
+1	Gurea	gurea	DET	_	_	2	det	_	_	_
+2	hotela	hotela	NOUN	_	_	0	root	_	_	_
+3	n	n	ADP	_	_	4	case	_	_	_
+4	Madril	Madril	PROPN	_	_	2	nmod	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00010_09bc8df9f09056de5554df501b0036d1-2
+# text = Nos encanta este hotel , su ubicación , sus habitaciones , su personal ( siempre tan amable y servicial ) .
+1	GUE	ni	PRON	_	_	2	obj	_	_	2:holder|2:holder|2:holder
+2	encanta	gozagarria	VERB	_	_	0	root	_	_	0:exp-Positive|0:exp-Positive|0:exp-Positive
+3	hau	hau	DET	_	_	4	det	_	_	4:targ
+4	hotela	hotela	NOUN	_	_	2	nsubj	_	_	2:targ
+5	,	,	PUNCT	_	_	7	punct	_	_	_
+6	bere	bere	DET	_	_	7	det	_	_	7:targ
+7	kokalekua	kokalekua	NOUN	_	_	4	appos	_	_	2:targ
+8	,	,	PUNCT	_	_	10	punct	_	_	_
+9	bereak	bere	DET	_	_	10	det	_	_	10:targ
+10	logelak	gela	NOUN	_	_	4	appos	_	_	2:targ
+11	,	,	PUNCT	_	_	4	punct	_	_	_
+12	bere	bere	DET	_	_	13	det	_	_	13:targ|13:targ
+13	langileak	langileak	NOUN	_	_	4	appos	_	_	17:targ|19:targ
+14	(	(	PUNCT	_	_	17	punct	_	_	_
+15	beti	beti	ADV	_	_	17	advmod	_	_	17:exp-Positive
+16	tan	hainbeste	ADV	_	_	17	advmod	_	_	17:exp-Positive
+17	atsegina	atsegina	ADJ	_	_	13	amod	_	_	0:exp-Positive
+18	y	y	CCONJ	_	_	19	cc	_	_	_
+19	laguntzailea	laguntzailea	ADJ	_	_	17	conj	_	_	0:exp-Positive
+20	)	)	PUNCT	_	_	17	punct	_	_	_
+21	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00010_09bc8df9f09056de5554df501b0036d1-3
+# text = A mi familia y a mí nos encanta la ciudad de Madrid , el poder salir de compras , de tapas , a ver un espectáculo , y la situación de este hotel es ideal para poder moverte por el centro de Madrid sin tener que coger el coche pues todo te pilla a mano , con lo que siempre que podemos planear una escapada familiar de fin de semana no dudamos , nuestra elección es clara : ¡ ¡ Nos vamos al Senator Gran Via 21 ¡ ¡ .
+1	A	a	ADP	_	_	3	case	_	_	_
+2	nirea	nirea	DET	_	_	3	det	_	_	_
+3	familia	familia	NOUN	_	_	8	obj	_	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_	_
+5	a	a	ADP	_	_	6	case	_	_	_
+6	ni	ni	PRON	_	_	3	conj	_	_	_
+7	igual	ni	PRON	_	_	8	obj	_	_	_
+8	encanta	gozagarria	VERB	_	_	0	root	_	_	_
+9	la	bat	DET	_	_	10	det	_	_	_
+10	hiria	hiria	NOUN	_	_	8	nsubj	_	_	_
+11	de	de	ADP	_	_	12	case	_	_	_
+12	Madril	Madril	PROPN	_	_	10	nmod	_	_	_
+13	,	,	PUNCT	_	_	16	punct	_	_	_
+14	bat	bat	DET	_	_	16	det	_	_	_
+15	boterea	boterea	AUX	_	_	16	aux	_	_	_
+16	irten	irten	VERB	_	_	8	advcl	_	_	_
+17	de	de	ADP	_	_	18	case	_	_	_
+18	erosketak	erosketa	NOUN	_	_	16	obl	_	_	_
+19	,	,	PUNCT	_	_	21	punct	_	_	_
+20	de	de	ADP	_	_	21	case	_	_	_
+21	tapak	tapa	NOUN	_	_	18	conj	_	_	_
+22	,	,	PUNCT	_	_	24	punct	_	_	_
+23	a	a	ADP	_	_	24	mark	_	_	_
+24	ikus	ikus	VERB	_	_	16	advcl	_	_	_
+25	bat	bat	DET	_	_	26	det	_	_	_
+26	ikuskizuna	ikuskizuna	NOUN	_	_	24	obj	_	_	_
+27	,	,	PUNCT	_	_	35	punct	_	_	_
+28	y	y	CCONJ	_	_	35	cc	_	_	_
+29	la	bat	DET	_	_	30	det	_	_	33:targ
+30	egoera	egoera	NOUN	_	_	35	nsubj	_	_	33:targ
+31	de	de	ADP	_	_	33	case	_	_	33:targ
+32	hau	hau	DET	_	_	33	det	_	_	33:targ
+33	hotela	hotela	NOUN	_	_	30	nmod	_	_	49:targ
+34	es	izatea	AUX	_	_	35	cop	_	_	_
+35	ideala	ideala	ADJ	_	_	8	conj	_	_	49:exp-Positive
+36	para	para	ADP	_	_	38	mark	_	_	49:exp-Positive
+37	boterea	boterea	AUX	_	_	38	aux	_	_	49:exp-Positive
+38	mugitu	mugitu	VERB	_	_	35	acl	_	_	49:exp-Positive
+39	por	por	ADP	_	_	41	case	_	_	49:exp-Positive
+40	bat	bat	DET	_	_	41	det	_	_	49:exp-Positive
+41	ikastetxea	ikastetxea	NOUN	_	_	38	obl	_	_	49:exp-Positive
+42	de	de	ADP	_	_	43	case	_	_	49:exp-Positive
+43	Madril	Madril	PROPN	_	_	41	nmod	_	_	49:exp-Positive
+44	gabe	gabe	ADP	_	_	45	mark	_	_	49:exp-Positive
+45	eduki	eduki	VERB	_	_	38	advcl	_	_	49:exp-Positive
+46	hau	hau	SCONJ	_	_	47	cc	_	_	49:exp-Positive
+47	hartu	hartu	VERB	_	_	45	conj	_	_	49:exp-Positive
+48	bat	bat	DET	_	_	49	det	_	_	49:exp-Positive
+49	autoa	autoa	NOUN	_	_	47	obj	_	_	0:exp-Positive
+50	zeren	zeren	SCONJ	_	_	53	mark	_	_	_
+51	guztiak	guztiak	PRON	_	_	53	nsubj	_	_	_
+52	te	zu	PRON	_	_	53	obj	_	_	_
+53	vaporea	harrapatu	VERB	_	_	47	advcl	_	_	_
+54	a	a	ADP	_	_	55	case	_	_	_
+55	esku	esku	NOUN	_	_	53	obl	_	_	_
+56	,	,	PUNCT	_	_	77	punct	_	_	_
+57	honekin	honekin	ADP	_	_	63	mark	_	_	_
+58	eta	bera	PRON	_	_	63	det	_	_	_
+59	hau	hau	PRON	_	_	72	obl	_	_	_
+60	beti	beti	ADV	_	_	63	mark	_	_	_
+61	hau	hau	SCONJ	_	_	60	fixed	_	_	_
+62	podemos	boterea	AUX	_	_	63	aux	_	_	_
+63	planeatu	planeatu	VERB	_	_	72	advcl	_	_	_
+64	bat	bat	DET	_	_	65	det	_	_	_
+65	escapada	escapada	NOUN	_	_	63	obj	_	_	_
+66	familia	familia	ADJ	_	_	65	amod	_	_	_
+67	de	de	ADP	_	_	68	case	_	_	_
+68	amaiera	amaiera	NOUN	_	_	65	nmod	_	_	_
+69	de	de	ADP	_	_	70	case	_	_	_
+70	astea	astea	NOUN	_	_	68	nmod	_	_	_
+71	ez	ez	ADV	_	_	72	advmod	_	_	_
+72	zalantzak	zalantza	VERB	_	_	77	advcl	_	_	_
+73	,	,	PUNCT	_	_	8	punct	_	_	_
+74	gurea	gurea	DET	_	_	75	det	_	_	_
+75	aukeraketa	aukeraketa	NOUN	_	_	77	nsubj	_	_	_
+76	es	izatea	AUX	_	_	77	cop	_	_	_
+77	argia	argi	ADJ	_	_	8	advcl	_	_	_
+78	:	:	PUNCT	_	_	82	punct	_	_	_
+79	¡	¡	PUNCT	_	_	82	punct	_	_	_
+80	¡	¡	PUNCT	_	_	82	punct	_	_	_
+81	GUE	ni	PRON	_	_	82	obj	_	_	82:holder
+82	vamos	joan	VERB	_	_	77	advcl	_	_	0:exp-Positive
+83	u	u	ADP	_	_	84	case	_	_	87:targ
+84	Senatorea	Senatorea	PROPN	_	_	82	obl	_	_	87:targ
+85	Handia	Handia	ADJ	_	_	84	flat	_	_	87:targ
+86	Bidea	Bidea	PROPN	_	_	84	flat	_	_	87:targ
+87	21	21	NUM	_	_	84	nummod	_	_	82:targ
+88	¡	¡	PUNCT	_	_	82	punct	_	_	_
+89	¡	¡	PUNCT	_	_	82	punct	_	_	_
+90	.	.	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00007_07bd22d54d3c8c11e1672e1b373f1e25-1
+# text = Fantástico hotel en el centro de Madrid
+1	Fantástico	zoragarria	ADJ	_	_	2	amod	_	_	0:exp-Positive
+2	hotela	hotela	NOUN	_	_	0	root	_	_	1:targ|7:targ
+3	n	n	ADP	_	_	5	case	_	_	_
+4	bat	bat	DET	_	_	5	det	_	_	_
+5	ikastetxea	ikastetxea	NOUN	_	_	2	nmod	_	_	7:exp-Positive
+6	de	de	ADP	_	_	7	case	_	_	7:exp-Positive
+7	Madril	Madril	PROPN	_	_	5	nmod	_	_	0:exp-Positive
+
+# sent_id = opener_es/kaf/hotel/spanish00007_07bd22d54d3c8c11e1672e1b373f1e25-2
+# text = Si quieres viajar a Madrid elige este hotel .
+1	Bai	bai	SCONJ	_	_	3	mark	_	_	_
+2	quieres	querer	AUX	_	_	3	aux	_	_	_
+3	bidaiatzea	bidaiatzea	VERB	_	_	6	advcl	_	_	_
+4	a	a	ADP	_	_	5	case	_	_	_
+5	Madril	Madril	PROPN	_	_	3	obl	_	_	_
+6	aukeratu	aukeratu	VERB	_	_	0	root	_	_	_
+7	hau	hau	DET	_	_	8	det	_	_	_
+8	hotela	hotela	NOUN	_	_	6	obj	_	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00007_07bd22d54d3c8c11e1672e1b373f1e25-3
+# text = En pleno centro de la ciudad con unas instalaciones inmejorables .
+1	En	n	ADP	_	_	3	case	_	_	2:exp-Positive
+2	pleno	pleno	ADJ	_	_	3	amod	_	_	0:exp-Positive
+3	ikastetxea	ikastetxea	NOUN	_	_	0	root	_	_	6:targ
+4	de	de	ADP	_	_	6	case	_	_	6:targ
+5	la	bat	DET	_	_	6	det	_	_	6:targ
+6	hiria	hiria	NOUN	_	_	3	nmod	_	_	2:targ
+7	honekin	honekin	ADP	_	_	9	case	_	_	_
+8	batzuk	bat	DET	_	_	9	det	_	_	9:targ
+9	instalazioak	instalazioa	NOUN	_	_	3	nmod	_	_	10:targ
+10	inmejorables	inmejorable	ADJ	_	_	9	amod	_	_	0:exp-Positive
+11	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00007_07bd22d54d3c8c11e1672e1b373f1e25-4
+# text = Las habitaciones , el spa ... Todo muy limpio y el trato del personal de recepcion un 10 .
+1	Horiek	bat	DET	_	_	2	det	_	_	2:targ
+2	logelak	gela	NOUN	_	_	0	root	_	_	9:targ
+3	,	,	PUNCT	_	_	5	punct	_	_	_
+4	bat	bat	DET	_	_	5	det	_	_	5:targ
+5	spa	spa	NOUN	_	_	2	appos	_	_	9:targ
+6	...	...	PUNCT	_	_	9	punct	_	_	_
+7	Dena	guztiak	DET	_	_	9	det	_	_	9:targ
+8	oso	asko	ADV	_	_	9	advmod	_	_	9:exp-Positive|9:exp-Positive|9:exp-Positive
+9	garbia	garbia	ADJ	_	_	2	appos	_	_	0:exp-Positive|0:exp-Positive|0:exp-Positive
+10	y	y	CCONJ	_	_	12	cc	_	_	_
+11	bat	bat	DET	_	_	12	det	_	_	_
+12	tratuan	tratuan	NOUN	_	_	2	conj	_	_	16:targ
+13	honengandik	honengandik	ADP	_	_	14	case	_	_	16:targ
+14	langileak	langileak	NOUN	_	_	12	nmod	_	_	16:targ
+15	de	de	ADP	_	_	16	case	_	_	16:targ
+16	harrera	harrera	NOUN	_	_	14	nmod	_	_	18:targ
+17	bat	bat	DET	_	_	18	det	_	_	18:exp-Positive
+18	10	10	NUM	_	_	12	nummod	_	_	0:exp-Positive
+19	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00007_07bd22d54d3c8c11e1672e1b373f1e25-5
+# text = Genial .
+1	Genial	genial	ADJ	_	_	0	root	_	_	0:exp-Positive
+2	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00056_405a8a786911644d9280930d8d2e0423-1
+# text = Un hotel de ciudad acogedor y muy bien situado
+1	Bat	bat	DET	_	_	2	det	_	_	4:targ|4:targ
+2	hotela	hotela	NOUN	_	_	0	root	_	_	4:targ|4:targ
+3	de	de	ADP	_	_	4	case	_	_	4:targ|4:targ
+4	hiria	hiria	NOUN	_	_	2	nmod	_	_	9:targ|5:targ
+5	atsegina	atsegina	ADJ	_	_	4	amod	_	_	0:exp-Positive
+6	y	y	CCONJ	_	_	8	cc	_	_	_
+7	oso	asko	ADV	_	_	8	advmod	_	_	9:exp-Positive
+8	ongi	ongi	ADV	_	_	9	advmod	_	_	9:exp-Positive
+9	kokatua	kokatua	ADJ	_	_	2	amod	_	_	0:exp-Positive
+
+# sent_id = opener_es/kaf/hotel/spanish00056_405a8a786911644d9280930d8d2e0423-2
+# text = El hotel muy céntrico , en plena Gran Vía madrileña , con acceso a pie a los rincones más pintorescos de Madrid .
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ
+2	hotela	hotela	NOUN	_	_	0	root	_	_	4:targ
+3	oso	asko	ADV	_	_	4	advmod	_	_	4:exp-Positive
+4	zentrua	zentrua	ADJ	_	_	2	amod	_	_	0:exp-Positive
+5	,	,	PUNCT	_	_	8	punct	_	_	_
+6	n	n	ADP	_	_	8	case	_	_	7:exp-Positive
+7	plena	pleno	ADJ	_	_	8	amod	_	_	0:exp-Positive
+8	Handia	Handia	ADJ	_	_	2	nmod	_	_	10:targ
+9	Bidea	Bidea	PROPN	_	_	8	flat	_	_	10:targ
+10	madril	madril	ADJ	_	_	8	amod	_	_	7:targ
+11	,	,	PUNCT	_	_	8	punct	_	_	_
+12	honekin	honekin	ADP	_	_	13	case	_	_	_
+13	atzipena	atzipena	NOUN	_	_	2	nmod	_	_	15:exp-Positive
+14	a	a	ADP	_	_	13	advmod	_	_	15:exp-Positive
+15	oin	oin	NOUN	_	_	14	fixed	_	_	0:exp-Positive
+16	a	a	ADP	_	_	18	case	_	_	_
+17	eta	bat	DET	_	_	18	det	_	_	22:targ
+18	txokoak	txokoa	NOUN	_	_	13	nmod	_	_	22:targ
+19	gehiago	gehiago	ADV	_	_	20	advmod	_	_	22:targ
+20	ikusgarriak	bitxia	ADJ	_	_	18	amod	_	_	22:targ
+21	de	de	ADP	_	_	22	case	_	_	22:targ
+22	Madril	Madril	PROPN	_	_	18	nmod	_	_	15:targ
+23	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00056_405a8a786911644d9280930d8d2e0423-3
+# text = La habitación perfectamente insonorizada , con minibar gratuito ( 4 botellas de agua y 2 de Pepsi ) , televisión plana , minicadena , plancha y tabla de panchar , sobres de café y té con cápsulas de leche , etc ... El SPA recién acondicionado , muy completo y además , por ser cliente repetitivo , nos regalaron 2 entradas .
+1	La	bat	DET	_	_	2	det	_	_	2:targ
+2	gela	gela	NOUN	_	_	0	root	_	_	4:targ
+3	perfectamente	perfectamente	ADV	_	_	4	advmod	_	_	4:exp-Positive
+4	insonorizatua	insonorizatua	ADJ	_	_	2	amod	_	_	0:exp-Positive
+5	,	,	PUNCT	_	_	7	punct	_	_	_
+6	honekin	honekin	ADP	_	_	7	mark	_	_	_
+7	edaritegia	edaritegia	VERB	_	_	2	acl	_	_	8:targ
+8	doan	doan	ADJ	_	_	7	obj	_	_	0:exp-Positive|0:exp-Positive|0:exp-Positive|0:exp-Positive|0:exp-Positive|0:exp-Positive|0:exp-Positive
+9	(	(	PUNCT	_	_	11	punct	_	_	_
+10	4	4	NUM	_	_	11	nummod	_	_	_
+11	botilak	botila	NOUN	_	_	7	obj	_	_	_
+12	de	de	ADP	_	_	13	case	_	_	_
+13	ura	ura	NOUN	_	_	11	nmod	_	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_	_
+15	2	2	NUM	_	_	11	conj	_	_	_
+16	de	de	ADP	_	_	17	case	_	_	_
+17	Pepsi	Pepsi	PROPN	_	_	15	nmod	_	_	_
+18	)	)	PUNCT	_	_	11	punct	_	_	_
+19	,	,	PUNCT	_	_	20	punct	_	_	_
+20	telebista	telebista	NOUN	_	_	11	conj	_	_	21:targ
+21	laua	planoa	ADJ	_	_	20	amod	_	_	8:targ
+22	,	,	PUNCT	_	_	23	punct	_	_	_
+23	minicadena	minicadena	NOUN	_	_	20	conj	_	_	8:targ
+24	,	,	PUNCT	_	_	25	punct	_	_	_
+25	xafla	xafla	NOUN	_	_	20	conj	_	_	8:targ
+26	y	y	CCONJ	_	_	27	cc	_	_	_
+27	taula	taula	NOUN	_	_	20	conj	_	_	29:targ
+28	de	de	ADP	_	_	29	mark	_	_	29:targ
+29	pantxatu	pantxatu	VERB	_	_	27	acl	_	_	8:targ
+30	,	,	PUNCT	_	_	31	punct	_	_	_
+31	sobres	sobre	NOUN	_	_	2	appos	_	_	35:targ
+32	de	de	ADP	_	_	33	case	_	_	35:targ
+33	kafea	kafea	NOUN	_	_	31	nmod	_	_	35:targ
+34	y	y	CCONJ	_	_	35	cc	_	_	35:targ
+35	tea	tea	NOUN	_	_	31	conj	_	_	8:targ
+36	honekin	honekin	ADP	_	_	37	case	_	_	_
+37	kapsulak	kapsula	NOUN	_	_	35	nmod	_	_	39:targ
+38	de	de	ADP	_	_	39	case	_	_	39:targ
+39	esnea	esnea	NOUN	_	_	37	nmod	_	_	8:targ
+40	,	,	PUNCT	_	_	44	punct	_	_	_
+41	etc	etcétera	PUNCT	_	_	7	punct	_	_	_
+42	...	...	PUNCT	_	_	44	punct	_	_	_
+43	Bera	bat	DET	_	_	44	det	_	_	44:targ|44:targ
+44	SPA	SPA	PROPN	_	_	2	appos	_	_	49:targ|46:targ
+45	recién	recién	ADV	_	_	46	advmod	_	_	46:exp-Positive
+46	egokitua	egokitua	ADJ	_	_	44	amod	_	_	0:exp-Positive
+47	,	,	PUNCT	_	_	49	punct	_	_	_
+48	oso	asko	ADV	_	_	49	advmod	_	_	49:exp-Positive
+49	osoa	osoa	ADJ	_	_	44	amod	_	_	0:exp-Positive
+50	y	y	CCONJ	_	_	59	cc	_	_	_
+51	gainera	gainera	ADV	_	_	59	advmod	_	_	_
+52	,	,	PUNCT	_	_	55	punct	_	_	_
+53	por	por	ADP	_	_	55	mark	_	_	_
+54	izatea	izatea	AUX	_	_	55	cop	_	_	_
+55	bezeroa	bezeroa	NOUN	_	_	59	advcl	_	_	_
+56	errepikakorra	errepikakorra	ADJ	_	_	55	amod	_	_	_
+57	,	,	PUNCT	_	_	55	punct	_	_	_
+58	igual	ni	PRON	_	_	59	obj	_	_	59:holder
+59	regalaron	oparitu	VERB	_	_	44	acl	_	_	0:exp-Positive
+60	2	2	NUM	_	_	61	nummod	_	_	61:targ
+61	sarrerak	sarrera	NOUN	_	_	59	obj	_	_	59:targ
+62	.	.	PUNCT	_	_	59	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00056_405a8a786911644d9280930d8d2e0423-4
+# text = En recepción un detalle muy de agradecer son las dos jarras con zumos fresquitos .
+1	En	n	ADP	_	_	2	case	_	_	_
+2	harrera	harrera	NOUN	_	_	11	obl	_	_	_
+3	bat	bat	DET	_	_	4	det	_	_	7:exp-Positive
+4	xehetasunak	xehetasunak	NOUN	_	_	11	nsubj	_	_	7:exp-Positive
+5	oso	asko	ADV	_	_	4	advmod	_	_	7:exp-Positive
+6	de	de	ADP	_	_	7	mark	_	_	7:exp-Positive
+7	agradecer	agradecer	VERB	_	_	5	acl	_	_	0:exp-Positive
+8	direnak	izatea	AUX	_	_	11	cop	_	_	_
+9	laborantza	bat	DET	_	_	11	det	_	_	_
+10	bikoa	bikoa	NUM	_	_	9	nummod	_	_	14:targ
+11	pitxerrak	pitxerra	NOUN	_	_	0	root	_	_	14:targ
+12	honekin	honekin	ADP	_	_	13	case	_	_	14:targ
+13	zumoak	zukua	NOUN	_	_	11	nmod	_	_	14:targ
+14	freskitoak	freskitoa	ADJ	_	_	13	amod	_	_	7:targ
+15	.	.	PUNCT	_	_	11	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00056_405a8a786911644d9280930d8d2e0423-5
+# text = Las vistas desde la azotea impresionantes , con dos jacuzzis .
+1	Horiek	bat	DET	_	_	2	det	_	_	5:targ|5:targ
+2	ikuspegia	ikuspegia	NOUN	_	_	0	root	_	_	5:targ|5:targ
+3	hontatik	hontatik	ADP	_	_	5	case	_	_	5:targ|5:targ
+4	la	bat	DET	_	_	5	det	_	_	5:targ|5:targ
+5	teilatuak	teilatuak	NOUN	_	_	2	nmod	_	_	10:targ|6:targ
+6	ikusgarriak	ikusgarria	ADJ	_	_	5	amod	_	_	0:exp-Positive
+7	,	,	PUNCT	_	_	10	punct	_	_	_
+8	honekin	honekin	ADP	_	_	10	case	_	_	10:exp-Positive
+9	bikoa	bikoa	NUM	_	_	10	nummod	_	_	10:exp-Positive
+10	jacuzzis	jacuzzis	NOUN	_	_	2	nmod	_	_	0:exp-Positive
+11	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00056_405a8a786911644d9280930d8d2e0423-6
+# text = Se ve casi todo Madrid .
+1	Se	bera	PRON	_	_	2	obj	_	_	_
+2	ve	ikus	VERB	_	_	0	root	_	_	_
+3	ia	ia	ADV	_	_	5	advmod	_	_	_
+4	guztiak	guztiak	DET	_	_	5	det	_	_	_
+5	Madril	Madril	PROPN	_	_	2	nsubj	_	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00056_405a8a786911644d9280930d8d2e0423-7
+# text = Un hotel de ciudad acogedor y muy bien situado .
+1	Bat	bat	DET	_	_	2	det	_	_	4:targ|4:targ
+2	hotela	hotela	NOUN	_	_	0	root	_	_	4:targ|4:targ
+3	de	de	ADP	_	_	4	case	_	_	4:targ|4:targ
+4	hiria	hiria	NOUN	_	_	2	nmod	_	_	5:targ|9:targ
+5	atsegina	atsegina	ADJ	_	_	4	amod	_	_	0:exp-Positive
+6	y	y	CCONJ	_	_	9	cc	_	_	_
+7	oso	asko	ADV	_	_	8	advmod	_	_	9:exp-Positive
+8	ongi	ongi	ADV	_	_	9	advmod	_	_	9:exp-Positive
+9	kokatua	kokatua	ADJ	_	_	5	conj	_	_	0:exp-Positive
+10	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00048_37bc75d396644985603e9f23a32c34ac-1
+# text = Buen hotel
+1	Ona	ona	ADJ	_	_	2	amod	_	_	0:exp-Positive
+2	hotela	hotela	NOUN	_	_	0	root	_	_	1:targ
+
+# sent_id = opener_es/kaf/hotel/spanish00048_37bc75d396644985603e9f23a32c34ac-2
+# text = El hotel esta alejado del centro pero al final es irrelevante porque afuera del mismo pasa la linea 22 que te lleva directo al centro .
+1	Bera	bat	DET	_	_	2	det	_	_	_
+2	hotela	hotela	NOUN	_	_	4	nsubj	_	_	_
+3	hau	hau	DET	_	_	4	det	_	_	_
+4	urrun	urrun	ADJ	_	_	0	root	_	_	0:exp-Negative
+5	honengandik	honengandik	ADP	_	_	6	case	_	_	_
+6	ikastetxea	ikastetxea	NOUN	_	_	4	obl	_	_	4:targ
+7	baina	baina	CCONJ	_	_	11	cc	_	_	_
+8	u	u	ADP	_	_	9	case	_	_	_
+9	amaiera	amaiera	NOUN	_	_	11	obl	_	_	_
+10	es	izatea	AUX	_	_	11	cop	_	_	_
+11	irrelevante	irrelevante	ADJ	_	_	4	conj	_	_	_
+12	zeren	zeren	SCONJ	_	_	16	mark	_	_	_
+13	kanpora	kanpora	ADV	_	_	16	advmod	_	_	15:exp-Positive
+14	honengandik	honengandik	ADP	_	_	15	case	_	_	15:exp-Positive
+15	berdina	berdina	PRON	_	_	13	obl	_	_	0:exp-Positive
+16	pasa	pasatu	VERB	_	_	11	advcl	_	_	_
+17	la	bat	DET	_	_	18	det	_	_	19:targ|19:targ
+18	lerroa	lerroa	NOUN	_	_	16	nsubj	_	_	19:targ|19:targ
+19	22	22	NUM	_	_	18	appos	_	_	25:targ|15:targ
+20	hau	hau	PRON	_	_	22	nsubj	_	_	_
+21	te	zu	PRON	_	_	22	obj	_	_	_
+22	lleva	eraman	VERB	_	_	18	acl	_	_	_
+23	zuzena	zuzena	ADJ	_	_	22	obj	_	_	25:exp-Positive
+24	u	u	ADP	_	_	25	case	_	_	25:exp-Positive
+25	ikastetxea	ikastetxea	NOUN	_	_	22	obl	_	_	0:exp-Positive
+26	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00048_37bc75d396644985603e9f23a32c34ac-3
+# text = El desayuno es muy rico y variado , las instalaciones son amplias
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ|2:targ
+2	gosaria	gosaria	NOUN	_	_	5	nsubj	_	_	7:targ|5:targ
+3	es	izatea	AUX	_	_	5	cop	_	_	_
+4	oso	asko	ADV	_	_	5	advmod	_	_	5:exp-Positive
+5	aberatsa	aberatsa	ADJ	_	_	0	root	_	_	0:exp-Positive
+6	y	y	CCONJ	_	_	7	cc	_	_	_
+7	askotarikoa	askotarikoa	ADJ	_	_	5	conj	_	_	0:exp-Positive
+8	,	,	PUNCT	_	_	5	punct	_	_	_
+9	laborantza	bat	DET	_	_	10	det	_	_	10:targ
+10	instalazioak	instalazioa	NOUN	_	_	12	nsubj	_	_	12:targ
+11	direnak	izatea	AUX	_	_	12	cop	_	_	_
+12	handiak	handia	ADJ	_	_	5	advcl	_	_	0:exp-Positive
+
+# sent_id = opener_es/kaf/hotel/spanish00055_3f62c258744d02d106b24c310d555907-1
+# text = Hotel normalito
+1	Hotela	Hotela	NOUN	_	_	0	root	_	_	2:targ
+2	arrunta	arrunta	ADJ	_	_	1	amod	_	_	0:exp-Negative
+
+# sent_id = opener_es/kaf/hotel/spanish00055_3f62c258744d02d106b24c310d555907-2
+# text = Es un edificio antiguo y necesita una renovación , las habitaciones bastante antiguas aunque limpias .
+1	Es	izatea	AUX	_	_	3	cop	_	_	_
+2	bat	bat	DET	_	_	3	det	_	_	_
+3	eraikuntza	eraikuntza	NOUN	_	_	0	root	_	_	4:targ
+4	zaharra	zaharra	ADJ	_	_	3	amod	_	_	0:exp-Negative
+5	y	y	CCONJ	_	_	6	cc	_	_	_
+6	necesita	beharrezkoa	VERB	_	_	3	conj	_	_	0:exp-Negative
+7	bat	bat	DET	_	_	8	det	_	_	8:targ
+8	berrikuntza	berrikuntza	NOUN	_	_	6	obj	_	_	6:targ
+9	,	,	PUNCT	_	_	11	punct	_	_	_
+10	laborantza	bat	DET	_	_	11	det	_	_	11:targ|11:targ
+11	logelak	gela	NOUN	_	_	8	appos	_	_	13:targ|15:targ
+12	nahikoa	nahikoa	ADV	_	_	13	advmod	_	_	13:exp-Negative
+13	zaharrak	zaharra	ADJ	_	_	11	amod	_	_	0:exp-Negative
+14	baina	baina	SCONJ	_	_	15	mark	_	_	_
+15	garbiak	garbia	ADJ	_	_	13	amod	_	_	0:exp-Positive
+16	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00055_3f62c258744d02d106b24c310d555907-3
+# text = Ofrece desayuno tipo buffet .
+1	Ofrece	eskaini	VERB	_	_	0	root	_	_	0:exp-Positive
+2	gosaria	gosaria	NOUN	_	_	1	obj	_	_	4:targ
+3	mota	mota	NOUN	_	_	1	obj	_	_	4:targ
+4	buffet	buffet	NOUN	_	_	3	nmod	_	_	1:targ
+5	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00055_3f62c258744d02d106b24c310d555907-4
+# text = Está situado a 15 minutos andando de la Piazza dei Miracoli .
+1	Está	estar	AUX	_	_	2	cop	_	_	_
+2	kokatua	kokatua	ADJ	_	_	0	root	_	_	6:exp-Positive
+3	a	a	ADP	_	_	5	case	_	_	6:exp-Positive
+4	15	15	NUM	_	_	5	nummod	_	_	6:exp-Positive
+5	minutu	minutu	NOUN	_	_	2	obl	_	_	6:exp-Positive
+6	oinez	ibili	VERB	_	_	2	advcl	_	_	0:exp-Positive
+7	de	de	ADP	_	_	9	case	_	_	_
+8	la	bat	DET	_	_	9	det	_	_	11:targ
+9	Piazza	Piazza	PROPN	_	_	6	obl	_	_	11:targ
+10	dei	dei	PROPN	_	_	9	flat	_	_	11:targ
+11	Miracoli	Miracoli	PROPN	_	_	9	flat	_	_	6:targ
+12	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00055_3f62c258744d02d106b24c310d555907-5
+# text = Check · in 24h .
+1	Check	check	NOUN	_	_	0	root	_	_	3:targ
+2	GUTXI EGITEN DUGU	GUTXI EGITEN DUGU	PUNCT	_	_	4	punct	_	_	3:targ
+3	in	in	ADP	_	_	4	case	_	_	4:targ
+4	24h	24h	NOUN	_	_	1	nmod	_	_	0:exp-Positive
+5	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00080_77db05e28da746d0b5d9bfc948970967-1
+# text = La atención fue correcta y la habitación acojedora
+1	La	bat	DET	_	_	2	det	_	_	2:targ
+2	arreta	arreta	NOUN	_	_	4	nsubj	_	_	4:targ
+3	fue	izatea	AUX	_	_	4	cop	_	_	_
+4	zuzena	zuzena	ADJ	_	_	0	root	_	_	0:exp-Positive
+5	y	y	CCONJ	_	_	7	cc	_	_	_
+6	la	bat	DET	_	_	7	det	_	_	7:targ
+7	gela	gela	NOUN	_	_	4	conj	_	_	8:targ
+8	zaharberritzailea	hartzailea	ADJ	_	_	7	amod	_	_	0:exp-Positive
+
+# sent_id = opener_es/kaf/hotel/spanish00080_77db05e28da746d0b5d9bfc948970967-2
+# text = Me ha gustado mucho este hotel por que esta muy bien situado cerca de muchas zonas de ocio y centros comerciales .
+1	Niri	ni	PRON	_	_	3	obj	_	_	4:holder
+2	ha	izana	AUX	_	_	3	aux	_	_	_
+3	gustatu	dastatu	VERB	_	_	0	root	_	_	4:exp-Positive
+4	asko	asko	ADV	_	_	3	advmod	_	_	0:exp-Positive
+5	hau	hau	DET	_	_	6	det	_	_	6:targ
+6	hotela	hotela	NOUN	_	_	3	nsubj	_	_	4:targ
+7	por	por	ADP	_	_	12	mark	_	_	_
+8	hau	hau	SCONJ	_	_	12	mark	_	_	_
+9	hau	hau	DET	_	_	12	det	_	_	_
+10	oso	asko	ADV	_	_	11	advmod	_	_	13:exp-Positive|13:exp-Positive
+11	ongi	ongi	ADV	_	_	12	advmod	_	_	13:exp-Positive|13:exp-Positive
+12	kokatua	kokatua	ADJ	_	_	3	advcl	_	_	13:exp-Positive|13:exp-Positive
+13	hurbil	hurbil	ADV	_	_	12	advmod	_	_	0:exp-Positive|0:exp-Positive
+14	de	de	ADP	_	_	16	case	_	_	_
+15	asko	asko	DET	_	_	16	det	_	_	18:targ
+16	kokalekuak	lekua	NOUN	_	_	13	obl	_	_	18:targ
+17	de	de	ADP	_	_	18	case	_	_	18:targ
+18	aisialdia	aisialdia	NOUN	_	_	16	nmod	_	_	13:targ
+19	y	y	CCONJ	_	_	20	cc	_	_	_
+20	ikastetxeak	ikastetxea	NOUN	_	_	18	conj	_	_	21:targ
+21	merkataritza	merkataritza	ADJ	_	_	20	amod	_	_	13:targ
+22	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00080_77db05e28da746d0b5d9bfc948970967-3
+# text = La atencion ha sido de calidad y el restaurante del hotel sirven una comida muy rica .
+1	La	bat	DET	_	_	2	det	_	_	2:targ
+2	arreta	arreta	NOUN	_	_	6	nsubj	_	_	6:targ
+3	ha	izana	AUX	_	_	6	aux	_	_	_
+4	izana	izatea	AUX	_	_	6	cop	_	_	_
+5	de	de	ADP	_	_	6	case	_	_	6:exp-Positive
+6	kalitatea	kalitatea	NOUN	_	_	0	root	_	_	0:exp-Positive
+7	y	y	CCONJ	_	_	12	cc	_	_	_
+8	bat	bat	DET	_	_	9	det	_	_	11:targ
+9	jatetxea	jatetxea	NOUN	_	_	12	nsubj	_	_	11:targ
+10	honengandik	honengandik	ADP	_	_	11	case	_	_	11:targ
+11	hotela	hotela	NOUN	_	_	9	nmod	_	_	16:targ
+12	sirven	zerbitzatu	VERB	_	_	6	conj	_	_	16:exp-Positive
+13	bat	bat	DET	_	_	14	det	_	_	16:exp-Positive
+14	janaria	janaria	NOUN	_	_	12	obj	_	_	16:exp-Positive
+15	oso	asko	ADV	_	_	16	advmod	_	_	16:exp-Positive
+16	aberatsa	aberatsa	ADJ	_	_	14	amod	_	_	0:exp-Positive
+17	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00165_baf1093cd67270088189d9cca4231690-1
+# text = Ya tenemos hotel en Madrid
+1	Orain	dagoeneko	ADV	_	_	2	advmod	_	_	_
+2	baditugu	eduki	VERB	_	_	0	root	_	_	_
+3	hotela	hotela	NOUN	_	_	2	obj	_	_	_
+4	n	n	ADP	_	_	5	case	_	_	_
+5	Madril	Madril	PROPN	_	_	2	obl	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00165_baf1093cd67270088189d9cca4231690-2
+# text = Un hotel con una situación privilegiada en pleno corazón de Madrid .
+1	Bat	bat	DET	_	_	2	det	_	_	_
+2	hotela	hotela	NOUN	_	_	0	root	_	_	_
+3	honekin	honekin	ADP	_	_	5	case	_	_	_
+4	bat	bat	DET	_	_	5	det	_	_	_
+5	egoera	egoera	NOUN	_	_	2	nmod	_	_	11:targ|6:targ
+6	pribilegiatua	pribilegiatua	ADJ	_	_	5	amod	_	_	0:exp-Positive
+7	n	n	ADP	_	_	9	case	_	_	11:exp-Positive
+8	pleno	pleno	ADJ	_	_	9	amod	_	_	11:exp-Positive
+9	bihotza	bihotza	NOUN	_	_	6	obl	_	_	11:exp-Positive
+10	de	de	ADP	_	_	11	case	_	_	11:exp-Positive
+11	Madril	Madril	PROPN	_	_	9	nmod	_	_	0:exp-Positive
+12	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00165_baf1093cd67270088189d9cca4231690-3
+# text = La habitación familiar es más que suficiente para dos adultos y dos niños ya que dispones de dos camas de 1'35 al igual que los hoteles de Playa que hemos visitado .
+1	La	bat	DET	_	_	2	det	_	_	3:targ
+2	gela	gela	NOUN	_	_	7	nsubj	_	_	3:targ
+3	familia	familia	ADJ	_	_	2	amod	_	_	7:targ
+4	es	izatea	AUX	_	_	7	cop	_	_	_
+5	gehiago	gehiago	ADV	_	_	7	advmod	_	_	7:exp-Positive
+6	hau	hau	SCONJ	_	_	5	fixed	_	_	7:exp-Positive
+7	nahikoa	nahikoa	ADJ	_	_	0	root	_	_	0:exp-Positive
+8	para	para	ADP	_	_	10	case	_	_	_
+9	bikoa	bikoa	NUM	_	_	10	nummod	_	_	_
+10	helduak	heldua	NOUN	_	_	7	nmod	_	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_	_
+12	bikoa	bikoa	NUM	_	_	13	nummod	_	_	_
+13	haurrak	haurra	NOUN	_	_	10	conj	_	_	_
+14	dagoeneko	dagoeneko	ADV	_	_	16	mark	_	_	_
+15	hau	hau	SCONJ	_	_	14	fixed	_	_	_
+16	ahalak	edukitzea	VERB	_	_	7	advcl	_	_	0:exp-Positive
+17	de	de	ADP	_	_	19	case	_	_	_
+18	bikoa	bikoa	NUM	_	_	19	nummod	_	_	21:targ
+19	oheak	ohea	NOUN	_	_	16	obj	_	_	21:targ
+20	de	de	ADP	_	_	21	case	_	_	21:targ
+21	1'35	1.35	NUM	_	_	19	nummod	_	_	16:targ
+22	u	u	ADP	_	_	26	mark	_	_	_
+23	berdina	berdina	ADJ	_	_	22	fixed	_	_	_
+24	hau	hau	SCONJ	_	_	22	fixed	_	_	_
+25	eta	bat	DET	_	_	26	det	_	_	_
+26	hotelak	hotela	NOUN	_	_	16	obl	_	_	_
+27	de	de	ADP	_	_	28	case	_	_	_
+28	Hondartza	Hondartza	PROPN	_	_	26	nmod	_	_	_
+29	hau	hau	PRON	_	_	31	obj	_	_	_
+30	hemos	izana	AUX	_	_	31	aux	_	_	_
+31	bisitatua	bisita	VERB	_	_	26	acl	_	_	_
+32	.	.	PUNCT	_	_	7	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00165_baf1093cd67270088189d9cca4231690-4
+# text = El armario es grande y dispone de caja fuerte gratuita y plancha .
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ
+2	armairua	armairua	NOUN	_	_	4	nsubj	_	_	4:targ
+3	es	izatea	AUX	_	_	4	cop	_	_	_
+4	handia	handia	ADJ	_	_	0	root	_	_	0:exp-Positive
+5	y	y	CCONJ	_	_	6	cc	_	_	_
+6	eskura	edukitzea	VERB	_	_	4	conj	_	_	0:exp-Positive|0:exp-Positive
+7	de	de	ADP	_	_	8	case	_	_	_
+8	kutxa	kutxa	NOUN	_	_	6	obj	_	_	10:targ
+9	indartsua	indartsua	ADJ	_	_	8	amod	_	_	10:targ
+10	doan	doan	ADJ	_	_	8	amod	_	_	6:targ
+11	y	y	CCONJ	_	_	12	cc	_	_	_
+12	xafla	plancho	ADJ	_	_	10	conj	_	_	6:targ
+13	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00165_baf1093cd67270088189d9cca4231690-5
+# text = La TV es grande y dispone de muchos canales .
+1	La	bat	DET	_	_	2	det	_	_	2:targ
+2	Telebista	Telebista	PROPN	_	_	4	nsubj	_	_	4:targ
+3	es	izatea	AUX	_	_	4	cop	_	_	_
+4	handia	handia	ADJ	_	_	0	root	_	_	0:exp-Positive
+5	y	y	CCONJ	_	_	6	cc	_	_	_
+6	eskura	edukitzea	VERB	_	_	4	conj	_	_	0:exp-Positive
+7	de	de	ADP	_	_	9	case	_	_	_
+8	asko	asko	DET	_	_	9	det	_	_	9:targ
+9	kanalak	kanala	NOUN	_	_	6	obj	_	_	6:targ
+10	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00165_baf1093cd67270088189d9cca4231690-6
+# text = El baño es correcto .
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ
+2	komuna	komuna	NOUN	_	_	4	nsubj	_	_	4:targ
+3	es	izatea	AUX	_	_	4	cop	_	_	_
+4	zuzena	zuzena	ADJ	_	_	0	root	_	_	0:exp-Positive
+5	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00165_baf1093cd67270088189d9cca4231690-7
+# text = Comentar que también hay un pequeño equipo de música y un sillón del tipo relax .
+1	Comentar	iruzkina	VERB	_	_	0	root	_	_	_
+2	hau	hau	SCONJ	_	_	4	mark	_	_	_
+3	también	también	ADV	_	_	4	advmod	_	_	_
+4	bada	izana	AUX	_	_	1	ccomp	_	_	0:exp-Positive|0:exp-Positive
+5	bat	bat	DET	_	_	7	det	_	_	_
+6	txikia	txikia	ADJ	_	_	7	amod	_	_	0:exp-Negative|0:exp-Negative
+7	taldea	taldea	NOUN	_	_	4	obj	_	_	9:targ|9:targ
+8	de	de	ADP	_	_	9	case	_	_	9:targ|9:targ
+9	musika	musika	NOUN	_	_	7	nmod	_	_	4:targ|6:targ
+10	y	y	CCONJ	_	_	12	cc	_	_	_
+11	bat	bat	DET	_	_	12	det	_	_	15:targ|15:targ
+12	besaulkia	besaulkia	NOUN	_	_	7	conj	_	_	15:targ|15:targ
+13	honengandik	honengandik	ADP	_	_	14	case	_	_	15:targ|15:targ
+14	mota	mota	NOUN	_	_	12	nmod	_	_	15:targ|15:targ
+15	relax	relax	ADJ	_	_	14	amod	_	_	4:targ|6:targ
+16	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00165_baf1093cd67270088189d9cca4231690-8
+# text = Lo que hay en el milibar es sin cargo y dispones de un hervidor de agua con diferentes cafés e infusiones .
+1	Lo	bera	PRON	_	_	3	det	_	_	6:targ
+2	hau	hau	PRON	_	_	3	obj	_	_	6:targ
+3	bada	izana	AUX	_	_	7	csubj	_	_	6:targ
+4	n	n	ADP	_	_	6	case	_	_	6:targ
+5	bat	bat	DET	_	_	6	det	_	_	6:targ
+6	milibar	milibar	NOUN	_	_	3	obl	_	_	9:targ
+7	es	izatea	AUX	_	_	9	cop	_	_	_
+8	gabe	gabe	ADP	_	_	9	case	_	_	9:exp-Positive
+9	kargua	kargua	NOUN	_	_	0	root	_	_	0:exp-Positive
+10	y	y	CCONJ	_	_	11	cc	_	_	_
+11	ahalak	edukitzea	VERB	_	_	9	conj	_	_	12:exp-Positive
+12	de	de	ADP	_	_	14	case	_	_	0:exp-Positive
+13	bat	bat	DET	_	_	14	det	_	_	16:targ
+14	herbidorea	herbidorea	NOUN	_	_	11	obj	_	_	16:targ
+15	de	de	ADP	_	_	16	case	_	_	16:targ
+16	ura	ura	NOUN	_	_	14	nmod	_	_	12:targ
+17	honekin	honekin	ADP	_	_	19	case	_	_	_
+18	ezberdinak	ezberdina	DET	_	_	19	det	_	_	_
+19	kafeak	kafea	NOUN	_	_	14	nmod	_	_	_
+20	e	e	CCONJ	_	_	21	cc	_	_	_
+21	infusioak	infusioa	NOUN	_	_	19	conj	_	_	_
+22	.	.	PUNCT	_	_	9	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00165_baf1093cd67270088189d9cca4231690-9
+# text = El lugar del desayuno es pequeño pero no hubo ningún problema .
+1	Bera	bat	DET	_	_	2	det	_	_	4:targ
+2	lekua	lekua	NOUN	_	_	6	nsubj	_	_	4:targ
+3	honengandik	honengandik	ADP	_	_	4	case	_	_	4:targ
+4	gosaria	gosaria	NOUN	_	_	2	nmod	_	_	6:targ
+5	es	izatea	AUX	_	_	6	cop	_	_	_
+6	txikia	txikia	ADJ	_	_	0	root	_	_	0:exp-Negative
+7	baina	baina	CCONJ	_	_	9	cc	_	_	_
+8	ez	ez	ADV	_	_	9	advmod	_	_	9:exp-Positive
+9	hubo	izana	AUX	_	_	6	conj	_	_	0:exp-Positive
+10	ningún	ninguno	DET	_	_	11	det	_	_	11:targ
+11	arazoa	arazoa	NOUN	_	_	9	obj	_	_	9:targ
+12	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00165_baf1093cd67270088189d9cca4231690-10
+# text = La calidad del desayuno es muy buena .
+1	La	bat	DET	_	_	2	det	_	_	4:targ
+2	kalitatea	kalitatea	NOUN	_	_	7	nsubj	_	_	4:targ
+3	honengandik	honengandik	ADP	_	_	4	case	_	_	4:targ
+4	gosaria	gosaria	NOUN	_	_	2	nmod	_	_	7:targ
+5	es	izatea	AUX	_	_	7	cop	_	_	_
+6	oso	asko	ADV	_	_	7	advmod	_	_	7:exp-Positive
+7	ona	ona	ADJ	_	_	0	root	_	_	0:exp-Positive
+8	.	.	PUNCT	_	_	7	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00165_baf1093cd67270088189d9cca4231690-11
+# text = El personal ha sido en todo momento muy amable .
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ
+2	langileak	langileak	NOUN	_	_	9	nsubj	_	_	9:targ
+3	ha	izana	AUX	_	_	9	aux	_	_	_
+4	izana	izatea	AUX	_	_	9	cop	_	_	_
+5	n	n	ADP	_	_	7	case	_	_	_
+6	guztiak	guztiak	DET	_	_	7	det	_	_	_
+7	momentua	momentua	NOUN	_	_	9	obl	_	_	_
+8	oso	asko	ADV	_	_	9	advmod	_	_	9:exp-Positive
+9	atsegina	atsegina	ADJ	_	_	0	root	_	_	0:exp-Positive
+10	.	.	PUNCT	_	_	9	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00165_baf1093cd67270088189d9cca4231690-12
+# text = Lástima de no haber podido disfrutar del SPA por problemas de agenda .
+1	Lástima	pena	NOUN	_	_	0	root	_	_	_
+2	de	de	ADP	_	_	6	mark	_	_	_
+3	ez	ez	ADV	_	_	6	advmod	_	_	_
+4	izana	izana	AUX	_	_	6	aux	_	_	_
+5	posiblea	boterea	AUX	_	_	6	aux	_	_	_
+6	gozatu	gozatu	VERB	_	_	1	acl	_	_	_
+7	honengandik	honengandik	ADP	_	_	8	case	_	_	_
+8	SPA	SPA	PROPN	_	_	6	obj	_	_	_
+9	por	por	ADP	_	_	10	case	_	_	_
+10	arazoak	arazoa	NOUN	_	_	6	obl	_	_	_
+11	de	de	ADP	_	_	12	case	_	_	_
+12	agenda	agenda	NOUN	_	_	10	nmod	_	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00165_baf1093cd67270088189d9cca4231690-13
+# text = La próxima vez quizás .
+1	La	bat	DET	_	_	3	det	_	_	_
+2	hurrengoa	hurrengoa	ADJ	_	_	3	amod	_	_	_
+3	aldiz	aldiz	NOUN	_	_	0	root	_	_	_
+4	agian	agian	ADV	_	_	3	advmod	_	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143-1
+# text = Perfecto Campamento base para visitar La Toscana
+1	Perfecto	perfektua	ADJ	_	_	2	amod	_	_	0:exp-Positive
+2	Kanpamentua	Kanpamentua	PROPN	_	_	0	root	_	_	3:targ
+3	oinarria	oinarria	NOUN	_	_	2	appos	_	_	1:targ
+4	para	para	ADP	_	_	5	mark	_	_	_
+5	bisita	bisita	VERB	_	_	2	acl	_	_	_
+6	La	bat	DET	_	_	7	det	_	_	_
+7	Toskana	Toskana	PROPN	_	_	5	obj	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143-2
+# text = Estuvimos 4 días por la Toscana y Borgo Grondaie , mi mujer y yo y salimos encantados de la estancia .
+1	Estuvimos	estar	VERB	_	_	0	root	_	_	_
+2	4	4	NUM	_	_	3	nummod	_	_	_
+3	egun	eguna	NOUN	_	_	1	obl	_	_	_
+4	por	por	ADP	_	_	6	case	_	_	_
+5	la	bat	DET	_	_	6	det	_	_	_
+6	Toskana	Toskana	PROPN	_	_	1	obl	_	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_	_
+8	Borgo	Borgo	PROPN	_	_	6	conj	_	_	_
+9	Grondaie	Grondaie	PROPN	_	_	8	flat	_	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_	_
+11	nirea	nirea	DET	_	_	12	det	_	_	_
+12	emakumea	emakumea	NOUN	_	_	8	appos	_	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_	_
+14	ni	ni	PRON	_	_	12	conj	_	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_	_
+16	salimos	irten	VERB	_	_	1	conj	_	_	_
+17	encantados	encantado	ADJ	_	_	16	obj	_	_	0:exp-Positive
+18	de	de	ADP	_	_	20	case	_	_	_
+19	la	bat	DET	_	_	20	det	_	_	20:targ
+20	egonaldia	egonaldia	NOUN	_	_	17	obj	_	_	17:targ
+21	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143-3
+# text = Tenía la ubicación perfecta .
+1	Banuen	eduki	VERB	_	_	0	root	_	_	_
+2	la	bat	DET	_	_	3	det	_	_	_
+3	kokalekua	kokalekua	NOUN	_	_	1	obj	_	_	4:targ
+4	perfektua	perfektua	ADJ	_	_	3	amod	_	_	0:exp-Positive
+5	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143-4
+# text = Esta en las afueras de Siena pero sin estar lejos .
+1	Hau	hau	PRON	_	_	0	root	_	_	_
+2	n	n	ADP	_	_	4	case	_	_	10:exp-Positive
+3	laborantza	bat	DET	_	_	4	det	_	_	10:exp-Positive
+4	afueras	afueras	NOUN	_	_	1	nmod	_	_	10:exp-Positive
+5	de	de	ADP	_	_	6	case	_	_	10:exp-Positive
+6	Siena	Siena	PROPN	_	_	4	nmod	_	_	10:exp-Positive
+7	baina	baina	CCONJ	_	_	10	cc	_	_	10:exp-Positive
+8	gabe	gabe	ADP	_	_	10	case	_	_	10:exp-Positive
+9	estar	estar	AUX	_	_	10	cop	_	_	10:exp-Positive
+10	urrun	urrun	ADV	_	_	4	conj	_	_	0:exp-Positive
+11	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143-5
+# text = Las habitaciones eran perfectas , están repartidas en diferentes casas .
+1	Horiek	bat	DET	_	_	2	det	_	_	2:targ|2:targ
+2	logelak	gela	NOUN	_	_	4	nsubj	_	_	10:targ|4:targ
+3	eran	izatea	AUX	_	_	4	cop	_	_	_
+4	perfektuak	perfektua	ADJ	_	_	0	root	_	_	0:exp-Positive
+5	,	,	PUNCT	_	_	7	punct	_	_	_
+6	están	estar	AUX	_	_	7	cop	_	_	_
+7	banatuta	banatua	ADJ	_	_	4	advcl	_	_	10:exp-Positive
+8	n	n	ADP	_	_	10	case	_	_	10:exp-Positive
+9	ezberdinak	ezberdina	DET	_	_	10	det	_	_	10:exp-Positive
+10	etxeak	etxea	NOUN	_	_	7	obl	_	_	0:exp-Positive
+11	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143-6
+# text = El desayuno estupendo , así coges fuerzas para los viajes .
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ
+2	gosaria	gosaria	NOUN	_	_	6	nsubj	_	_	3:targ
+3	estupendo	estupendo	ADJ	_	_	2	amod	_	_	0:exp-Positive
+4	,	,	PUNCT	_	_	2	punct	_	_	_
+5	honela	honela	ADV	_	_	6	advmod	_	_	_
+6	hartzen	hartu	VERB	_	_	0	root	_	_	_
+7	indarra	indarra	NOUN	_	_	6	obj	_	_	_
+8	para	para	ADP	_	_	10	case	_	_	_
+9	eta	bat	DET	_	_	10	det	_	_	_
+10	bidaiak	bidaia	NOUN	_	_	6	obl	_	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143-7
+# text = El trato ameno y cordial .
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ|2:targ
+2	tratuan	tratuan	NOUN	_	_	0	root	_	_	5:targ|3:targ
+3	amenoa	amenoa	ADJ	_	_	2	amod	_	_	0:exp-Positive
+4	y	y	CCONJ	_	_	5	cc	_	_	_
+5	atsegina	atsegina	ADJ	_	_	3	conj	_	_	0:exp-Positive
+6	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143-8
+# text = Tuvimos alguna necesidad de pillar entradas por internet y supermajos .
+1	Tuvimos	eduki	VERB	_	_	0	root	_	_	_
+2	batzuk	bat	DET	_	_	3	det	_	_	_
+3	beharra	beharra	NOUN	_	_	1	obj	_	_	_
+4	de	de	ADP	_	_	5	mark	_	_	_
+5	harrapatu	harrapatu	VERB	_	_	3	acl	_	_	_
+6	sarrerak	sarrera	NOUN	_	_	5	obj	_	_	_
+7	por	por	ADP	_	_	8	case	_	_	_
+8	internet	internet	NOUN	_	_	6	nmod	_	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_	_
+10	gainmajoak	gainmajoa	NOUN	_	_	8	conj	_	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143-9
+# text = También nos recomendaron una pizzeria cercana tipica italiana que mamma mia que bueno estaba todo ...
+1	También	también	ADV	_	_	3	advmod	_	_	_
+2	igual	ni	PRON	_	_	3	obj	_	_	_
+3	recomendaron	gomendatzea	VERB	_	_	0	root	_	_	_
+4	bat	bat	DET	_	_	5	det	_	_	_
+5	pizzeria	pizzeria	NOUN	_	_	3	obj	_	_	_
+6	cercana	hurbila	ADJ	_	_	5	amod	_	_	_
+7	tipika	tipikoa	ADJ	_	_	5	amod	_	_	_
+8	italiarra	italiarra	ADJ	_	_	5	amod	_	_	_
+9	hau	hau	PRON	_	_	14	nsubj	_	_	_
+10	mamma	mamma	NOUN	_	_	14	nsubj	_	_	_
+11	mia	mia	NOUN	_	_	10	nmod	_	_	_
+12	hau	hau	PRON	_	_	14	nsubj	_	_	_
+13	on	ona	ADJ	_	_	11	amod	_	_	_
+14	estaba	estar	VERB	_	_	5	acl	_	_	_
+15	guztiak	guztiak	PRON	_	_	14	obj	_	_	_
+16	...	...	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143-10
+# text = Y de Toscana ... mejor que lo veais ... y además delo bonito que es Florencia y Siena ... perderos por sus pueblos ..
+1	Eta	y	CCONJ	_	_	8	advmod	_	_	_
+2	de	de	ADP	_	_	3	case	_	_	_
+3	Toskana	Toskana	PROPN	_	_	8	obl	_	_	8:targ
+4	...	...	PUNCT	_	_	5	punct	_	_	_
+5	hobea	hobea	ADJ	_	_	3	amod	_	_	8:exp-Positive|8:exp-Positive
+6	hau	hau	SCONJ	_	_	8	mark	_	_	8:exp-Positive|8:exp-Positive
+7	eta	bera	PRON	_	_	8	obj	_	_	8:targ
+8	veais	ikus	VERB	_	_	0	root	_	_	0:exp-Positive|0:exp-Positive
+9	...	...	PUNCT	_	_	12	punct	_	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_	_
+11	gainera	gainera	ADV	_	_	12	advmod	_	_	_
+12	delo	delar	VERB	_	_	8	conj	_	_	_
+13	polita	polita	ADJ	_	_	12	obj	_	_	0:exp-Positive|0:exp-Positive
+14	hau	hau	SCONJ	_	_	16	mark	_	_	_
+15	es	izatea	AUX	_	_	16	cop	_	_	_
+16	Florentzia	Florentzia	PROPN	_	_	20	nsubj	_	_	13:targ
+17	y	y	CCONJ	_	_	18	cc	_	_	_
+18	Siena	Siena	PROPN	_	_	16	conj	_	_	13:targ
+19	...	...	PUNCT	_	_	20	punct	_	_	_
+20	galdu	galdu	VERB	_	_	12	ccomp	_	_	_
+21	por	por	ADP	_	_	23	case	_	_	_
+22	bereak	bere	DET	_	_	23	det	_	_	_
+23	herriak	herria	NOUN	_	_	20	obl	_	_	_
+24	...	...	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00046_35e460d9f4b2ac93b09d5d8437a0b143-11
+# text = También cerca hay algún supermercado y las salidas al valle del Chianti estan al lado del hotel .
+1	También	también	ADV	_	_	3	advmod	_	_	_
+2	hurbil	hurbil	ADV	_	_	3	advmod	_	_	_
+3	bada	izana	AUX	_	_	0	root	_	_	_
+4	batzuk	bat	DET	_	_	5	det	_	_	_
+5	supermerkatua	supermerkatua	NOUN	_	_	3	obj	_	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_	_
+7	laborantza	bat	DET	_	_	8	det	_	_	12:targ
+8	irteerak	irteera	NOUN	_	_	5	conj	_	_	12:targ
+9	u	u	ADP	_	_	10	case	_	_	12:targ
+10	harana	harana	NOUN	_	_	8	nmod	_	_	12:targ
+11	honengandik	honengandik	ADP	_	_	12	case	_	_	12:targ
+12	Chianti	Chianti	PROPN	_	_	10	nmod	_	_	17:targ
+13	estan	estar	VERB	_	_	3	conj	_	_	_
+14	u	u	ADP	_	_	17	case	_	_	17:exp-Positive
+15	alderdia	alderdia	NOUN	_	_	14	fixed	_	_	17:exp-Positive
+16	honengandik	honengandik	ADP	_	_	14	fixed	_	_	17:exp-Positive
+17	hotela	hotela	NOUN	_	_	13	obl	_	_	0:exp-Positive
+18	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00046_42345a0fc13354569f92c1f144a575df-1
+# text = Detalles que hacen que vuelvas
+1	Xehetasunak	xehetasunak	NOUN	_	_	0	root	_	_	5:targ
+2	hau	hau	PRON	_	_	3	nsubj	_	_	5:exp-Positive
+3	hacen	egin	VERB	_	_	1	acl	_	_	5:exp-Positive
+4	hau	hau	SCONJ	_	_	5	mark	_	_	5:exp-Positive
+5	itzuli	itzuli	VERB	_	_	3	ccomp	_	_	0:exp-Positive
+
+# sent_id = opener_es/kaf/hotel/spanish00046_42345a0fc13354569f92c1f144a575df-2
+# text = VEl hotel tiene 168 habitaciones y 11 plantas , nosotros nos alojamos en esta última y con vistas a la Gran Vía , además las habitaciones están insonorizadas y no se escucha nada del exterior .
+1	VEl	VEl	PROPN	_	_	3	nsubj	_	_	_
+2	hotela	hotela	NOUN	_	_	1	appos	_	_	_
+3	badu	eduki	VERB	_	_	0	root	_	_	0:exp-Positive|0:exp-Positive
+4	168	168	NUM	_	_	5	nummod	_	_	5:targ
+5	logelak	gela	NOUN	_	_	3	obj	_	_	3:targ
+6	y	y	CCONJ	_	_	8	cc	_	_	_
+7	11	11	NUM	_	_	8	nummod	_	_	8:targ
+8	landareak	landarea	NOUN	_	_	5	conj	_	_	3:targ
+9	,	,	PUNCT	_	_	12	punct	_	_	_
+10	gu	ni	PRON	_	_	12	nsubj	_	_	11:holder
+11	igual	ni	PRON	_	_	12	obj	_	_	13:holder
+12	alojamos	alojar	VERB	_	_	3	advcl	_	_	13:exp-Positive
+13	n	n	ADP	_	_	15	case	_	_	0:exp-Positive
+14	hau	hau	DET	_	_	15	det	_	_	15:targ
+15	azkena	azkena	ADJ	_	_	12	obl	_	_	13:targ
+16	y	y	CCONJ	_	_	21	cc	_	_	_
+17	honekin	honekin	ADP	_	_	21	case	_	_	0:exp-Positive
+18	ikuspegia	ikuspegia	NOUN	_	_	17	fixed	_	_	22:targ
+19	a	a	ADP	_	_	17	fixed	_	_	22:targ
+20	la	bat	DET	_	_	21	det	_	_	22:targ
+21	Handia	Handia	ADJ	_	_	15	conj	_	_	22:targ
+22	Bidea	Bidea	PROPN	_	_	21	flat	_	_	17:targ
+23	,	,	PUNCT	_	_	28	punct	_	_	_
+24	gainera	gainera	ADV	_	_	28	advmod	_	_	_
+25	laborantza	bat	DET	_	_	26	det	_	_	26:targ
+26	logelak	gela	NOUN	_	_	28	nsubj	_	_	28:targ
+27	están	estar	AUX	_	_	28	cop	_	_	28:exp-Positive
+28	insonorizatuak	insonorizatua	ADJ	_	_	3	advcl	_	_	0:exp-Positive
+29	y	y	CCONJ	_	_	32	cc	_	_	_
+30	ez	ez	ADV	_	_	32	advmod	_	_	32:exp-Positive
+31	se	bera	PRON	_	_	32	obj	_	_	32:exp-Positive
+32	entzun	entzun	VERB	_	_	28	conj	_	_	0:exp-Positive
+33	nada	nada	PRON	_	_	32	nsubj	_	_	35:targ
+34	honengandik	honengandik	ADP	_	_	35	case	_	_	35:targ
+35	kanpokoa	kanpokoa	NOUN	_	_	33	nmod	_	_	32:targ
+36	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00046_42345a0fc13354569f92c1f144a575df-3
+# text = La limpieza es excelente .
+1	La	bat	DET	_	_	2	det	_	_	2:targ
+2	garbiketa	garbiketa	NOUN	_	_	4	nsubj	_	_	4:targ
+3	es	izatea	AUX	_	_	4	cop	_	_	_
+4	bikaina	bikaina	ADJ	_	_	0	root	_	_	0:exp-Positive
+5	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00046_42345a0fc13354569f92c1f144a575df-4
+# text = El último día tuvimos incluido el desayuno y la verdad es que hay mucha variedad , etaba todo muy bueno y es tipo buffet .
+1	Bera	bat	DET	_	_	3	det	_	_	_
+2	azkena	azkena	ADJ	_	_	3	amod	_	_	_
+3	eguna	eguna	NOUN	_	_	4	obl	_	_	_
+4	tuvimos	eduki	VERB	_	_	0	root	_	_	_
+5	barneratua	barneratua	ADJ	_	_	4	obj	_	_	0:exp-Positive
+6	bat	bat	DET	_	_	7	det	_	_	7:targ|7:targ|7:targ|7:targ
+7	gosaria	gosaria	NOUN	_	_	4	obj	_	_	15:targ|24:targ|5:targ|20:targ
+8	y	y	CCONJ	_	_	11	cc	_	_	_
+9	la	bat	DET	_	_	10	det	_	_	_
+10	egia	egia	NOUN	_	_	11	nsubj	_	_	_
+11	es	izatea	AUX	_	_	4	conj	_	_	_
+12	hau	hau	SCONJ	_	_	13	mark	_	_	_
+13	bada	izana	AUX	_	_	11	ccomp	_	_	15:exp-Positive
+14	asko	asko	DET	_	_	15	det	_	_	15:exp-Positive
+15	barietatea	barietatea	NOUN	_	_	13	obj	_	_	0:exp-Positive
+16	,	,	PUNCT	_	_	17	punct	_	_	_
+17	etaba	etar	VERB	_	_	13	advcl	_	_	20:exp-Positive
+18	guztiak	guztiak	PRON	_	_	17	obj	_	_	20:exp-Positive
+19	oso	asko	ADV	_	_	20	advmod	_	_	20:exp-Positive
+20	on	ona	ADJ	_	_	18	amod	_	_	0:exp-Positive
+21	y	y	CCONJ	_	_	23	cc	_	_	_
+22	es	izatea	AUX	_	_	23	cop	_	_	_
+23	mota	mota	NOUN	_	_	13	conj	_	_	24:exp-Positive
+24	buffet	buffet	NOUN	_	_	23	nmod	_	_	0:exp-Positive
+25	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00029_208cba694eee5067b767c89d6f40c08b-1
+# text = Este hotel era la gran desilusión de nuestro viaje
+1	Ekialdea	hau	DET	_	_	2	det	_	_	2:targ
+2	hotela	hotela	NOUN	_	_	6	nsubj	_	_	9:targ
+3	era	izatea	AUX	_	_	6	cop	_	_	_
+4	la	bat	DET	_	_	6	det	_	_	9:exp-Negative
+5	handia	handia	ADJ	_	_	6	amod	_	_	9:exp-Negative
+6	etsipena	etsipena	NOUN	_	_	0	root	_	_	9:exp-Negative
+7	de	de	ADP	_	_	9	case	_	_	9:exp-Negative
+8	gurea	gurea	DET	_	_	9	det	_	_	9:exp-Negative
+9	bidaia	bidaia	NOUN	_	_	6	nmod	_	_	0:exp-Negative
+
+# sent_id = opener_es/kaf/hotel/spanish00029_208cba694eee5067b767c89d6f40c08b-2
+# text = Viajamos en el mes de mayo con una temperatura nocturna entre 2 y 7 grados y aun siendo por dos días los unicos clientes del hotel se nos negó poner la calefacción .
+1	Bidaiak	bidaiatzea	VERB	_	_	0	root	_	_	_
+2	n	n	ADP	_	_	4	case	_	_	_
+3	bat	bat	DET	_	_	4	det	_	_	_
+4	hilabete	hilabete	NOUN	_	_	1	obl	_	_	_
+5	de	de	ADP	_	_	6	case	_	_	_
+6	maiatza	maiatza	NOUN	_	_	4	compound	_	_	_
+7	honekin	honekin	ADP	_	_	9	case	_	_	_
+8	bat	bat	DET	_	_	9	det	_	_	_
+9	tenperatura	tenperatura	NOUN	_	_	1	obl	_	_	_
+10	gauak	gaua	ADJ	_	_	9	amod	_	_	_
+11	tartean	tartean	ADP	_	_	15	case	_	_	_
+12	2	2	NUM	_	_	15	nummod	_	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_	_
+14	7	7	NUM	_	_	12	conj	_	_	_
+15	gradu	gradu	NOUN	_	_	9	nmod	_	_	_
+16	y	y	CCONJ	_	_	29	cc	_	_	_
+17	oraindik	oraindik	ADV	_	_	29	advmod	_	_	_
+18	siendo	izatea	AUX	_	_	24	cop	_	_	_
+19	por	por	ADP	_	_	21	case	_	_	_
+20	bikoa	bikoa	NUM	_	_	21	nummod	_	_	_
+21	egun	eguna	NOUN	_	_	29	obl	_	_	_
+22	eta	bat	DET	_	_	24	det	_	_	_
+23	unikoak	unico	ADJ	_	_	24	amod	_	_	_
+24	bezeroak	bezeroa	NOUN	_	_	29	nsubj	_	_	_
+25	honengandik	honengandik	ADP	_	_	26	case	_	_	_
+26	hotela	hotela	NOUN	_	_	24	nmod	_	_	_
+27	se	bera	PRON	_	_	29	obj	_	_	_
+28	igual	ni	PRON	_	_	29	obj	_	_	29:holder
+29	negó	ukatu	VERB	_	_	1	conj	_	_	0:exp-Negative
+30	jarri	jarri	VERB	_	_	29	xcomp	_	_	_
+31	la	bat	DET	_	_	32	det	_	_	32:targ
+32	berogailua	berogailua	NOUN	_	_	30	obj	_	_	29:targ
+33	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00029_208cba694eee5067b767c89d6f40c08b-3
+# text = Pasamos un frío enorme .
+1	Pasamos	pasatu	VERB	_	_	0	root	_	_	_
+2	bat	bat	DET	_	_	3	det	_	_	4:exp-Negative
+3	hotza	hotza	NOUN	_	_	1	obj	_	_	4:exp-Negative
+4	handia	handia	ADJ	_	_	3	amod	_	_	0:exp-Negative
+5	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00029_208cba694eee5067b767c89d6f40c08b-4
+# text = ; (
+1	;	;	PUNCT	_	_	0	root	_	_	_
+2	(	(	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00029_208cba694eee5067b767c89d6f40c08b-5
+# text = Habíamos alquilado una suite pensando pasarlo bién por la noche en el saloncito por lo menos , porque el hotel era más una pension que un hotel .
+1	Bagenituen	izana	AUX	_	_	2	aux	_	_	_
+2	alokatua	alokatu	VERB	_	_	0	root	_	_	_
+3	bat	bat	DET	_	_	4	det	_	_	_
+4	suitea	suitea	NOUN	_	_	2	obj	_	_	_
+5	pentsatzen	pentsatu	VERB	_	_	2	advcl	_	_	_
+6	pasatu	pasatu	NOUN	_	_	5	obj	_	_	_
+7	bien	bien	ADV	_	_	5	advmod	_	_	_
+8	por	por	ADP	_	_	10	case	_	_	_
+9	la	bat	DET	_	_	10	det	_	_	_
+10	gaua	gaua	NOUN	_	_	5	obl	_	_	_
+11	n	n	ADP	_	_	13	case	_	_	_
+12	bat	bat	DET	_	_	13	det	_	_	_
+13	egongela	egongela	NOUN	_	_	5	obl	_	_	_
+14	por	por	ADP	_	_	5	advmod	_	_	_
+15	eta	bera	PRON	_	_	14	fixed	_	_	_
+16	gutxiago	gutxiago	ADV	_	_	14	fixed	_	_	_
+17	,	,	PUNCT	_	_	24	punct	_	_	_
+18	zeren	zeren	SCONJ	_	_	24	mark	_	_	_
+19	bat	bat	DET	_	_	20	det	_	_	20:targ
+20	hotela	hotela	NOUN	_	_	24	nsubj	_	_	27:targ
+21	era	izatea	AUX	_	_	24	cop	_	_	_
+22	gehiago	gehiago	ADV	_	_	24	advmod	_	_	27:exp-Negative
+23	bat	bat	DET	_	_	24	det	_	_	27:exp-Negative
+24	pension	pension	NOUN	_	_	2	advcl	_	_	27:exp-Negative
+25	hau	hau	SCONJ	_	_	27	mark	_	_	27:exp-Negative
+26	bat	bat	DET	_	_	27	det	_	_	27:exp-Negative
+27	hotela	hotela	NOUN	_	_	24	nmod	_	_	0:exp-Negative
+28	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00029_208cba694eee5067b767c89d6f40c08b-6
+# text = No había ni un salon estar para los clientes , ni tampoco restaurantes o bares en los alrededores .
+1	Ez	ez	ADV	_	_	2	advmod	_	_	2:exp-Negative
+2	había	izana	AUX	_	_	0	root	_	_	0:exp-Negative
+3	ni	ni	ADV	_	_	5	advmod	_	_	_
+4	bat	bat	DET	_	_	5	det	_	_	_
+5	salon	salon	NOUN	_	_	2	obj	_	_	6:targ
+6	estar	estar	VERB	_	_	2	csubj	_	_	2:targ
+7	para	para	ADP	_	_	9	case	_	_	_
+8	eta	bat	DET	_	_	9	det	_	_	_
+9	bezeroak	bezeroa	NOUN	_	_	6	obl	_	_	_
+10	,	,	PUNCT	_	_	13	punct	_	_	_
+11	ni	ni	CCONJ	_	_	13	cc	_	_	0:exp-Negative|0:exp-Negative
+12	ezta	ezta	ADV	_	_	13	advmod	_	_	_
+13	jatetxeak	jatetxea	NOUN	_	_	6	conj	_	_	11:targ
+14	edo	edo	CCONJ	_	_	15	cc	_	_	_
+15	tabernak	taberna	NOUN	_	_	13	conj	_	_	11:targ
+16	n	n	ADP	_	_	18	case	_	_	_
+17	eta	bat	DET	_	_	18	det	_	_	_
+18	ingurua	inguruan	NOUN	_	_	13	nmod	_	_	_
+19	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00029_208cba694eee5067b767c89d6f40c08b-7
+# text = Queríamos ver la final de " Let ' s dance " en la tele , pero esta parecía tener más años que el hotel y era diminuta y se veía fatal .
+1	Queríamos	querer	VERB	_	_	0	root	_	_	_
+2	ikus	ikus	VERB	_	_	1	xcomp	_	_	_
+3	la	bat	DET	_	_	4	det	_	_	_
+4	amaiera	amaiera	NOUN	_	_	2	obj	_	_	_
+5	de	de	ADP	_	_	7	case	_	_	_
+6	"	"	PUNCT	_	_	7	punct	_	_	_
+7	Let	Let	PROPN	_	_	4	nmod	_	_	_
+8	'	'	SYM	_	_	7	nmod	_	_	_
+9	s	s	PROPN	_	_	7	flat	_	_	_
+10	dance	dance	NOUN	_	_	7	nmod	_	_	_
+11	"	"	PUNCT	_	_	7	punct	_	_	_
+12	n	n	ADP	_	_	14	case	_	_	_
+13	la	bat	DET	_	_	14	det	_	_	14:targ|14:targ|14:targ
+14	telebista	telebista	NOUN	_	_	2	obl	_	_	31:targ|27:targ|24:targ
+15	,	,	PUNCT	_	_	18	punct	_	_	_
+16	baina	baina	CCONJ	_	_	18	cc	_	_	_
+17	hau	hau	PRON	_	_	18	nsubj	_	_	_
+18	parecía	itxura	VERB	_	_	1	conj	_	_	24:exp-Negative
+19	eduki	eduki	VERB	_	_	18	xcomp	_	_	24:exp-Negative
+20	gehiago	gehiago	ADV	_	_	21	advmod	_	_	24:exp-Negative
+21	urte	urtea	NOUN	_	_	19	obj	_	_	24:exp-Negative
+22	hau	hau	SCONJ	_	_	24	mark	_	_	24:exp-Negative
+23	bat	bat	DET	_	_	24	det	_	_	24:exp-Negative
+24	hotela	hotela	NOUN	_	_	21	nmod	_	_	0:exp-Negative
+25	y	y	CCONJ	_	_	27	cc	_	_	_
+26	era	izatea	AUX	_	_	27	cop	_	_	_
+27	txikia	txikia	ADJ	_	_	19	conj	_	_	0:exp-Negative
+28	y	y	CCONJ	_	_	30	cc	_	_	_
+29	se	bera	PRON	_	_	30	obj	_	_	31:exp-Negative
+30	veía	ikus	VERB	_	_	27	conj	_	_	31:exp-Negative
+31	zorigaiztokoa	zorigaiztokoa	ADJ	_	_	30	obj	_	_	0:exp-Negative
+32	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00029_208cba694eee5067b767c89d6f40c08b-8
+# text = Menos mal que teníamos libros para leer .
+1	Gutxiago	gutxiago	ADV	_	_	4	advmod	_	_	_
+2	txarra	txarra	ADV	_	_	1	fixed	_	_	_
+3	hau	hau	SCONJ	_	_	4	mark	_	_	_
+4	bagenuen	eduki	VERB	_	_	0	root	_	_	_
+5	liburuak	liburua	NOUN	_	_	4	obj	_	_	_
+6	para	para	ADP	_	_	7	mark	_	_	_
+7	irakurri	irakurri	VERB	_	_	5	acl	_	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00051_3b526f976f400b41f5e5f3bca40de53d-1
+# text = No estoy conforme completamente .
+1	Ez	ez	ADV	_	_	3	advmod	_	_	3:exp-Negative
+2	estoy	estar	AUX	_	_	3	cop	_	_	3:exp-Negative
+3	conforme	conforme	ADJ	_	_	0	root	_	_	0:exp-Negative
+4	erabat	erabat	ADV	_	_	3	advmod	_	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00051_3b526f976f400b41f5e5f3bca40de53d-2
+# text = He pasado un fin de semana con mi familia en este hotel , y en general la opinión es buena , pero creo que hay algunos aspectos a mejorar .
+1	He	izana	AUX	_	_	2	aux	_	_	_
+2	iragana	pasatu	VERB	_	_	0	root	_	_	_
+3	bat	bat	DET	_	_	4	det	_	_	_
+4	amaiera	amaiera	NOUN	_	_	2	obl	_	_	_
+5	de	de	ADP	_	_	6	case	_	_	_
+6	astea	astea	NOUN	_	_	4	nmod	_	_	_
+7	honekin	honekin	ADP	_	_	9	case	_	_	_
+8	nirea	nirea	DET	_	_	9	det	_	_	_
+9	familia	familia	NOUN	_	_	2	obl	_	_	_
+10	n	n	ADP	_	_	12	case	_	_	_
+11	hau	hau	DET	_	_	12	det	_	_	_
+12	hotela	hotela	NOUN	_	_	2	obl	_	_	_
+13	,	,	PUNCT	_	_	20	punct	_	_	_
+14	y	y	CCONJ	_	_	20	cc	_	_	_
+15	n	n	ADP	_	_	20	advmod	_	_	_
+16	orokorra	orokorra	NOUN	_	_	15	fixed	_	_	_
+17	la	bat	DET	_	_	18	det	_	_	18:targ
+18	iritzia	iritzia	NOUN	_	_	20	nsubj	_	_	20:targ
+19	es	izatea	AUX	_	_	20	cop	_	_	_
+20	ona	ona	ADJ	_	_	2	conj	_	_	0:exp-Positive
+21	,	,	PUNCT	_	_	23	punct	_	_	_
+22	baina	baina	CCONJ	_	_	23	cc	_	_	_
+23	creo	sinetsi	VERB	_	_	2	conj	_	_	_
+24	hau	hau	SCONJ	_	_	25	mark	_	_	_
+25	bada	izana	AUX	_	_	23	ccomp	_	_	_
+26	batzuk	bat	DET	_	_	27	det	_	_	27:targ
+27	aspektuak	aspektua	NOUN	_	_	25	obj	_	_	29:targ
+28	a	a	ADP	_	_	29	mark	_	_	29:exp-Negative
+29	hobetu	hobetu	VERB	_	_	27	acl	_	_	0:exp-Negative
+30	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00051_3b526f976f400b41f5e5f3bca40de53d-3
+# text = El desayuno buffet es un poco escaso , pero no de cantidad sino de variedad , le faltan muchas cosas que creo que un hotel de esta categoría debería tener.Las habitaciones a niveles generales están bien exceptuando que son un poco pequeñas , aunque eso era algo que ya sabía , pero la colocación de la televisón respecto a la cama no es la más correcta , vi 3 habitaciones y en todas están colocadas respecto al pequeño sofa , creo que un sistema para poder moverla y que desde la cama se viera correctamente sería muy util .
+1	Bera	bat	DET	_	_	2	det	_	_	3:targ
+2	gosaria	gosaria	NOUN	_	_	7	nsubj	_	_	3:targ
+3	buffet	buffet	NOUN	_	_	2	nmod	_	_	7:targ
+4	es	izatea	AUX	_	_	7	cop	_	_	_
+5	bat	bat	DET	_	_	7	advmod	_	_	7:exp-Negative
+6	gutxi	gutxi	ADV	_	_	5	fixed	_	_	7:exp-Negative
+7	urriak	urriak	ADJ	_	_	0	root	_	_	0:exp-Negative
+8	,	,	PUNCT	_	_	10	punct	_	_	_
+9	baina	baina	CCONJ	_	_	10	cc	_	_	_
+10	ez	ez	ADV	_	_	7	conj	_	_	_
+11	de	de	ADP	_	_	10	case	_	_	_
+12	kopuru	kopuru	NOUN	_	_	10	nmod	_	_	_
+13	baina	baina	CCONJ	_	_	15	cc	_	_	_
+14	de	de	ADP	_	_	15	case	_	_	_
+15	barietatea	barietatea	NOUN	_	_	12	conj	_	_	_
+16	,	,	PUNCT	_	_	10	punct	_	_	_
+17	le	bera	PRON	_	_	18	obj	_	_	18:exp-Negative
+18	faltan	faltar	VERB	_	_	7	advcl	_	_	0:exp-Negative
+19	asko	asko	DET	_	_	20	det	_	_	20:targ
+20	gauzak	gauza	NOUN	_	_	18	nsubj	_	_	18:targ
+21	hau	hau	PRON	_	_	22	nsubj	_	_	_
+22	creo	sinetsi	VERB	_	_	20	acl	_	_	_
+23	hau	hau	SCONJ	_	_	37	mark	_	_	_
+24	bat	bat	DET	_	_	25	det	_	_	_
+25	hotela	hotela	NOUN	_	_	37	nsubj	_	_	_
+26	de	de	ADP	_	_	28	case	_	_	_
+27	hau	hau	DET	_	_	28	det	_	_	_
+28	kategoria	kategoria	NOUN	_	_	25	nmod	_	_	_
+29	debería	betebeharra	AUX	_	_	30	aux	_	_	_
+30	edukitzea	edukitzea	PROPN	_	_	25	nmod	_	_	_
+31	logelak	gela	NOUN	_	_	30	nsubj	_	_	36:targ|42:targ
+32	a	a	ADP	_	_	33	case	_	_	_
+33	mailak	maila	NOUN	_	_	31	nmod	_	_	_
+34	orokorrak	orokorra	ADJ	_	_	33	amod	_	_	_
+35	están	estar	AUX	_	_	37	aux	_	_	_
+36	ongi	ongi	ADV	_	_	37	advmod	_	_	0:exp-Positive
+37	exceptuando	salbuetsi	VERB	_	_	22	ccomp	_	_	_
+38	hau	hau	SCONJ	_	_	42	mark	_	_	_
+39	direnak	izatea	AUX	_	_	42	cop	_	_	_
+40	bat	bat	DET	_	_	42	advmod	_	_	42:exp-Negative
+41	gutxi	gutxi	ADV	_	_	40	fixed	_	_	42:exp-Negative
+42	txikiak	txikia	ADJ	_	_	37	ccomp	_	_	0:exp-Negative
+43	,	,	PUNCT	_	_	47	punct	_	_	_
+44	baina	baina	SCONJ	_	_	47	mark	_	_	_
+45	hori	hori	PRON	_	_	47	nsubj	_	_	_
+46	era	izatea	AUX	_	_	47	cop	_	_	_
+47	zerbait	zerbait	PRON	_	_	37	advcl	_	_	_
+48	hau	hau	PRON	_	_	50	nsubj	_	_	_
+49	dagoeneko	dagoeneko	ADV	_	_	50	advmod	_	_	_
+50	bazekien	jakiteko	VERB	_	_	47	acl	_	_	_
+51	,	,	PUNCT	_	_	66	punct	_	_	_
+52	baina	baina	CCONJ	_	_	66	cc	_	_	_
+53	la	bat	DET	_	_	54	det	_	_	57:targ
+54	colocación	colocación	NOUN	_	_	66	nsubj	_	_	57:targ
+55	de	de	ADP	_	_	57	case	_	_	57:targ
+56	la	bat	DET	_	_	57	det	_	_	57:targ
+57	telebista	telebista	NOUN	_	_	54	nmod	_	_	66:targ
+58	respecto	respecto	NOUN	_	_	61	case	_	_	_
+59	a	a	ADP	_	_	58	fixed	_	_	_
+60	la	bat	DET	_	_	61	det	_	_	_
+61	ohea	ohea	NOUN	_	_	54	nmod	_	_	_
+62	ez	ez	ADV	_	_	66	advmod	_	_	66:exp-Negative
+63	es	izatea	AUX	_	_	66	cop	_	_	66:exp-Negative
+64	la	bat	DET	_	_	66	det	_	_	66:exp-Negative
+65	gehiago	gehiago	ADV	_	_	66	advmod	_	_	66:exp-Negative
+66	zuzena	zuzena	ADJ	_	_	47	conj	_	_	0:exp-Negative
+67	,	,	PUNCT	_	_	68	punct	_	_	_
+68	vi	ikus	VERB	_	_	66	advcl	_	_	_
+69	3	3	NUM	_	_	70	nummod	_	_	_
+70	logelak	gela	NOUN	_	_	68	obj	_	_	_
+71	y	y	CCONJ	_	_	75	cc	_	_	_
+72	n	n	ADP	_	_	73	case	_	_	_
+73	guztiak	guztiak	PRON	_	_	75	obl	_	_	_
+74	están	estar	AUX	_	_	75	cop	_	_	_
+75	jarriak	jarrita	ADJ	_	_	66	conj	_	_	_
+76	respecto	respecto	NOUN	_	_	79	case	_	_	_
+77	u	u	ADP	_	_	76	fixed	_	_	_
+78	txikia	txikia	ADJ	_	_	79	amod	_	_	_
+79	sofa	sofa	NOUN	_	_	75	obl	_	_	_
+80	,	,	PUNCT	_	_	81	punct	_	_	_
+81	creo	sinetsi	VERB	_	_	66	advcl	_	_	_
+82	hau	hau	SCONJ	_	_	98	mark	_	_	_
+83	bat	bat	DET	_	_	84	det	_	_	_
+84	sistema	sistema	NOUN	_	_	98	nsubj	_	_	_
+85	para	para	ADP	_	_	87	mark	_	_	_
+86	boterea	boterea	AUX	_	_	87	aux	_	_	_
+87	mugitu	mugitu	VERB	_	_	84	acl	_	_	_
+88	y	y	CCONJ	_	_	94	cc	_	_	_
+89	hau	hau	SCONJ	_	_	94	mark	_	_	_
+90	hontatik	hontatik	ADP	_	_	92	case	_	_	_
+91	la	bat	DET	_	_	92	det	_	_	_
+92	ohea	ohea	NOUN	_	_	94	obl	_	_	_
+93	se	bera	PRON	_	_	94	obj	_	_	_
+94	ikus	ikus	VERB	_	_	98	advcl	_	_	_
+95	ongi	ongi	ADV	_	_	94	advmod	_	_	_
+96	sería	izatea	AUX	_	_	98	cop	_	_	_
+97	oso	asko	ADV	_	_	98	advmod	_	_	_
+98	util	util	ADJ	_	_	81	ccomp	_	_	_
+99	.	.	PUNCT	_	_	7	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00051_3b526f976f400b41f5e5f3bca40de53d-4
+# text = Lo mejor de este hotel es la ubicación .
+1	Lo	bera	PRON	_	_	2	det	_	_	2:exp-Positive
+2	hobea	hobea	ADJ	_	_	8	nsubj	_	_	0:exp-Positive
+3	de	de	ADP	_	_	5	case	_	_	_
+4	hau	hau	DET	_	_	5	det	_	_	_
+5	hotela	hotela	NOUN	_	_	2	nmod	_	_	_
+6	es	izatea	AUX	_	_	8	cop	_	_	_
+7	la	bat	DET	_	_	8	det	_	_	8:targ
+8	kokalekua	kokalekua	NOUN	_	_	0	root	_	_	2:targ
+9	.	.	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37-1
+# text = Elegancia .
+1	Asebetetzea	dotorezia	NOUN	_	_	0	root	_	_	0:exp-Positive
+2	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37-2
+# text = En el hotel , los trabajadores estan muy pendientes de ti e incluso son amables y simpaticos cuando hablas con ellos .
+1	En	n	ADP	_	_	3	case	_	_	_
+2	bat	bat	DET	_	_	3	det	_	_	_
+3	hotela	hotela	NOUN	_	_	9	obl	_	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_	_
+5	eta	bat	DET	_	_	6	det	_	_	6:targ|6:targ|6:targ
+6	langileak	langilea	NOUN	_	_	9	nsubj	_	_	17:targ|9:targ|15:targ
+7	estan	estar	AUX	_	_	9	cop	_	_	_
+8	oso	asko	ADV	_	_	9	advmod	_	_	9:exp-Positive
+9	egitekoak	egiteke	ADJ	_	_	0	root	_	_	0:exp-Positive
+10	de	de	ADP	_	_	11	case	_	_	_
+11	hi	zu	PRON	_	_	9	nmod	_	_	_
+12	e	e	CCONJ	_	_	15	cc	_	_	_
+13	are	are	ADV	_	_	15	advmod	_	_	_
+14	direnak	izatea	AUX	_	_	15	cop	_	_	_
+15	atseginak	atsegina	ADJ	_	_	9	conj	_	_	0:exp-Positive
+16	y	y	CCONJ	_	_	17	cc	_	_	_
+17	sinpatikoak	sinpatikoa	ADJ	_	_	15	conj	_	_	0:exp-Positive
+18	noiz	noiz	SCONJ	_	_	19	mark	_	_	_
+19	hablas	hablar	VERB	_	_	15	advcl	_	_	_
+20	honekin	honekin	ADP	_	_	21	case	_	_	_
+21	beraiek	bera	PRON	_	_	19	obl	_	_	_
+22	.	.	PUNCT	_	_	9	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37-3
+# text = Una de las cosas mas importantes de este hotel es su espectacular diseño , atractivo y encanto que tiene .
+1	Bat	bat	PRON	_	_	13	nsubj	_	_	_
+2	de	de	ADP	_	_	4	case	_	_	_
+3	laborantza	bat	DET	_	_	4	det	_	_	_
+4	gauzak	gauza	NOUN	_	_	1	nmod	_	_	_
+5	gehiago	gehiago	ADV	_	_	6	advmod	_	_	_
+6	garrantzitsuak	garrantzitsua	ADJ	_	_	4	amod	_	_	_
+7	de	de	ADP	_	_	9	case	_	_	_
+8	hau	hau	DET	_	_	9	det	_	_	_
+9	hotela	hotela	NOUN	_	_	4	nmod	_	_	_
+10	es	izatea	AUX	_	_	13	cop	_	_	_
+11	bere	bere	DET	_	_	13	det	_	_	_
+12	ikusgarria	ikusgarria	ADJ	_	_	13	amod	_	_	0:exp-Positive|0:exp-Positive|0:exp-Positive
+13	diseinua	diseinua	NOUN	_	_	0	root	_	_	12:targ
+14	,	,	PUNCT	_	_	15	punct	_	_	_
+15	erakargarria	erakargarria	ADJ	_	_	13	amod	_	_	12:targ
+16	y	y	CCONJ	_	_	17	cc	_	_	_
+17	xarma	xarma	NOUN	_	_	15	conj	_	_	12:targ
+18	hau	hau	PRON	_	_	19	obj	_	_	_
+19	badu	eduki	VERB	_	_	13	acl	_	_	_
+20	.	.	PUNCT	_	_	13	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37-4
+# text = En el interior se puede ver cada planta del hotel diseñada por un diseñador famoso , como son Zaha Hadid , Javier Mariscal , Victorio y Lucchino ... incluso los restaurantes o pubs son agradables .
+1	En	n	ADP	_	_	3	case	_	_	_
+2	bat	bat	DET	_	_	3	det	_	_	_
+3	barnealdea	barnealdea	NOUN	_	_	6	obl	_	_	_
+4	se	bera	PRON	_	_	6	obj	_	_	_
+5	puede	boterea	AUX	_	_	6	aux	_	_	_
+6	ikus	ikus	VERB	_	_	0	root	_	_	_
+7	bakoitza	bakoitza	DET	_	_	8	det	_	_	8:targ
+8	landarea	landarea	NOUN	_	_	6	nsubj	_	_	15:targ
+9	honengandik	honengandik	ADP	_	_	10	case	_	_	_
+10	hotela	hotela	NOUN	_	_	8	nmod	_	_	_
+11	diseinatua	diseinatua	ADJ	_	_	10	amod	_	_	15:exp-Positive
+12	por	por	ADP	_	_	14	case	_	_	15:exp-Positive
+13	bat	bat	DET	_	_	14	det	_	_	15:exp-Positive
+14	diseinatzailea	diseinatzailea	NOUN	_	_	11	obj	_	_	15:exp-Positive
+15	ospetsua	ospetsua	ADJ	_	_	14	amod	_	_	0:exp-Positive
+16	,	,	PUNCT	_	_	19	punct	_	_	_
+17	honela	honela	SCONJ	_	_	19	mark	_	_	_
+18	direnak	izatea	AUX	_	_	19	cop	_	_	_
+19	Zaha	Zaha	PROPN	_	_	35	nsubj	_	_	_
+20	Hadid	Hadid	PROPN	_	_	19	flat	_	_	_
+21	,	,	PUNCT	_	_	22	punct	_	_	_
+22	Javier	Javier	PROPN	_	_	19	conj	_	_	_
+23	Mariscal	Mariscal	PROPN	_	_	22	flat	_	_	_
+24	,	,	PUNCT	_	_	25	punct	_	_	_
+25	Biktorioa	Biktorioa	PROPN	_	_	19	conj	_	_	_
+26	y	y	CCONJ	_	_	27	cc	_	_	_
+27	Lucchino	Lucchino	PROPN	_	_	19	conj	_	_	_
+28	...	...	PUNCT	_	_	19	punct	_	_	_
+29	are	are	ADV	_	_	31	advmod	_	_	_
+30	eta	bat	DET	_	_	31	det	_	_	31:targ
+31	jatetxeak	jatetxea	NOUN	_	_	35	nsubj	_	_	35:targ
+32	edo	edo	CCONJ	_	_	33	cc	_	_	_
+33	pubak	pubak	NOUN	_	_	31	conj	_	_	35:targ
+34	direnak	izatea	AUX	_	_	35	cop	_	_	_
+35	atseginak	atsegina	ADJ	_	_	6	advcl	_	_	0:exp-Positive|0:exp-Positive
+36	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37-5
+# text = Pero en su exterior tampoco podemos dejar de sorprendernos por su diseño , caracterizado por la terraza , la fachada del hotel , las espectaculares vistas que ofrece tanto desde habitaciones como desde los ascensores de cristal .
+1	Baina	baina	CCONJ	_	_	7	advmod	_	_	_
+2	n	n	ADP	_	_	4	case	_	_	_
+3	bere	bere	DET	_	_	4	det	_	_	_
+4	kanpokoa	kanpokoa	NOUN	_	_	7	obl	_	_	_
+5	ezta	ezta	ADV	_	_	7	advmod	_	_	_
+6	podemos	boterea	AUX	_	_	7	aux	_	_	_
+7	utzi	utzi	VERB	_	_	0	root	_	_	_
+8	de	de	ADP	_	_	9	case	_	_	_
+9	harritzea	sorpresa	NOUN	_	_	7	obj	_	_	0:exp-Positive|0:exp-Positive|0:exp-Positive
+10	por	por	ADP	_	_	12	case	_	_	_
+11	bere	bere	DET	_	_	12	det	_	_	12:targ
+12	diseinua	diseinua	NOUN	_	_	7	obl	_	_	9:targ
+13	,	,	PUNCT	_	_	14	punct	_	_	_
+14	ezaugarria	karakterizatu	ADJ	_	_	12	amod	_	_	_
+15	por	por	ADP	_	_	17	case	_	_	_
+16	la	bat	DET	_	_	17	det	_	_	17:targ
+17	terraza	terraza	NOUN	_	_	14	obj	_	_	9:targ
+18	,	,	PUNCT	_	_	20	punct	_	_	_
+19	la	bat	DET	_	_	20	det	_	_	20:targ
+20	fatxada	fatxada	NOUN	_	_	17	appos	_	_	9:targ
+21	honengandik	honengandik	ADP	_	_	22	case	_	_	_
+22	hotela	hotela	NOUN	_	_	20	nmod	_	_	_
+23	,	,	PUNCT	_	_	26	punct	_	_	_
+24	laborantza	bat	DET	_	_	26	det	_	_	_
+25	ikusgarriak	ikusgarria	ADJ	_	_	26	amod	_	_	0:exp-Positive
+26	ikuspegia	ikuspegia	NOUN	_	_	17	appos	_	_	25:targ
+27	hau	hau	PRON	_	_	28	obj	_	_	_
+28	ofrece	eskaini	VERB	_	_	26	acl	_	_	_
+29	hainbeste	hainbeste	ADV	_	_	31	cc	_	_	_
+30	hontatik	hontatik	ADP	_	_	31	case	_	_	_
+31	logelak	gela	NOUN	_	_	28	obl	_	_	_
+32	honela	honela	SCONJ	_	_	35	cc	_	_	_
+33	hontatik	hontatik	ADP	_	_	35	case	_	_	_
+34	eta	bat	DET	_	_	35	det	_	_	_
+35	igogailuak	igogailua	NOUN	_	_	31	conj	_	_	_
+36	de	de	ADP	_	_	37	case	_	_	_
+37	kristala	kristala	NOUN	_	_	35	nmod	_	_	_
+38	.	.	PUNCT	_	_	7	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00025_1a1d747fd8cc967b6f835e9f9b5e7b37-6
+# text = Y entre las vistas hay que destacar la pasarela de cristal que tiene en su ultima planta , desde la que puedes pasar y ver a unos metros de altura el suelo , y el paisaje .
+1	Eta	y	CCONJ	_	_	7	advmod	_	_	_
+2	tartean	tartean	ADP	_	_	4	case	_	_	_
+3	laborantza	bat	DET	_	_	4	det	_	_	_
+4	ikuspegia	ikuspegia	NOUN	_	_	7	obl	_	_	_
+5	bada	izana	AUX	_	_	0	root	_	_	_
+6	hau	hau	SCONJ	_	_	7	cc	_	_	_
+7	nabarmendu	nabarmendu	VERB	_	_	5	conj	_	_	0:exp-Positive
+8	la	bat	DET	_	_	9	det	_	_	17:targ
+9	pasabidea	pasabidea	NOUN	_	_	7	obj	_	_	17:targ
+10	de	de	ADP	_	_	11	case	_	_	17:targ
+11	kristala	kristala	NOUN	_	_	9	nmod	_	_	17:targ
+12	hau	hau	PRON	_	_	13	obj	_	_	17:targ
+13	badu	eduki	VERB	_	_	11	acl	_	_	17:targ
+14	n	n	ADP	_	_	17	case	_	_	17:targ
+15	bere	bere	DET	_	_	17	det	_	_	17:targ
+16	azkena	azkena	ADJ	_	_	17	amod	_	_	17:targ
+17	landarea	landarea	NOUN	_	_	13	obl	_	_	7:targ
+18	,	,	PUNCT	_	_	23	punct	_	_	_
+19	hontatik	hontatik	ADP	_	_	21	case	_	_	_
+20	la	bat	DET	_	_	21	det	_	_	_
+21	hau	hau	PRON	_	_	23	obl	_	_	_
+22	puedes	boterea	AUX	_	_	23	aux	_	_	_
+23	pasatu	pasatu	VERB	_	_	17	acl	_	_	_
+24	y	y	CCONJ	_	_	25	cc	_	_	_
+25	ikus	ikus	VERB	_	_	23	conj	_	_	_
+26	a	a	ADP	_	_	28	case	_	_	_
+27	batzuk	bat	DET	_	_	28	det	_	_	_
+28	zenbakiak	metroa	NOUN	_	_	25	obl	_	_	_
+29	de	de	ADP	_	_	30	case	_	_	_
+30	altuera	altuera	NOUN	_	_	28	nmod	_	_	_
+31	bat	bat	DET	_	_	32	det	_	_	_
+32	lurzorua	lurzorua	NOUN	_	_	28	appos	_	_	_
+33	,	,	PUNCT	_	_	36	punct	_	_	_
+34	y	y	CCONJ	_	_	36	cc	_	_	_
+35	bat	bat	DET	_	_	36	det	_	_	_
+36	paisaia	paisaia	NOUN	_	_	32	conj	_	_	_
+37	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00207_e949d1ad2ee0fa4c55d423cd114a42e3-1
+# text = Un hotel de ensueño
+1	Bat	bat	DET	_	_	2	det	_	_	2:targ
+2	hotela	hotela	NOUN	_	_	0	root	_	_	4:targ
+3	de	de	ADP	_	_	4	case	_	_	4:exp-Positive
+4	ensueño	ensueño	NOUN	_	_	2	nmod	_	_	0:exp-Positive
+
+# sent_id = opener_es/kaf/hotel/spanish00207_e949d1ad2ee0fa4c55d423cd114a42e3-2
+# text = Situado en primera línea de una paradisiaca playa en la urbanización de Nusa Dua .
+1	Kokatuta	kokatua	ADJ	_	_	0	root	_	_	8:exp-Positive
+2	n	n	ADP	_	_	4	case	_	_	8:exp-Positive
+3	lehena	lehena	ADJ	_	_	4	amod	_	_	8:exp-Positive
+4	lerroa	lerroa	NOUN	_	_	1	obl	_	_	8:exp-Positive
+5	de	de	ADP	_	_	8	case	_	_	8:exp-Positive
+6	bat	bat	DET	_	_	8	det	_	_	8:exp-Positive
+7	paradisiakoa	paradisiakoa	ADJ	_	_	8	amod	_	_	8:exp-Positive
+8	hondartza	hondartza	NOUN	_	_	4	nmod	_	_	0:exp-Positive
+9	n	n	ADP	_	_	11	case	_	_	_
+10	la	bat	DET	_	_	11	det	_	_	_
+11	urbanizazioa	urbanizazioa	NOUN	_	_	1	obl	_	_	_
+12	de	de	ADP	_	_	13	case	_	_	_
+13	Nusa	Nusa	PROPN	_	_	11	nmod	_	_	_
+14	Dua	Dua	PROPN	_	_	13	flat	_	_	_
+15	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00207_e949d1ad2ee0fa4c55d423cd114a42e3-3
+# text = Se trata de un hotel de 5 estrellas que cuenta con todo tipo de facilidades para toda la familia .
+1	Se	bera	PRON	_	_	2	expl:pass	_	_	_
+2	gaia	saiatu	VERB	_	_	0	root	_	_	_
+3	de	de	ADP	_	_	5	case	_	_	_
+4	bat	bat	DET	_	_	5	det	_	_	5:targ
+5	hotela	hotela	NOUN	_	_	2	obj	_	_	8:targ
+6	de	de	ADP	_	_	8	case	_	_	_
+7	5	5	NUM	_	_	8	nummod	_	_	8:exp-Positive
+8	izarrak	izarra	NOUN	_	_	5	nmod	_	_	0:exp-Positive
+9	hau	hau	PRON	_	_	10	nsubj	_	_	_
+10	kontua	kontatu	VERB	_	_	5	acl	_	_	11:exp-Positive
+11	honekin	honekin	ADP	_	_	13	case	_	_	0:exp-Positive
+12	guztiak	guztiak	DET	_	_	13	det	_	_	15:targ
+13	mota	mota	NOUN	_	_	10	obj	_	_	15:targ
+14	de	de	ADP	_	_	15	case	_	_	15:targ
+15	erraztasunak	erraztasuna	NOUN	_	_	13	nmod	_	_	11:targ
+16	para	para	ADP	_	_	19	case	_	_	_
+17	guztia	guztiak	DET	_	_	18	det	_	_	_
+18	la	bat	DET	_	_	19	det	_	_	_
+19	familia	familia	NOUN	_	_	15	nmod	_	_	_
+20	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00207_e949d1ad2ee0fa4c55d423cd114a42e3-4
+# text = Me encantaron los restaurantes sobre todo el que se encuentra en primera línea de playa y en donde se puede comer a a base de tapas .
+1	Niri	ni	PRON	_	_	2	obj	_	_	2:holder
+2	encantaron	gozagarria	VERB	_	_	0	root	_	_	0:exp-Positive
+3	eta	bat	DET	_	_	4	det	_	_	4:targ
+4	jatetxeak	jatetxea	NOUN	_	_	2	nsubj	_	_	2:targ
+5	sobre	sobre	ADP	_	_	10	mark	_	_	_
+6	guztiak	guztiak	DET	_	_	7	det	_	_	_
+7	bat	bat	DET	_	_	10	det	_	_	_
+8	hau	hau	PRON	_	_	10	nsubj	_	_	_
+9	se	bera	PRON	_	_	10	obj	_	_	_
+10	encuentra	aurkitu	VERB	_	_	4	acl	_	_	_
+11	n	n	ADP	_	_	13	case	_	_	_
+12	lehena	lehena	ADJ	_	_	13	amod	_	_	_
+13	lerroa	lerroa	NOUN	_	_	10	obl	_	_	_
+14	de	de	ADP	_	_	15	case	_	_	_
+15	hondartza	hondartza	NOUN	_	_	13	nmod	_	_	_
+16	y	y	CCONJ	_	_	21	cc	_	_	_
+17	n	n	ADP	_	_	18	case	_	_	_
+18	non	non	PRON	_	_	21	obl	_	_	_
+19	se	bera	PRON	_	_	21	obj	_	_	_
+20	puede	boterea	AUX	_	_	21	aux	_	_	_
+21	jan	jan	VERB	_	_	10	conj	_	_	_
+22	a	a	ADP	_	_	26	case	_	_	_
+23	a	a	ADP	_	_	22	fixed	_	_	_
+24	oinarria	oinarria	NOUN	_	_	22	fixed	_	_	_
+25	de	de	ADP	_	_	22	fixed	_	_	_
+26	tapak	tapa	NOUN	_	_	21	obl	_	_	_
+27	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00207_e949d1ad2ee0fa4c55d423cd114a42e3-5
+# text = Es un hotel donde abundan mucho las parejas en viaje de novios aunque también suele haber bastantes familias con niños como fue nuestro caso .
+1	Es	izatea	AUX	_	_	3	cop	_	_	_
+2	bat	bat	DET	_	_	3	det	_	_	_
+3	hotela	hotela	NOUN	_	_	0	root	_	_	_
+4	non	non	PRON	_	_	5	obl	_	_	_
+5	ugari	ugaritu	VERB	_	_	3	acl	_	_	_
+6	asko	asko	ADV	_	_	5	advmod	_	_	_
+7	laborantza	bat	DET	_	_	8	det	_	_	_
+8	bikote	bikote	NOUN	_	_	5	nsubj	_	_	_
+9	n	n	ADP	_	_	10	case	_	_	_
+10	bidaia	bidaia	NOUN	_	_	5	obl	_	_	_
+11	de	de	ADP	_	_	12	case	_	_	_
+12	bikoteak	senargaia	NOUN	_	_	10	nmod	_	_	_
+13	baina	baina	SCONJ	_	_	15	mark	_	_	_
+14	también	también	ADV	_	_	15	advmod	_	_	_
+15	gehienetan	solerra	VERB	_	_	5	advcl	_	_	_
+16	izana	izana	AUX	_	_	15	xcomp	_	_	_
+17	nahikoak	nahikoa	DET	_	_	18	det	_	_	_
+18	familiak	familia	NOUN	_	_	16	obj	_	_	_
+19	honekin	honekin	ADP	_	_	20	case	_	_	_
+20	haurrak	haurra	NOUN	_	_	18	nmod	_	_	_
+21	honela	honela	SCONJ	_	_	24	mark	_	_	_
+22	fue	izatea	AUX	_	_	24	cop	_	_	_
+23	gurea	gurea	DET	_	_	24	det	_	_	_
+24	kasua	kasua	NOUN	_	_	16	advcl	_	_	_
+25	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00207_e949d1ad2ee0fa4c55d423cd114a42e3-6
+# text = Si vas en este plan el hotel ofrece diversas actividades de animacion tanto para adultos como para niños .
+1	Bai	bai	SCONJ	_	_	2	mark	_	_	_
+2	zoaz	joan	VERB	_	_	8	advcl	_	_	_
+3	n	n	ADP	_	_	5	case	_	_	_
+4	hau	hau	DET	_	_	5	det	_	_	_
+5	plana	plana	NOUN	_	_	2	obl	_	_	_
+6	bat	bat	DET	_	_	7	det	_	_	_
+7	hotela	hotela	NOUN	_	_	8	nsubj	_	_	_
+8	ofrece	eskaini	VERB	_	_	0	root	_	_	0:exp-Positive
+9	ezberdinak	ezberdinak	DET	_	_	10	det	_	_	12:targ
+10	ekintzak	jarduera	NOUN	_	_	8	obj	_	_	12:targ
+11	de	de	ADP	_	_	12	case	_	_	12:targ
+12	animazioa	animazioa	NOUN	_	_	10	nmod	_	_	8:targ
+13	hainbeste	hainbeste	ADV	_	_	15	cc	_	_	_
+14	para	para	ADP	_	_	15	case	_	_	_
+15	helduak	heldua	NOUN	_	_	10	nmod	_	_	_
+16	honela	honela	SCONJ	_	_	18	cc	_	_	_
+17	para	para	ADP	_	_	18	case	_	_	_
+18	haurrak	haurra	NOUN	_	_	15	conj	_	_	_
+19	.	.	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00207_e949d1ad2ee0fa4c55d423cd114a42e3-7
+# text = Las habitaciones son amplias , luminosas y muy muy bien equipadas .
+1	Horiek	bat	DET	_	_	2	det	_	_	2:targ|2:targ|2:targ
+2	logelak	gela	NOUN	_	_	4	nsubj	_	_	4:targ|6:targ|11:targ
+3	direnak	izatea	AUX	_	_	4	cop	_	_	_
+4	handiak	handia	ADJ	_	_	0	root	_	_	0:exp-Positive
+5	,	,	PUNCT	_	_	6	punct	_	_	_
+6	argiak	argitsua	ADJ	_	_	4	amod	_	_	0:exp-Positive
+7	y	y	CCONJ	_	_	11	cc	_	_	_
+8	oso	asko	ADV	_	_	10	advmod	_	_	11:exp-Positive
+9	oso	asko	ADV	_	_	10	advmod	_	_	11:exp-Positive
+10	ongi	ongi	ADV	_	_	11	advmod	_	_	11:exp-Positive
+11	hornituak	hornituak	ADJ	_	_	4	conj	_	_	0:exp-Positive
+12	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00178_f27a5b86c91b0c256ba36079d230a29a-1
+# text = Muy buenas vacaciones
+1	Osoa	asko	ADV	_	_	3	advmod	_	_	2:exp-Positive
+2	onak	ona	ADJ	_	_	3	amod	_	_	0:exp-Positive
+3	oporrak	oporrak	NOUN	_	_	0	root	_	_	2:targ
+
+# sent_id = opener_es/kaf/hotel/spanish00178_f27a5b86c91b0c256ba36079d230a29a-2
+# text = Nos sentimos muy bien atendidos , el hotel es cómodo para viajar en familia .
+1	GUE	ni	PRON	_	_	2	obj	_	_	4:holder
+2	sentimos	sentitu	VERB	_	_	0	root	_	_	_
+3	oso	asko	ADV	_	_	5	advmod	_	_	4:exp-Positive
+4	ongi	ongi	ADV	_	_	5	advmod	_	_	0:exp-Positive
+5	artatuak	artatua	ADJ	_	_	2	obj	_	_	4:targ
+6	,	,	PUNCT	_	_	2	punct	_	_	_
+7	bat	bat	DET	_	_	8	det	_	_	8:targ
+8	hotela	hotela	NOUN	_	_	10	nsubj	_	_	10:targ
+9	es	izatea	AUX	_	_	10	cop	_	_	_
+10	erosoa	erosoa	ADJ	_	_	2	advcl	_	_	0:exp-Positive
+11	para	para	ADP	_	_	12	mark	_	_	_
+12	bidaiatzea	bidaiatzea	VERB	_	_	10	advcl	_	_	_
+13	n	n	ADP	_	_	14	case	_	_	_
+14	familia	familia	NOUN	_	_	12	obl	_	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00178_f27a5b86c91b0c256ba36079d230a29a-3
+# text = La distancia del hotel a la playa permite que se vaya caminando sino cuentan con opción de carritos para traslados .
+1	La	bat	DET	_	_	2	det	_	_	7:targ
+2	distantzia	distantzia	NOUN	_	_	8	nsubj	_	_	7:targ
+3	honengandik	honengandik	ADP	_	_	4	case	_	_	7:targ
+4	hotela	hotela	NOUN	_	_	2	nmod	_	_	7:targ
+5	a	a	ADP	_	_	7	case	_	_	7:targ
+6	la	bat	DET	_	_	7	det	_	_	7:targ
+7	hondartza	hondartza	NOUN	_	_	4	nmod	_	_	12:targ
+8	baimenduta	baimendu	VERB	_	_	0	root	_	_	12:exp-Positive
+9	hau	hau	SCONJ	_	_	11	mark	_	_	12:exp-Positive
+10	se	bera	PRON	_	_	11	obj	_	_	12:exp-Positive
+11	vaya	joan	VERB	_	_	8	ccomp	_	_	12:exp-Positive
+12	oinez	oinez	VERB	_	_	11	xcomp	_	_	0:exp-Positive
+13	baina	baina	CCONJ	_	_	14	cc	_	_	_
+14	cuentan	kontatu	VERB	_	_	12	conj	_	_	0:exp-Positive
+15	honekin	honekin	ADP	_	_	16	case	_	_	_
+16	aukera	aukera	NOUN	_	_	14	obj	_	_	_
+17	de	de	ADP	_	_	18	case	_	_	_
+18	gurdiak	kotxea	NOUN	_	_	16	nmod	_	_	20:targ
+19	para	para	ADP	_	_	20	case	_	_	20:targ
+20	lekualdaketak	lekualdatzea	NOUN	_	_	18	nmod	_	_	14:targ
+21	.	.	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00178_f27a5b86c91b0c256ba36079d230a29a-4
+# text = Los shows entretienen a la familia al final del día .
+1	Hauek	bat	DET	_	_	2	det	_	_	2:targ
+2	ikuskizunak	ikuskizunak	NOUN	_	_	3	nsubj	_	_	3:targ
+3	entretienen	entretenitu	VERB	_	_	0	root	_	_	0:exp-Positive
+4	a	a	ADP	_	_	6	case	_	_	_
+5	la	bat	DET	_	_	6	det	_	_	_
+6	familia	familia	NOUN	_	_	3	obj	_	_	_
+7	u	u	ADP	_	_	8	case	_	_	_
+8	amaiera	amaiera	NOUN	_	_	3	obl	_	_	_
+9	honengandik	honengandik	ADP	_	_	10	case	_	_	_
+10	eguna	eguna	NOUN	_	_	8	nmod	_	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00178_f27a5b86c91b0c256ba36079d230a29a-5
+# text = Algo a observar es que el hotel debería contar con personal que organicen el uso de las reposeras sino la gente reserva con sus toallas los lugares y no permiten que alguien las utilicé en los momentos libres .
+1	Zerbait	zerbait	PRON	_	_	4	nsubj	_	_	_
+2	a	a	ADP	_	_	3	mark	_	_	_
+3	behatu	behatu	VERB	_	_	1	acl	_	_	_
+4	es	izatea	AUX	_	_	0	root	_	_	_
+5	hau	hau	SCONJ	_	_	9	mark	_	_	_
+6	bat	bat	DET	_	_	7	det	_	_	_
+7	hotela	hotela	NOUN	_	_	9	nsubj	_	_	_
+8	debería	betebeharra	AUX	_	_	9	aux	_	_	9:exp-Negative
+9	kontatu	kontatu	VERB	_	_	4	ccomp	_	_	0:exp-Negative
+10	honekin	honekin	ADP	_	_	11	case	_	_	18:targ
+11	langileak	langileak	NOUN	_	_	9	obl	_	_	18:targ
+12	hau	hau	SCONJ	_	_	13	mark	_	_	18:targ
+13	organizatu	antolatzea	VERB	_	_	9	ccomp	_	_	18:targ
+14	bat	bat	DET	_	_	15	det	_	_	18:targ
+15	erabilera	erabilera	NOUN	_	_	13	obj	_	_	18:targ
+16	de	de	ADP	_	_	18	case	_	_	18:targ
+17	laborantza	bat	DET	_	_	18	det	_	_	18:targ
+18	gozogintza	gozogilea	NOUN	_	_	15	nmod	_	_	9:targ
+19	baina	baina	CCONJ	_	_	22	cc	_	_	_
+20	la	bat	DET	_	_	21	det	_	_	_
+21	jendea	jendea	NOUN	_	_	22	nsubj	_	_	_
+22	erreserba	erreserbatu	VERB	_	_	9	conj	_	_	_
+23	honekin	honekin	ADP	_	_	25	case	_	_	_
+24	bereak	bere	DET	_	_	25	det	_	_	_
+25	eskuoihalak	toaila	NOUN	_	_	22	obl	_	_	_
+26	eta	bat	DET	_	_	27	det	_	_	_
+27	tokiak	lekua	NOUN	_	_	22	obj	_	_	_
+28	y	y	CCONJ	_	_	30	cc	_	_	_
+29	ez	ez	ADV	_	_	30	advmod	_	_	_
+30	baimenduta	baimendu	VERB	_	_	22	conj	_	_	_
+31	hau	hau	SCONJ	_	_	34	mark	_	_	_
+32	norbait	norbait	PRON	_	_	34	nsubj	_	_	_
+33	laborantza	bera	PRON	_	_	34	obj	_	_	_
+34	utilicé	erabili	VERB	_	_	30	ccomp	_	_	_
+35	n	n	ADP	_	_	37	case	_	_	_
+36	eta	bat	DET	_	_	37	det	_	_	_
+37	uneak	momentua	NOUN	_	_	34	obl	_	_	_
+38	libreak	librea	ADJ	_	_	37	amod	_	_	_
+39	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00178_f27a5b86c91b0c256ba36079d230a29a-6
+# text = Lo mismo con las sombrillas en la playa .
+1	Lo	bera	PRON	_	_	2	det	_	_	2:exp-Negative
+2	berdina	berdina	ADJ	_	_	0	root	_	_	0:exp-Negative
+3	honekin	honekin	ADP	_	_	5	case	_	_	_
+4	laborantza	bat	DET	_	_	5	det	_	_	8:targ
+5	eguzkitakoak	euritakoak	NOUN	_	_	2	nmod	_	_	8:targ
+6	n	n	ADP	_	_	8	case	_	_	8:targ
+7	la	bat	DET	_	_	8	det	_	_	8:targ
+8	hondartza	hondartza	NOUN	_	_	5	nmod	_	_	2:targ
+9	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00135_a1a0a5a9162ea6806e7b2aa61845b53b-1
+# text = Una buena combinación
+1	Bat	bat	DET	_	_	3	det	_	_	_
+2	ona	ona	ADJ	_	_	3	amod	_	_	0:exp-Positive
+3	konbinazioa	konbinazioa	NOUN	_	_	0	root	_	_	2:targ
+
+# sent_id = opener_es/kaf/hotel/spanish00135_a1a0a5a9162ea6806e7b2aa61845b53b-2
+# text = La infraestructura es muy buena , cuenta con todas las comodidades para quienes viajan con niños , la pileta es grande y muy limpia , las habitaciones muy completas y cómodas , y la playa nos encantó , si bien el mar es picado , es amplia con mucha arena y el sector sombrillas muy confortable .
+1	La	bat	DET	_	_	2	det	_	_	2:targ
+2	azpiegitura	azpiegitura	NOUN	_	_	5	nsubj	_	_	5:targ
+3	es	izatea	AUX	_	_	5	cop	_	_	_
+4	oso	asko	ADV	_	_	5	advmod	_	_	5:exp-Positive
+5	ona	ona	ADJ	_	_	0	root	_	_	0:exp-Positive
+6	,	,	PUNCT	_	_	7	punct	_	_	_
+7	kontua	kontatu	VERB	_	_	5	advcl	_	_	8:exp-Positive
+8	honekin	honekin	ADP	_	_	11	case	_	_	0:exp-Positive
+9	guztiak	guztiak	DET	_	_	10	det	_	_	16:targ
+10	laborantza	bat	DET	_	_	11	det	_	_	16:targ
+11	erosotasunak	erosotasuna	NOUN	_	_	7	obj	_	_	16:targ
+12	para	para	ADP	_	_	14	mark	_	_	16:targ
+13	nork	nor	PRON	_	_	14	nsubj	_	_	16:targ
+14	bidaiatu	bidaiatzea	VERB	_	_	11	acl	_	_	16:targ
+15	honekin	honekin	ADP	_	_	16	case	_	_	16:targ
+16	haurrak	haurra	NOUN	_	_	14	obl	_	_	8:targ
+17	,	,	PUNCT	_	_	21	punct	_	_	_
+18	la	bat	DET	_	_	19	det	_	_	19:targ|19:targ
+19	pilota	pilota	NOUN	_	_	21	nsubj	_	_	21:targ|24:targ
+20	es	izatea	AUX	_	_	21	cop	_	_	_
+21	handia	handia	ADJ	_	_	5	advcl	_	_	0:exp-Positive
+22	y	y	CCONJ	_	_	24	cc	_	_	_
+23	oso	asko	ADV	_	_	24	advmod	_	_	24:exp-Positive
+24	garbia	garbia	ADJ	_	_	21	conj	_	_	0:exp-Positive
+25	,	,	PUNCT	_	_	27	punct	_	_	_
+26	laborantza	bat	DET	_	_	27	det	_	_	27:targ|27:targ
+27	logelak	gela	NOUN	_	_	21	obj	_	_	31:targ|29:targ
+28	oso	asko	ADV	_	_	29	advmod	_	_	29:exp-Positive
+29	osoak	osoa	ADJ	_	_	27	amod	_	_	0:exp-Positive
+30	y	y	CCONJ	_	_	31	cc	_	_	_
+31	komodak	erosoa	ADJ	_	_	29	conj	_	_	0:exp-Positive
+32	,	,	PUNCT	_	_	37	punct	_	_	_
+33	y	y	CCONJ	_	_	37	cc	_	_	_
+34	la	bat	DET	_	_	35	det	_	_	35:targ|35:targ|35:targ
+35	hondartza	hondartza	NOUN	_	_	37	nsubj	_	_	47:targ|37:targ|50:targ
+36	igual	ni	PRON	_	_	37	obj	_	_	47:holder|37:holder|50:holder
+37	encantó	gozagarria	VERB	_	_	5	conj	_	_	0:exp-Positive
+38	,	,	PUNCT	_	_	47	punct	_	_	_
+39	bai	bai	SCONJ	_	_	44	mark	_	_	_
+40	ongi	ongi	ADV	_	_	39	fixed	_	_	_
+41	bat	bat	DET	_	_	42	det	_	_	42:targ
+42	itsasoa	itsasoa	NOUN	_	_	44	nsubj	_	_	44:targ
+43	es	izatea	AUX	_	_	44	aux	_	_	_
+44	pika	pika	VERB	_	_	47	advcl	_	_	0:exp-Negative
+45	,	,	PUNCT	_	_	44	punct	_	_	_
+46	es	izatea	AUX	_	_	47	cop	_	_	_
+47	handia	handia	ADJ	_	_	37	advcl	_	_	0:exp-Positive
+48	honekin	honekin	ADP	_	_	50	case	_	_	50:exp-Positive
+49	asko	asko	DET	_	_	50	det	_	_	50:exp-Positive
+50	hondarra	hondarra	NOUN	_	_	47	nmod	_	_	0:exp-Positive
+51	y	y	CCONJ	_	_	53	cc	_	_	_
+52	bat	bat	DET	_	_	53	det	_	_	54:targ
+53	sektorea	sektorea	NOUN	_	_	50	conj	_	_	54:targ
+54	eguzkitakoak	euritakoak	NOUN	_	_	50	appos	_	_	56:targ
+55	oso	asko	ADV	_	_	56	advmod	_	_	56:exp-Positive
+56	erosoa	erosoa	ADJ	_	_	54	amod	_	_	0:exp-Positive
+57	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00135_a1a0a5a9162ea6806e7b2aa61845b53b-3
+# text = La comida es bastante básica , los restaurants temáticos no son lo que uno imagina , son muy estructurados respecto a las mesas y no entienden el idioma , lo cual suele ser algo molesto .
+1	La	bat	DET	_	_	2	det	_	_	2:targ
+2	janaria	janaria	NOUN	_	_	5	nsubj	_	_	5:targ
+3	es	izatea	AUX	_	_	5	cop	_	_	_
+4	nahikoa	nahikoa	ADV	_	_	5	advmod	_	_	5:exp-Negative
+5	oinarrizkoa	oinarrizkoa	ADJ	_	_	0	root	_	_	0:exp-Negative
+6	,	,	PUNCT	_	_	11	punct	_	_	_
+7	eta	bat	DET	_	_	8	det	_	_	9:targ|9:targ
+8	jatetxeak	jatetxea	NOUN	_	_	11	nsubj	_	_	9:targ|9:targ
+9	gaiak	gaimatikoa	ADJ	_	_	8	amod	_	_	19:targ|15:targ
+10	ez	ez	ADV	_	_	11	advmod	_	_	15:exp-Negative
+11	direnak	izatea	AUX	_	_	5	advcl	_	_	15:exp-Negative
+12	eta	bera	PRON	_	_	15	det	_	_	15:exp-Negative
+13	hau	hau	PRON	_	_	15	obj	_	_	15:exp-Negative
+14	bat	bat	PRON	_	_	15	nsubj	_	_	15:exp-Negative
+15	imagina	imajina	VERB	_	_	11	ccomp	_	_	0:exp-Negative
+16	,	,	PUNCT	_	_	19	punct	_	_	_
+17	direnak	izatea	AUX	_	_	19	cop	_	_	_
+18	oso	asko	ADV	_	_	19	advmod	_	_	19:exp-Negative
+19	egituratuak	egituratua	ADJ	_	_	11	advcl	_	_	0:exp-Negative
+20	respecto	respecto	NOUN	_	_	23	case	_	_	_
+21	a	a	ADP	_	_	20	fixed	_	_	_
+22	laborantza	bat	DET	_	_	23	det	_	_	_
+23	mahaiak	mahaia	NOUN	_	_	19	obl	_	_	_
+24	y	y	CCONJ	_	_	26	cc	_	_	_
+25	ez	ez	ADV	_	_	26	advmod	_	_	26:exp-Negative
+26	entienden	ulertzea	VERB	_	_	19	conj	_	_	0:exp-Negative
+27	bat	bat	DET	_	_	28	det	_	_	28:targ
+28	hizkuntza	hizkuntza	NOUN	_	_	26	obj	_	_	26:targ
+29	,	,	PUNCT	_	_	32	punct	_	_	_
+30	eta	bera	PRON	_	_	32	det	_	_	_
+31	nor	nor	PRON	_	_	32	nsubj	_	_	_
+32	gehienetan	solerra	VERB	_	_	26	advcl	_	_	_
+33	izatea	izatea	AUX	_	_	34	cop	_	_	_
+34	zerbait	zerbait	PRON	_	_	32	xcomp	_	_	_
+35	gogaituta	gogaituta	ADJ	_	_	34	amod	_	_	_
+36	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00135_a1a0a5a9162ea6806e7b2aa61845b53b-4
+# text = Es apto para bebes , ya que cuenta con un cuarto con todos los servicios que se pueden necesitar .
+1	Es	izatea	AUX	_	_	2	cop	_	_	_
+2	gai	gai	ADJ	_	_	0	root	_	_	4:exp-Positive
+3	para	para	ADP	_	_	4	case	_	_	4:exp-Positive
+4	haurrak	edan	NOUN	_	_	2	nmod	_	_	0:exp-Positive
+5	,	,	PUNCT	_	_	8	punct	_	_	_
+6	dagoeneko	dagoeneko	ADV	_	_	8	mark	_	_	_
+7	hau	hau	SCONJ	_	_	6	fixed	_	_	_
+8	kontua	kontatu	VERB	_	_	2	advcl	_	_	9:exp-Positive
+9	honekin	honekin	ADP	_	_	11	case	_	_	0:exp-Positive
+10	bat	bat	DET	_	_	11	det	_	_	15:targ|15:targ
+11	laugarrena	laugarrena	NOUN	_	_	8	obj	_	_	15:targ|15:targ
+12	honekin	honekin	ADP	_	_	15	case	_	_	15:targ|15:targ
+13	guztiak	guztiak	DET	_	_	14	det	_	_	15:targ|15:targ
+14	eta	bat	DET	_	_	15	det	_	_	15:targ|15:targ
+15	zerbitzuak	zerbitzua	NOUN	_	_	11	nmod	_	_	4:targ|9:targ
+16	hau	hau	PRON	_	_	19	nsubj	_	_	_
+17	se	bera	PRON	_	_	19	obj	_	_	_
+18	pueden	boterea	AUX	_	_	19	aux	_	_	_
+19	beharrezkoa	beharrezkoa	VERB	_	_	15	acl	_	_	_
+20	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00135_a1a0a5a9162ea6806e7b2aa61845b53b-5
+# text = Te brindan toallas en ambos sectores , pileta y playa .
+1	Te	zu	PRON	_	_	2	obj	_	_	_
+2	topa	topa	VERB	_	_	0	root	_	_	0:exp-Positive
+3	eskuoihalak	toaila	NOUN	_	_	2	nsubj	_	_	2:targ
+4	n	n	ADP	_	_	6	case	_	_	_
+5	biak	biak	NUM	_	_	6	nummod	_	_	_
+6	sektoreak	sektorea	NOUN	_	_	2	obl	_	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_	_
+8	pilota	pilota	NOUN	_	_	6	conj	_	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_	_
+10	hondartza	hondartza	NOUN	_	_	6	conj	_	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00135_a1a0a5a9162ea6806e7b2aa61845b53b-6
+# text = Es un buen hotel para ir en familia con actividades permanentes y un buen sector para niños , con kínder y juegos muy entretenidos .
+1	Es	izatea	AUX	_	_	4	cop	_	_	_
+2	bat	bat	DET	_	_	4	det	_	_	_
+3	ona	ona	ADJ	_	_	4	amod	_	_	0:exp-Positive
+4	hotela	hotela	NOUN	_	_	0	root	_	_	3:targ
+5	para	para	ADP	_	_	6	mark	_	_	_
+6	joan	joan	VERB	_	_	4	acl	_	_	_
+7	n	n	ADP	_	_	8	case	_	_	_
+8	familia	familia	NOUN	_	_	6	obl	_	_	_
+9	honekin	honekin	ADP	_	_	10	case	_	_	_
+10	ekintzak	jarduera	NOUN	_	_	6	obl	_	_	11:targ
+11	iraunkorrak	iraunkorra	ADJ	_	_	10	amod	_	_	0:exp-Positive
+12	y	y	CCONJ	_	_	15	cc	_	_	_
+13	bat	bat	DET	_	_	15	det	_	_	_
+14	ona	ona	ADJ	_	_	15	amod	_	_	0:exp-Positive
+15	sektorea	sektorea	NOUN	_	_	10	conj	_	_	17:targ|17:targ
+16	para	para	ADP	_	_	17	case	_	_	17:targ|17:targ
+17	haurrak	haurra	NOUN	_	_	15	nmod	_	_	14:targ|20:targ
+18	,	,	PUNCT	_	_	20	punct	_	_	_
+19	honekin	honekin	ADP	_	_	20	case	_	_	20:exp-Positive
+20	kínder	kínder	NOUN	_	_	15	nmod	_	_	0:exp-Positive
+21	y	y	CCONJ	_	_	22	cc	_	_	_
+22	jokoak	jokoa	NOUN	_	_	20	conj	_	_	24:targ
+23	oso	asko	ADV	_	_	24	advmod	_	_	24:exp-Positive
+24	entretenituak	entretenitua	ADJ	_	_	20	amod	_	_	0:exp-Positive
+25	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00159_b86a874820c8688f4e9095647e9dda72-1
+# text = En familia Senator Gran Via
+1	En	n	ADP	_	_	2	case	_	_	_
+2	familia	familia	NOUN	_	_	0	root	_	_	_
+3	Senatorea	Senatorea	PROPN	_	_	2	appos	_	_	_
+4	Handia	Handia	ADJ	_	_	3	flat	_	_	_
+5	Bidea	Bidea	PROPN	_	_	3	flat	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00159_b86a874820c8688f4e9095647e9dda72-2
+# text = Viviendo la navidad en madrid .
+1	Bizitzen	bizi	VERB	_	_	0	root	_	_	_
+2	la	bat	DET	_	_	3	det	_	_	_
+3	gabonak	gabonak	NOUN	_	_	1	obj	_	_	_
+4	n	n	ADP	_	_	5	case	_	_	_
+5	mondd	mondd	NOUN	_	_	1	obl	_	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00159_b86a874820c8688f4e9095647e9dda72-3
+# text = Hemos estado en diciembre alojados en este hotel con nuestros tres hijos .
+1	Hemos	izana	AUX	_	_	2	aux	_	_	_
+2	egoera	estar	VERB	_	_	0	root	_	_	_
+3	n	n	ADP	_	_	4	case	_	_	_
+4	abendua	abendua	NOUN	_	_	2	obl	_	_	_
+5	ostatudunak	ostatua	ADJ	_	_	2	obj	_	_	_
+6	n	n	ADP	_	_	8	case	_	_	_
+7	hau	hau	DET	_	_	8	det	_	_	_
+8	hotela	hotela	NOUN	_	_	5	obl	_	_	_
+9	honekin	honekin	ADP	_	_	12	case	_	_	_
+10	gureak	gurea	DET	_	_	12	det	_	_	_
+11	hirukoa	hirukoa	NUM	_	_	10	nummod	_	_	_
+12	hijos	semea	NOUN	_	_	5	obl	_	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00159_b86a874820c8688f4e9095647e9dda72-4
+# text = Ya conocíamos esta cadena y estamos muy contentos con ella .
+1	Orain	dagoeneko	ADV	_	_	2	advmod	_	_	_
+2	conocíamos	ezagutu	VERB	_	_	0	root	_	_	_
+3	hau	hau	DET	_	_	4	det	_	_	_
+4	katea	katea	NOUN	_	_	2	obj	_	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_	_
+6	estamos	estar	AUX	_	_	8	cop	_	_	_
+7	oso	asko	ADV	_	_	8	advmod	_	_	8:exp-Positive
+8	pozik	pozik	ADJ	_	_	2	conj	_	_	0:exp-Positive
+9	honekin	honekin	ADP	_	_	10	case	_	_	_
+10	bera	bera	PRON	_	_	8	nmod	_	_	8:targ
+11	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00159_b86a874820c8688f4e9095647e9dda72-5
+# text = La ubicación del hotel es privilegiada y se encuentra entre medias de la plaza de callao y plaza españa .
+1	La	bat	DET	_	_	2	det	_	_	2:targ
+2	kokalekua	kokalekua	NOUN	_	_	6	nsubj	_	_	6:targ
+3	honengandik	honengandik	ADP	_	_	4	case	_	_	_
+4	hotela	hotela	NOUN	_	_	2	nmod	_	_	_
+5	es	izatea	AUX	_	_	6	aux	_	_	_
+6	pribilegiatua	pribilegiatua	VERB	_	_	0	root	_	_	0:exp-Positive
+7	y	y	CCONJ	_	_	9	cc	_	_	_
+8	se	bera	PRON	_	_	9	obj	_	_	_
+9	encuentra	aurkitu	VERB	_	_	6	conj	_	_	_
+10	tartean	tartean	ADP	_	_	11	case	_	_	12:exp-Positive|12:exp-Positive
+11	galtzerdiak	galtzerdiak	NOUN	_	_	9	obl	_	_	12:exp-Positive|12:exp-Positive
+12	de	de	ADP	_	_	14	case	_	_	0:exp-Positive|0:exp-Positive
+13	la	bat	DET	_	_	14	det	_	_	16:targ
+14	plaza	plaza	NOUN	_	_	11	nmod	_	_	16:targ
+15	de	de	ADP	_	_	16	case	_	_	16:targ
+16	isila	isila	NOUN	_	_	14	nmod	_	_	12:targ
+17	y	y	CCONJ	_	_	18	cc	_	_	_
+18	plaza	plaza	NOUN	_	_	16	conj	_	_	19:targ
+19	spaña	ezpaina	ADJ	_	_	18	amod	_	_	12:targ
+20	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00159_b86a874820c8688f4e9095647e9dda72-6
+# text = El trato de los trabajadores del hotel es muy agradable y las habitaciones son bastante espaciosas .
+1	Bera	bat	DET	_	_	2	det	_	_	5:targ
+2	tratuan	tratuan	NOUN	_	_	10	nsubj	_	_	5:targ
+3	de	de	ADP	_	_	5	case	_	_	5:targ
+4	eta	bat	DET	_	_	5	det	_	_	5:targ
+5	langileak	langilea	NOUN	_	_	2	nmod	_	_	10:targ
+6	honengandik	honengandik	ADP	_	_	7	case	_	_	_
+7	hotela	hotela	NOUN	_	_	5	nmod	_	_	_
+8	es	izatea	AUX	_	_	10	cop	_	_	_
+9	oso	asko	ADV	_	_	10	advmod	_	_	10:exp-Positive
+10	atsegina	atsegina	ADJ	_	_	0	root	_	_	0:exp-Positive
+11	y	y	CCONJ	_	_	16	cc	_	_	_
+12	laborantza	bat	DET	_	_	13	det	_	_	13:targ
+13	logelak	gela	NOUN	_	_	16	nsubj	_	_	16:targ
+14	direnak	izatea	AUX	_	_	16	cop	_	_	_
+15	nahikoa	nahikoa	ADV	_	_	16	advmod	_	_	16:exp-Positive
+16	zuriuneak	zuriunea	ADJ	_	_	10	conj	_	_	0:exp-Positive
+17	.	.	PUNCT	_	_	10	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00159_b86a874820c8688f4e9095647e9dda72-7
+# text = Además , el minibar , wifi y caja fuerte está incluido en el precio y es algo de agradecer porque no es muy habitual .
+1	Gainera	gainera	ADV	_	_	11	advmod	_	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_	_
+3	bat	bat	DET	_	_	4	det	_	_	5:targ
+4	edaritegia	edaritegia	VERB	_	_	11	csubj	_	_	5:targ
+5	,	,	PUNCT	_	_	6	punct	_	_	14:targ
+6	wifi	wifi	NOUN	_	_	4	obj	_	_	14:targ
+7	y	y	CCONJ	_	_	8	cc	_	_	_
+8	kutxa	kutxa	NOUN	_	_	6	conj	_	_	9:targ
+9	indartsua	indartsua	ADJ	_	_	8	amod	_	_	14:targ
+10	está	estar	AUX	_	_	11	cop	_	_	_
+11	barneratua	barneratua	ADJ	_	_	0	root	_	_	14:exp-Positive|14:exp-Positive|14:exp-Positive
+12	n	n	ADP	_	_	14	case	_	_	14:exp-Positive|14:exp-Positive|14:exp-Positive
+13	bat	bat	DET	_	_	14	det	_	_	14:exp-Positive|14:exp-Positive|14:exp-Positive
+14	prezioa	prezioa	NOUN	_	_	11	obl	_	_	0:exp-Positive|0:exp-Positive|0:exp-Positive
+15	y	y	CCONJ	_	_	17	cc	_	_	_
+16	es	izatea	AUX	_	_	17	cop	_	_	_
+17	zerbait	zerbait	PRON	_	_	11	conj	_	_	19:targ
+18	de	de	ADP	_	_	19	mark	_	_	19:exp-Positive
+19	agradecer	agradecer	VERB	_	_	17	acl	_	_	0:exp-Positive
+20	zeren	zeren	SCONJ	_	_	24	mark	_	_	_
+21	ez	ez	ADV	_	_	24	advmod	_	_	_
+22	es	izatea	AUX	_	_	24	cop	_	_	_
+23	oso	asko	ADV	_	_	24	advmod	_	_	_
+24	ohikoa	ohikoa	ADJ	_	_	17	advcl	_	_	_
+25	.	.	PUNCT	_	_	11	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00159_b86a874820c8688f4e9095647e9dda72-8
+# text = Por poner un " pero " , resaltaría el pequeño caos que se forma en el comedor ya que lo han cambiado de sitio y ahora es muy pequeño .
+1	Por	por	ADP	_	_	2	mark	_	_	_
+2	jarri	jarri	VERB	_	_	8	advcl	_	_	_
+3	bat	bat	DET	_	_	2	obj	_	_	_
+4	"	"	PUNCT	_	_	2	punct	_	_	_
+5	baina	baina	CCONJ	_	_	6	cc	_	_	_
+6	"	"	PUNCT	_	_	2	punct	_	_	_
+7	,	,	PUNCT	_	_	2	punct	_	_	_
+8	resaltaría	nabarmentzea	VERB	_	_	0	root	_	_	_
+9	bat	bat	DET	_	_	11	det	_	_	_
+10	txikia	txikia	ADJ	_	_	11	amod	_	_	_
+11	kaosa	kaosa	NOUN	_	_	8	nsubj	_	_	_
+12	hau	hau	PRON	_	_	14	nsubj	_	_	_
+13	se	bera	PRON	_	_	14	obj	_	_	_
+14	forma	sortu	VERB	_	_	11	acl	_	_	_
+15	n	n	ADP	_	_	17	case	_	_	_
+16	bat	bat	DET	_	_	17	det	_	_	17:targ
+17	jantokia	jantokia	NOUN	_	_	14	obl	_	_	29:targ
+18	dagoeneko	dagoeneko	ADV	_	_	22	mark	_	_	_
+19	hau	hau	SCONJ	_	_	18	fixed	_	_	_
+20	eta	bera	PRON	_	_	22	obj	_	_	_
+21	hah	izana	AUX	_	_	22	aux	_	_	_
+22	aldatuta	aldatu	VERB	_	_	8	advcl	_	_	_
+23	de	de	ADP	_	_	24	case	_	_	_
+24	lekua	lekua	NOUN	_	_	22	obl	_	_	_
+25	y	y	CCONJ	_	_	29	cc	_	_	_
+26	orain	orain	ADV	_	_	29	advmod	_	_	_
+27	es	izatea	AUX	_	_	29	cop	_	_	_
+28	oso	asko	ADV	_	_	29	advmod	_	_	29:exp-Negative
+29	txikia	txikia	ADJ	_	_	22	conj	_	_	0:exp-Negative
+30	.	.	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00159_b86a874820c8688f4e9095647e9dda72-9
+# text = En líneas generales , recomendamos este hotel .
+1	En	n	ADP	_	_	2	case	_	_	_
+2	lerroak	lerroa	NOUN	_	_	5	obl	_	_	_
+3	orokorrak	orokorra	ADJ	_	_	2	amod	_	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_	_
+5	recomendamos	gomendatzea	VERB	_	_	0	root	_	_	0:exp-Positive
+6	hau	hau	DET	_	_	7	det	_	_	7:targ
+7	hotela	hotela	NOUN	_	_	5	obj	_	_	5:targ
+8	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00078_733e2e796163c4af2f8e54e8d9c1d93a-1
+# text = Buen servicio y buena situación
+1	Ona	ona	ADJ	_	_	2	amod	_	_	0:exp-Positive
+2	zerbitzua	zerbitzua	NOUN	_	_	0	root	_	_	1:targ
+3	y	y	CCONJ	_	_	5	cc	_	_	_
+4	ona	ona	ADJ	_	_	5	amod	_	_	0:exp-Positive
+5	egoera	egoera	NOUN	_	_	2	conj	_	_	4:targ
+
+# sent_id = opener_es/kaf/hotel/spanish00078_733e2e796163c4af2f8e54e8d9c1d93a-2
+# text = Nos gusta mucho este hotel porque está situado en una zona muy centrica , la atención de su personal es muy buena y la comodidad de sus habitaciones .
+1	GUE	ni	PRON	_	_	2	obj	_	_	3:holder
+2	gusta	dastatu	VERB	_	_	0	root	_	_	3:exp-Positive
+3	asko	asko	ADV	_	_	2	advmod	_	_	0:exp-Positive
+4	hau	hau	DET	_	_	5	det	_	_	5:targ
+5	hotela	hotela	NOUN	_	_	2	nsubj	_	_	3:targ
+6	zeren	zeren	SCONJ	_	_	8	mark	_	_	_
+7	está	estar	AUX	_	_	8	cop	_	_	_
+8	kokatua	kokatua	ADJ	_	_	2	advcl	_	_	_
+9	n	n	ADP	_	_	11	case	_	_	_
+10	bat	bat	DET	_	_	11	det	_	_	11:targ
+11	lekua	lekua	NOUN	_	_	8	obl	_	_	13:targ
+12	oso	asko	ADV	_	_	13	advmod	_	_	13:exp-Positive
+13	zentrika	zentrikoa	ADJ	_	_	11	amod	_	_	0:exp-Positive
+14	,	,	PUNCT	_	_	2	punct	_	_	_
+15	la	bat	DET	_	_	16	det	_	_	19:targ
+16	arreta	arreta	NOUN	_	_	22	nsubj	_	_	19:targ
+17	de	de	ADP	_	_	19	case	_	_	19:targ
+18	bere	bere	DET	_	_	19	det	_	_	19:targ
+19	langileak	langileak	NOUN	_	_	16	nmod	_	_	22:targ
+20	es	izatea	AUX	_	_	22	cop	_	_	_
+21	oso	asko	ADV	_	_	22	advmod	_	_	22:exp-Positive
+22	ona	ona	ADJ	_	_	2	advcl	_	_	0:exp-Positive
+23	y	y	CCONJ	_	_	25	cc	_	_	_
+24	la	bat	DET	_	_	25	det	_	_	_
+25	erosotasuna	erosotasuna	NOUN	_	_	22	conj	_	_	0:exp-Positive
+26	de	de	ADP	_	_	28	case	_	_	_
+27	bereak	bere	DET	_	_	28	det	_	_	28:targ
+28	logelak	gela	NOUN	_	_	25	nmod	_	_	25:targ
+29	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00078_733e2e796163c4af2f8e54e8d9c1d93a-3
+# text = Siempre que viajamos a Madrid nos alojamos aquí .
+1	Beti	beti	ADV	_	_	3	mark	_	_	_
+2	hau	hau	SCONJ	_	_	1	fixed	_	_	_
+3	viajamos	bidaiatzea	VERB	_	_	7	advcl	_	_	_
+4	a	a	ADP	_	_	5	case	_	_	_
+5	Madril	Madril	PROPN	_	_	3	obl	_	_	_
+6	igual	ni	PRON	_	_	7	obj	_	_	_
+7	alojamos	alojar	VERB	_	_	0	root	_	_	_
+8	hemen	hemen	ADV	_	_	7	advmod	_	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00058_57c69b12817b06bd3e15ed62b7832c72-1
+# text = Parada en el centro
+1	Geltokia	Geltokia	NOUN	_	_	0	root	_	_	4:targ
+2	n	n	ADP	_	_	4	case	_	_	4:exp-Positive
+3	bat	bat	DET	_	_	4	det	_	_	4:exp-Positive
+4	ikastetxea	ikastetxea	NOUN	_	_	1	nmod	_	_	0:exp-Positive
+
+# sent_id = opener_es/kaf/hotel/spanish00058_57c69b12817b06bd3e15ed62b7832c72-2
+# text = El hotel está genial , sobre todo en la temporada de verano ya que puedes disfrutar de una terraza con jacuzzi en la azotea del hotel y disfrutar de unas impresionantes vistas desde lo alto .
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ
+2	hotela	hotela	NOUN	_	_	4	nsubj	_	_	4:targ
+3	está	estar	AUX	_	_	4	cop	_	_	_
+4	genial	genial	ADJ	_	_	0	root	_	_	0:exp-Positive
+5	,	,	PUNCT	_	_	6	punct	_	_	_
+6	sobre	sobre	ADP	_	_	4	advmod	_	_	_
+7	guztiak	guztiak	PRON	_	_	6	fixed	_	_	_
+8	n	n	ADP	_	_	6	case	_	_	_
+9	la	bat	DET	_	_	10	det	_	_	_
+10	denboraldia	denboraldia	NOUN	_	_	6	nmod	_	_	_
+11	de	de	ADP	_	_	12	case	_	_	_
+12	uda	uda	NOUN	_	_	10	nmod	_	_	_
+13	dagoeneko	dagoeneko	ADV	_	_	16	mark	_	_	_
+14	hau	hau	SCONJ	_	_	13	fixed	_	_	_
+15	puedes	boterea	AUX	_	_	16	aux	_	_	16:exp-Positive|16:exp-Positive|16:exp-Positive
+16	gozatu	gozatu	VERB	_	_	4	advcl	_	_	0:exp-Positive|0:exp-Positive|0:exp-Positive
+17	de	de	ADP	_	_	19	case	_	_	19:targ
+18	bat	bat	DET	_	_	19	det	_	_	19:targ
+19	terraza	terraza	NOUN	_	_	16	obj	_	_	16:targ
+20	honekin	honekin	ADP	_	_	21	case	_	_	_
+21	jacuzzi	jacuzzi	NOUN	_	_	19	nmod	_	_	16:targ
+22	n	n	ADP	_	_	24	case	_	_	_
+23	la	bat	DET	_	_	24	det	_	_	26:targ
+24	teilatuak	teilatuak	NOUN	_	_	16	obl	_	_	26:targ
+25	honengandik	honengandik	ADP	_	_	26	case	_	_	26:targ
+26	hotela	hotela	NOUN	_	_	24	nmod	_	_	16:targ
+27	y	y	CCONJ	_	_	28	cc	_	_	_
+28	gozatu	gozatu	VERB	_	_	16	conj	_	_	0:exp-Positive
+29	de	de	ADP	_	_	32	case	_	_	_
+30	batzuk	bat	DET	_	_	32	det	_	_	_
+31	ikusgarriak	ikusgarria	ADJ	_	_	32	amod	_	_	0:exp-Positive
+32	ikuspegia	ikuspegia	NOUN	_	_	28	obj	_	_	28:targ|31:targ
+33	hontatik	hontatik	ADP	_	_	35	case	_	_	_
+34	eta	bera	PRON	_	_	35	det	_	_	_
+35	altuera	altuera	ADJ	_	_	28	advmod	_	_	_
+36	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00058_57c69b12817b06bd3e15ed62b7832c72-3
+# text = El hotel está super bien situado , en el centro de la ciudad y te da opción a disfrutar del teatro , compras y bares de tapas .
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ|2:targ
+2	hotela	hotela	NOUN	_	_	4	nsubj	_	_	6:targ|10:targ
+3	está	estar	AUX	_	_	4	cop	_	_	_
+4	super	super	ADJ	_	_	0	root	_	_	6:exp-Positive
+5	ongi	ongi	ADV	_	_	6	advmod	_	_	6:exp-Positive
+6	kokatua	kokatua	ADJ	_	_	4	advmod	_	_	0:exp-Positive
+7	,	,	PUNCT	_	_	10	punct	_	_	_
+8	n	n	ADP	_	_	10	case	_	_	10:exp-Positive
+9	bat	bat	DET	_	_	10	det	_	_	10:exp-Positive
+10	ikastetxea	ikastetxea	NOUN	_	_	4	obl	_	_	0:exp-Positive
+11	de	de	ADP	_	_	13	case	_	_	_
+12	la	bat	DET	_	_	13	det	_	_	_
+13	hiria	hiria	NOUN	_	_	10	nmod	_	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_	_
+15	te	zu	PRON	_	_	16	obj	_	_	_
+16	da	eman	VERB	_	_	4	conj	_	_	19:exp-Positive|19:exp-Positive|19:exp-Positive
+17	aukera	aukera	NOUN	_	_	16	obj	_	_	19:exp-Positive|19:exp-Positive|19:exp-Positive
+18	a	a	ADP	_	_	19	mark	_	_	19:exp-Positive|19:exp-Positive|19:exp-Positive
+19	gozatu	gozatu	VERB	_	_	17	acl	_	_	0:exp-Positive|0:exp-Positive|0:exp-Positive
+20	honengandik	honengandik	ADP	_	_	21	case	_	_	21:targ
+21	antzerkia	antzerkia	NOUN	_	_	19	obj	_	_	19:targ
+22	,	,	PUNCT	_	_	23	punct	_	_	_
+23	erosketak	erosketa	NOUN	_	_	21	conj	_	_	19:targ
+24	y	y	CCONJ	_	_	25	cc	_	_	_
+25	tabernak	taberna	NOUN	_	_	21	conj	_	_	27:targ
+26	de	de	ADP	_	_	27	case	_	_	27:targ
+27	tapak	tapa	NOUN	_	_	25	nmod	_	_	19:targ
+28	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00058_57c69b12817b06bd3e15ed62b7832c72-4
+# text = Las habitaciones son amplias y comfortables pues no se oye ningún ruido de la gran vía .
+1	Horiek	bat	DET	_	_	2	det	_	_	2:targ|2:targ
+2	logelak	gela	NOUN	_	_	4	nsubj	_	_	4:targ|6:targ
+3	direnak	izatea	AUX	_	_	4	cop	_	_	_
+4	handiak	handia	ADJ	_	_	0	root	_	_	0:exp-Positive
+5	y	y	CCONJ	_	_	6	cc	_	_	_
+6	konfortagarriak	konfortablea	ADJ	_	_	4	conj	_	_	0:exp-Positive
+7	zeren	zeren	SCONJ	_	_	10	mark	_	_	_
+8	ez	ez	ADV	_	_	10	advmod	_	_	10:exp-Positive
+9	se	bera	PRON	_	_	10	obj	_	_	10:exp-Positive
+10	oye	entzun	VERB	_	_	4	advcl	_	_	0:exp-Positive
+11	ningún	ninguno	DET	_	_	12	det	_	_	16:targ
+12	zarata	zarata	NOUN	_	_	10	nsubj	_	_	16:targ
+13	de	de	ADP	_	_	16	case	_	_	16:targ
+14	la	bat	DET	_	_	16	det	_	_	16:targ
+15	handia	handia	ADJ	_	_	16	amod	_	_	16:targ
+16	bidea	bidea	NOUN	_	_	12	nmod	_	_	10:targ
+17	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00058_57c69b12817b06bd3e15ed62b7832c72-5
+# text = El Spa del hotel es pequeño , pero lo suficiente para relajarte después de un día de compras por la ciudad .
+1	Bera	bat	DET	_	_	2	det	_	_	4:targ|4:targ
+2	Spa	Spa	PROPN	_	_	6	nsubj	_	_	4:targ|4:targ
+3	honengandik	honengandik	ADP	_	_	4	case	_	_	4:targ|4:targ
+4	hotela	hotela	NOUN	_	_	2	nmod	_	_	6:targ|12:targ
+5	es	izatea	AUX	_	_	6	cop	_	_	_
+6	txikia	txikia	ADJ	_	_	0	root	_	_	0:exp-Negative
+7	,	,	PUNCT	_	_	10	punct	_	_	_
+8	baina	baina	CCONJ	_	_	10	cc	_	_	_
+9	eta	bera	PRON	_	_	10	det	_	_	12:exp-Positive
+10	nahikoa	nahikoa	ADJ	_	_	6	conj	_	_	12:exp-Positive
+11	para	para	ADP	_	_	12	mark	_	_	12:exp-Positive
+12	erlaxatu	erlaxatu	VERB	_	_	10	acl	_	_	0:exp-Positive
+13	ondoren	ondoren	ADV	_	_	12	advmod	_	_	_
+14	de	de	ADP	_	_	16	case	_	_	_
+15	bat	bat	DET	_	_	16	det	_	_	_
+16	eguna	eguna	NOUN	_	_	13	obl	_	_	_
+17	de	de	ADP	_	_	18	case	_	_	_
+18	erosketak	erosketa	NOUN	_	_	16	nmod	_	_	_
+19	por	por	ADP	_	_	21	case	_	_	_
+20	la	bat	DET	_	_	21	det	_	_	_
+21	hiria	hiria	NOUN	_	_	16	nmod	_	_	_
+22	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00174_ec8d67dd69316047cbdc1c05f339c9d0-1
+# text = Hotel viejo pero centrico
+1	Hotela	Hotela	NOUN	_	_	0	root	_	_	4:targ|2:targ
+2	zaharra	zaharra	ADJ	_	_	1	amod	_	_	0:exp-Negative
+3	baina	baina	CCONJ	_	_	4	cc	_	_	_
+4	zentrikoa	zentrikoa	ADJ	_	_	2	conj	_	_	0:exp-Positive
+
+# sent_id = opener_es/kaf/hotel/spanish00174_ec8d67dd69316047cbdc1c05f339c9d0-2
+# text = Hotel muy bien ubicado pero que necesita una reforma urgente .
+1	Hotela	Hotela	NOUN	_	_	0	root	_	_	10:targ|4:targ
+2	oso	asko	ADV	_	_	3	advmod	_	_	4:exp-Positive
+3	ongi	ongi	ADV	_	_	4	advmod	_	_	4:exp-Positive
+4	kokatua	kokatua	ADJ	_	_	1	amod	_	_	0:exp-Positive
+5	baina	baina	CCONJ	_	_	7	cc	_	_	_
+6	hau	hau	PRON	_	_	7	nsubj	_	_	_
+7	necesita	beharrezkoa	VERB	_	_	4	conj	_	_	10:exp-Negative
+8	bat	bat	DET	_	_	9	det	_	_	10:exp-Negative
+9	erreforma	erreforma	NOUN	_	_	7	obj	_	_	10:exp-Negative
+10	premiazkoa	premiazkoa	ADJ	_	_	9	amod	_	_	0:exp-Negative
+11	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00174_ec8d67dd69316047cbdc1c05f339c9d0-3
+# text = Además el entorno no es el mas adecuado para salir de noche .
+1	Gainera	gainera	ADV	_	_	8	advmod	_	_	_
+2	bat	bat	DET	_	_	3	det	_	_	3:targ
+3	ingurunea	ingurunea	NOUN	_	_	8	nsubj	_	_	8:targ
+4	ez	ez	ADV	_	_	8	advmod	_	_	8:exp-Negative
+5	es	izatea	AUX	_	_	8	cop	_	_	8:exp-Negative
+6	bat	bat	DET	_	_	8	det	_	_	8:exp-Negative
+7	gehiago	gehiago	ADV	_	_	8	advmod	_	_	8:exp-Negative
+8	egokia	egokia	ADJ	_	_	0	root	_	_	0:exp-Negative
+9	para	para	ADP	_	_	10	mark	_	_	_
+10	irten	irten	VERB	_	_	8	advcl	_	_	_
+11	de	de	ADP	_	_	12	case	_	_	_
+12	gaua	gaua	NOUN	_	_	10	obl	_	_	_
+13	.	.	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00174_ec8d67dd69316047cbdc1c05f339c9d0-4
+# text = No obstante , el hotel está bien en general .
+1	Ez	ez	PART	_	_	7	advmod	_	_	_
+2	obstante	obstante	NOUN	_	_	1	fixed	_	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_	_
+4	bat	bat	DET	_	_	5	det	_	_	5:targ
+5	hotela	hotela	NOUN	_	_	7	nsubj	_	_	9:targ
+6	está	estar	AUX	_	_	7	cop	_	_	_
+7	ongi	ongi	ADV	_	_	0	root	_	_	9:exp-Positive
+8	n	n	ADP	_	_	7	advmod	_	_	9:exp-Positive
+9	orokorra	orokorra	NOUN	_	_	8	fixed	_	_	0:exp-Positive
+10	.	.	PUNCT	_	_	7	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00174_ec8d67dd69316047cbdc1c05f339c9d0-5
+# text = El desayuno es bastante pobre .
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ
+2	gosaria	gosaria	NOUN	_	_	5	nsubj	_	_	5:targ
+3	es	izatea	AUX	_	_	5	cop	_	_	_
+4	nahikoa	nahikoa	ADV	_	_	5	advmod	_	_	5:exp-Negative
+5	txiroa	txiroa	ADJ	_	_	0	root	_	_	0:exp-Negative
+6	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64-1
+# text = El rey Leon
+1	Bera	bat	DET	_	_	2	det	_	_	_
+2	erregea	erregea	NOUN	_	_	0	root	_	_	_
+3	Lehoia	Lehoia	PROPN	_	_	2	appos	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64-2
+# text = Estuvimos en el hotel Senator , 21 de Madrid , los días 23,24 y 25 de noviembre de 2012 .
+1	Estuvimos	estar	VERB	_	_	0	root	_	_	_
+2	n	n	ADP	_	_	4	case	_	_	_
+3	bat	bat	DET	_	_	4	det	_	_	_
+4	hotela	hotela	NOUN	_	_	1	obl	_	_	_
+5	Senatorea	Senatorea	PROPN	_	_	4	appos	_	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_	_
+7	21	21	NUM	_	_	4	appos	_	_	_
+8	de	de	ADP	_	_	9	case	_	_	_
+9	Madril	Madril	PROPN	_	_	7	nmod	_	_	_
+10	,	,	PUNCT	_	_	7	punct	_	_	_
+11	eta	bat	DET	_	_	12	det	_	_	_
+12	egun	eguna	NOUN	_	_	1	obl	_	_	_
+13	23,24	23.24	NUM	_	_	12	appos	_	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_	_
+15	25	25	NUM	_	_	13	conj	_	_	_
+16	de	de	ADP	_	_	17	case	_	_	_
+17	azaroa	azaroa	NOUN	_	_	15	compound	_	_	_
+18	de	de	ADP	_	_	19	case	_	_	_
+19	2012	2012	NUM	_	_	15	compound	_	_	_
+20	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64-3
+# text = Un fin de semana dedicado a ver el espectáculo del rey león y a descubir la ciudad .
+1	Bat	bat	DET	_	_	2	det	_	_	_
+2	amaiera	amaiera	NOUN	_	_	0	root	_	_	_
+3	de	de	ADP	_	_	4	case	_	_	_
+4	astea	astea	NOUN	_	_	2	nmod	_	_	_
+5	eskainia	eskainia	ADJ	_	_	2	amod	_	_	_
+6	a	a	ADP	_	_	7	mark	_	_	_
+7	ikus	ikus	VERB	_	_	5	xcomp	_	_	_
+8	bat	bat	DET	_	_	9	det	_	_	_
+9	ikuskizuna	ikuskizuna	NOUN	_	_	7	obj	_	_	_
+10	honengandik	honengandik	ADP	_	_	11	case	_	_	_
+11	erregea	erregea	NOUN	_	_	9	nmod	_	_	_
+12	lehoia	lehoia	ADJ	_	_	11	amod	_	_	_
+13	y	y	CCONJ	_	_	15	cc	_	_	_
+14	a	a	ADP	_	_	15	mark	_	_	_
+15	deskubitu	deskubitu	VERB	_	_	7	conj	_	_	_
+16	la	bat	DET	_	_	17	det	_	_	_
+17	hiria	hiria	NOUN	_	_	15	obj	_	_	_
+18	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64-4
+# text = El hotel encantador , en el centor de la Gran Vía Madrileña , todo un lujo .
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ
+2	hotela	hotela	NOUN	_	_	16	nsubj	_	_	3:targ
+3	xarmangarria	xarmangarria	ADJ	_	_	2	amod	_	_	0:exp-Positive
+4	,	,	PUNCT	_	_	7	punct	_	_	_
+5	n	n	ADP	_	_	7	case	_	_	12:targ
+6	bat	bat	DET	_	_	7	det	_	_	12:targ
+7	zentatzailea	zentatzailea	NOUN	_	_	2	nmod	_	_	12:targ
+8	de	de	ADP	_	_	10	case	_	_	12:targ
+9	la	bat	DET	_	_	10	det	_	_	12:targ
+10	Handia	Handia	ADJ	_	_	7	nmod	_	_	12:targ
+11	Bidea	Bidea	PROPN	_	_	10	flat	_	_	12:targ
+12	Madriña	Madriña	PROPN	_	_	10	flat	_	_	16:targ
+13	,	,	PUNCT	_	_	7	punct	_	_	_
+14	guztiak	guztiak	DET	_	_	16	det	_	_	16:exp-Positive
+15	bat	bat	DET	_	_	14	det	_	_	16:exp-Positive
+16	luxua	luxua	NOUN	_	_	0	root	_	_	0:exp-Positive
+17	.	.	PUNCT	_	_	16	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64-5
+# text = Las habitaciones perfectas , muy calentitas y con todas las comodidades , con cafetera , equipo de música , almohadas a elegir .
+1	Horiek	bat	DET	_	_	2	det	_	_	2:targ|2:targ|2:targ
+2	logelak	gela	NOUN	_	_	0	root	_	_	6:targ|11:targ|3:targ
+3	perfektuak	perfektua	ADJ	_	_	2	amod	_	_	0:exp-Positive
+4	,	,	PUNCT	_	_	6	punct	_	_	_
+5	oso	asko	ADV	_	_	6	advmod	_	_	6:exp-Positive
+6	calentitas	epela	ADJ	_	_	3	amod	_	_	0:exp-Positive
+7	y	y	CCONJ	_	_	11	cc	_	_	_
+8	honekin	honekin	ADP	_	_	11	case	_	_	11:exp-Positive
+9	guztiak	guztiak	DET	_	_	10	det	_	_	11:exp-Positive
+10	laborantza	bat	DET	_	_	11	det	_	_	11:exp-Positive
+11	erosotasunak	erosotasuna	NOUN	_	_	6	conj	_	_	0:exp-Positive
+12	,	,	PUNCT	_	_	14	punct	_	_	_
+13	honekin	honekin	ADP	_	_	14	case	_	_	0:exp-Positive|0:exp-Positive
+14	kafeontzia	kafegilea	NOUN	_	_	2	nmod	_	_	13:targ
+15	,	,	PUNCT	_	_	16	punct	_	_	_
+16	taldea	taldea	NOUN	_	_	14	conj	_	_	18:targ
+17	de	de	ADP	_	_	18	case	_	_	18:targ
+18	musika	musika	NOUN	_	_	16	nmod	_	_	13:targ
+19	,	,	PUNCT	_	_	20	punct	_	_	_
+20	burkoak	burkoa	NOUN	_	_	14	conj	_	_	22:targ
+21	a	a	ADP	_	_	22	mark	_	_	22:exp-Positive
+22	aukeratu	aukeratu	VERB	_	_	20	acl	_	_	0:exp-Positive
+23	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64-6
+# text = El trato del personal del hotel EXCELENTE .
+1	Bera	bat	DET	_	_	2	det	_	_	4:targ
+2	tratuan	tratuan	NOUN	_	_	0	root	_	_	4:targ
+3	honengandik	honengandik	ADP	_	_	4	case	_	_	4:targ
+4	langileak	langileak	NOUN	_	_	2	nmod	_	_	7:targ
+5	honengandik	honengandik	ADP	_	_	6	case	_	_	_
+6	hotela	hotela	NOUN	_	_	4	nmod	_	_	_
+7	EXCELENTE	bikaina	ADJ	_	_	6	amod	_	_	0:exp-Positive
+8	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00169_e9a1a49e1dcdff27b7e0398306a55d64-7
+# text = El bufet rico todo , pero poco variado , deberían de tener más variedades para un hotel de esa categoría .
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ|2:targ
+2	bufet	bufet	NOUN	_	_	12	nsubj	_	_	8:targ|3:targ
+3	aberatsa	aberatsa	ADJ	_	_	2	amod	_	_	0:exp-Positive
+4	guztiak	guztiak	PRON	_	_	2	appos	_	_	_
+5	,	,	PUNCT	_	_	8	punct	_	_	_
+6	baina	baina	CCONJ	_	_	8	cc	_	_	_
+7	gutxi	gutxi	ADV	_	_	8	advmod	_	_	8:exp-Negative
+8	askotarikoa	askotarikoa	ADJ	_	_	4	conj	_	_	0:exp-Negative
+9	,	,	PUNCT	_	_	8	punct	_	_	_
+10	deberían	betebeharra	AUX	_	_	12	aux	_	_	_
+11	de	de	ADP	_	_	12	mark	_	_	_
+12	eduki	eduki	VERB	_	_	0	root	_	_	_
+13	gehiago	gehiago	ADV	_	_	14	advmod	_	_	_
+14	aldakiak	barietatea	NOUN	_	_	12	obj	_	_	_
+15	para	para	ADP	_	_	17	case	_	_	_
+16	bat	bat	DET	_	_	17	det	_	_	_
+17	hotela	hotela	NOUN	_	_	14	nmod	_	_	_
+18	de	de	ADP	_	_	20	case	_	_	_
+19	hori	hori	DET	_	_	20	det	_	_	_
+20	kategoria	kategoria	NOUN	_	_	17	nmod	_	_	_
+21	.	.	PUNCT	_	_	12	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00192_d71921e938835afb2a2f356ca205f54a-1
+# text = Hotel de pésima calidad
+1	Hotela	Hotela	NOUN	_	_	0	root	_	_	_
+2	de	de	ADP	_	_	4	case	_	_	_
+3	pésima	txarra	ADJ	_	_	4	amod	_	_	0:exp-Negative
+4	kalitatea	kalitatea	NOUN	_	_	1	nmod	_	_	3:targ
+
+# sent_id = opener_es/kaf/hotel/spanish00192_d71921e938835afb2a2f356ca205f54a-2
+# text = Lástima que no puedo enviar las fotos de la habitación que tuvimos .
+1	Lástima	pena	VERB	_	_	0	root	_	_	_
+2	hau	hau	SCONJ	_	_	5	mark	_	_	_
+3	ez	ez	ADV	_	_	5	advmod	_	_	_
+4	puedo	boterea	AUX	_	_	5	aux	_	_	_
+5	bidali	bidali	VERB	_	_	1	xcomp	_	_	_
+6	laborantza	bat	DET	_	_	7	det	_	_	_
+7	argazkiak	argazkia	NOUN	_	_	5	obj	_	_	_
+8	de	de	ADP	_	_	10	case	_	_	_
+9	la	bat	DET	_	_	10	det	_	_	_
+10	gela	gela	NOUN	_	_	7	nmod	_	_	_
+11	hau	hau	PRON	_	_	12	obj	_	_	_
+12	tuvimos	eduki	VERB	_	_	10	acl	_	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00192_d71921e938835afb2a2f356ca205f54a-3
+# text = Las he enviado a IBEROLUNA .
+1	Horiek	bera	PRON	_	_	3	obj	_	_	_
+2	he	izana	AUX	_	_	3	aux	_	_	_
+3	bidalita	bidali	VERB	_	_	0	root	_	_	_
+4	a	a	ADP	_	_	5	case	_	_	_
+5	IBEROLUNA	IBEROLUNA	PROPN	_	_	3	obl	_	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00192_d71921e938835afb2a2f356ca205f54a-4
+# text = Si me dan una dirección de correo , gustosamente se las mando para que constaten que digo la verdad .
+1	Bai	bai	SCONJ	_	_	3	mark	_	_	_
+2	me	ni	PRON	_	_	3	obj	_	_	_
+3	dan	eman	VERB	_	_	12	advcl	_	_	_
+4	bat	bat	DET	_	_	5	det	_	_	_
+5	helbidea	helbidea	NOUN	_	_	3	obj	_	_	_
+6	de	de	ADP	_	_	7	case	_	_	_
+7	posta	posta	NOUN	_	_	5	nmod	_	_	_
+8	,	,	PUNCT	_	_	3	punct	_	_	_
+9	atseginez	atseginez	ADV	_	_	12	advmod	_	_	_
+10	se	bera	PRON	_	_	12	obj	_	_	_
+11	laborantza	bat	DET	_	_	12	det	_	_	_
+12	mandoa	bidali	VERB	_	_	0	root	_	_	_
+13	para	para	ADP	_	_	15	mark	_	_	_
+14	hau	hau	SCONJ	_	_	15	mark	_	_	_
+15	conten	egiaztatu	VERB	_	_	12	advcl	_	_	_
+16	hau	hau	SCONJ	_	_	17	mark	_	_	_
+17	digo	esan	VERB	_	_	15	ccomp	_	_	_
+18	la	bat	DET	_	_	19	det	_	_	_
+19	egia	egia	NOUN	_	_	17	obj	_	_	_
+20	.	.	PUNCT	_	_	12	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00026_1a796942f4b036a10e049eb319b81bcc-1
+# text = Sencillo aunque bien ubicado
+1	Arrunta	erraza	ADJ	_	_	0	root	_	_	0:exp-Negative
+2	baina	baina	SCONJ	_	_	4	mark	_	_	_
+3	ongi	ongi	ADV	_	_	4	advmod	_	_	4:exp-Positive
+4	kokatua	kokatua	ADJ	_	_	1	advmod	_	_	0:exp-Positive
+
+# sent_id = opener_es/kaf/hotel/spanish00026_1a796942f4b036a10e049eb319b81bcc-2
+# text = Es un hotel sencillo , pero lo mejor es su ubicación : a 200 metros de Centrale ( la impresionante estación central de Milán ) desde donde todo Milán y el Norte de Italia está a tu alcance .
+1	Es	izatea	AUX	_	_	3	cop	_	_	_
+2	bat	bat	DET	_	_	3	det	_	_	_
+3	hotela	hotela	NOUN	_	_	0	root	_	_	4:targ
+4	erraza	erraza	ADJ	_	_	3	amod	_	_	0:exp-Negative
+5	,	,	PUNCT	_	_	11	punct	_	_	_
+6	baina	baina	CCONJ	_	_	11	cc	_	_	_
+7	eta	bera	PRON	_	_	8	det	_	_	8:exp-Positive
+8	hobea	hobea	ADJ	_	_	11	nsubj	_	_	0:exp-Positive
+9	es	izatea	AUX	_	_	11	cop	_	_	_
+10	bere	bere	DET	_	_	11	det	_	_	11:targ
+11	kokalekua	kokalekua	NOUN	_	_	3	conj	_	_	8:targ
+12	:	:	PUNCT	_	_	15	punct	_	_	_
+13	a	a	ADP	_	_	15	case	_	_	15:exp-Positive
+14	200	200	NUM	_	_	15	nummod	_	_	15:exp-Positive
+15	zenbakiak	metroa	NOUN	_	_	11	nmod	_	_	0:exp-Positive
+16	de	de	ADP	_	_	17	case	_	_	_
+17	Zentrala	Zentrala	PROPN	_	_	15	nmod	_	_	15:targ
+18	(	(	PUNCT	_	_	21	punct	_	_	_
+19	la	bat	DET	_	_	21	det	_	_	_
+20	ikusgarria	ikusgarria	ADJ	_	_	21	amod	_	_	0:exp-Positive
+21	geltokia	geltokia	NOUN	_	_	17	appos	_	_	24:targ
+22	zentrala	zentrala	ADJ	_	_	21	amod	_	_	24:targ
+23	de	de	ADP	_	_	24	case	_	_	24:targ
+24	Milan	Milan	PROPN	_	_	21	nmod	_	_	20:targ
+25	)	)	PUNCT	_	_	21	punct	_	_	_
+26	hontatik	hontatik	ADP	_	_	27	case	_	_	_
+27	non	non	PRON	_	_	35	obl	_	_	_
+28	guztiak	guztiak	DET	_	_	29	det	_	_	_
+29	Milan	Milan	PROPN	_	_	35	nsubj	_	_	_
+30	y	y	CCONJ	_	_	32	cc	_	_	_
+31	bat	bat	DET	_	_	32	det	_	_	_
+32	Iparraldea	Iparraldea	PROPN	_	_	29	conj	_	_	_
+33	de	de	ADP	_	_	34	case	_	_	_
+34	Italia	Italia	PROPN	_	_	32	flat	_	_	_
+35	está	estar	VERB	_	_	11	acl	_	_	_
+36	a	a	ADP	_	_	38	case	_	_	_
+37	tu	tu	DET	_	_	38	det	_	_	_
+38	irismena	irismena	NOUN	_	_	35	obl	_	_	_
+39	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00026_1a796942f4b036a10e049eb319b81bcc-3
+# text = El personal es muy atento aunque los idiomas no sean lo suyo ...
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ
+2	langileak	langileak	NOUN	_	_	5	nsubj	_	_	5:targ
+3	es	izatea	AUX	_	_	5	cop	_	_	_
+4	oso	asko	ADV	_	_	5	advmod	_	_	5:exp-Positive
+5	adi	adi	ADJ	_	_	0	root	_	_	0:exp-Positive
+6	baina	baina	SCONJ	_	_	11	mark	_	_	_
+7	eta	bat	DET	_	_	8	det	_	_	8:targ
+8	hizkuntzak	hizkuntza	NOUN	_	_	11	nsubj	_	_	12:targ
+9	ez	ez	ADV	_	_	11	advmod	_	_	12:exp-Negative
+10	sean	izatea	AUX	_	_	11	cop	_	_	12:exp-Negative
+11	eta	bera	PRON	_	_	5	advcl	_	_	12:exp-Negative
+12	berea	berea	DET	_	_	11	compound	_	_	0:exp-Negative
+13	...	...	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00026_1a796942f4b036a10e049eb319b81bcc-4
+# text = El desayuno , variado , se sirve en el sótano .
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ
+2	gosaria	gosaria	NOUN	_	_	7	nsubj	_	_	4:targ
+3	,	,	PUNCT	_	_	4	punct	_	_	_
+4	askotarikoa	askotarikoa	ADJ	_	_	2	amod	_	_	0:exp-Positive
+5	,	,	PUNCT	_	_	4	punct	_	_	_
+6	se	bera	PRON	_	_	7	obj	_	_	_
+7	sirve	zerbitzatu	VERB	_	_	0	root	_	_	_
+8	n	n	ADP	_	_	10	case	_	_	_
+9	bat	bat	DET	_	_	10	det	_	_	_
+10	sotoa	sotoa	NOUN	_	_	7	obj	_	_	_
+11	.	.	PUNCT	_	_	7	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00032_22946ddfaa7c13e09725a2d1469d9e43-1
+# text = Esperaba más de Marriott
+1	Esperaba	itxaron	VERB	_	_	0	root	_	_	2:exp-Negative
+2	gehiago	gehiago	ADV	_	_	1	obj	_	_	0:exp-Negative
+3	de	de	ADP	_	_	4	case	_	_	_
+4	Marriott	Marriott	PROPN	_	_	1	obj	_	_	2:targ
+
+# sent_id = opener_es/kaf/hotel/spanish00032_22946ddfaa7c13e09725a2d1469d9e43-2
+# text = stuvimos en este hotel porque tenia un buen precio y estaba bien situado para ir a Oberursel , donde se hacian los conciertos del Hessentag 2011 .
+1	stuvimos	edukitzea	VERB	_	_	0	root	_	_	_
+2	n	n	ADP	_	_	4	case	_	_	_
+3	hau	hau	DET	_	_	4	det	_	_	_
+4	hotela	hotela	NOUN	_	_	1	obl	_	_	_
+5	zeren	zeren	SCONJ	_	_	6	mark	_	_	_
+6	tenia	eduki	VERB	_	_	1	advcl	_	_	_
+7	bat	bat	DET	_	_	9	det	_	_	_
+8	ona	ona	ADJ	_	_	9	amod	_	_	0:exp-Positive
+9	prezioa	prezioa	NOUN	_	_	6	obj	_	_	13:targ|8:targ
+10	y	y	CCONJ	_	_	13	cc	_	_	_
+11	estaba	estar	AUX	_	_	13	cop	_	_	_
+12	ongi	ongi	ADV	_	_	13	advmod	_	_	13:exp-Positive
+13	kokatua	kokatua	ADJ	_	_	6	conj	_	_	0:exp-Positive
+14	para	para	ADP	_	_	15	mark	_	_	_
+15	joan	joan	VERB	_	_	13	advcl	_	_	_
+16	a	a	ADP	_	_	17	case	_	_	_
+17	Oberursel	Oberursel	PROPN	_	_	15	obl	_	_	_
+18	,	,	PUNCT	_	_	21	punct	_	_	_
+19	non	non	PRON	_	_	21	obl	_	_	_
+20	se	bera	PRON	_	_	21	obj	_	_	_
+21	main	egin	VERB	_	_	17	acl	_	_	_
+22	eta	bat	DET	_	_	23	det	_	_	_
+23	kontzertuak	kontzertua	NOUN	_	_	21	nsubj	_	_	_
+24	honengandik	honengandik	ADP	_	_	25	case	_	_	_
+25	Hessentag	Hessentag	PROPN	_	_	23	nmod	_	_	_
+26	2011	2011	NOUN	_	_	25	appos	_	_	_
+27	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00032_22946ddfaa7c13e09725a2d1469d9e43-3
+# text = Pero a partir de aqui , todo lo demas era normalito
+1	Baina	baina	CCONJ	_	_	11	advmod	_	_	_
+2	a	a	ADP	_	_	5	case	_	_	_
+3	joan	joan	NOUN	_	_	2	fixed	_	_	_
+4	de	de	ADP	_	_	2	fixed	_	_	_
+5	hemen	hemen	NOUN	_	_	9	obl	_	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_	_
+7	guztiak	guztiak	PRON	_	_	9	nsubj	_	_	9:targ
+8	eta	bera	PRON	_	_	9	obj	_	_	9:targ
+9	demas	demer	VERB	_	_	11	csubj	_	_	11:targ
+10	era	izatea	AUX	_	_	11	cop	_	_	_
+11	arrunta	arrunta	ADJ	_	_	0	root	_	_	0:exp-Negative
+
+# sent_id = opener_es/kaf/hotel/spanish00032_22946ddfaa7c13e09725a2d1469d9e43-4
+# text = La habitacion que nos dieron no me acabo de convencer , estoy acostumbrado a usar hoteles Marriott ( y Courtyard por supuesto ) y este quiza sea el mas cutre de todos los que haya ido
+1	La	bat	DET	_	_	2	det	_	_	2:targ
+2	bizilekua	bizilekua	NOUN	_	_	8	nsubj	_	_	10:targ
+3	hau	hau	PRON	_	_	5	nsubj	_	_	_
+4	igual	ni	PRON	_	_	5	obj	_	_	_
+5	eman	eman	VERB	_	_	2	acl	_	_	_
+6	ez	ez	ADV	_	_	8	advmod	_	_	10:exp-Negative
+7	me	ni	PRON	_	_	8	obj	_	_	10:holder
+8	acabo	amaitu	VERB	_	_	0	root	_	_	10:exp-Negative
+9	de	de	ADP	_	_	10	mark	_	_	10:exp-Negative
+10	konbentzitzea	konbentzitzea	VERB	_	_	8	xcomp	_	_	0:exp-Negative
+11	,	,	PUNCT	_	_	13	punct	_	_	_
+12	estoy	estar	AUX	_	_	13	cop	_	_	_
+13	ohituta	ohituta	ADJ	_	_	10	advcl	_	_	_
+14	a	a	ADP	_	_	15	mark	_	_	_
+15	erabili	erabili	VERB	_	_	13	xcomp	_	_	_
+16	hotelak	hotela	NOUN	_	_	15	obj	_	_	_
+17	Marriott	Marriott	PROPN	_	_	16	appos	_	_	_
+18	(	(	PUNCT	_	_	20	punct	_	_	_
+19	y	y	CCONJ	_	_	20	cc	_	_	_
+20	Courtyard	Courtyard	PROPN	_	_	17	conj	_	_	_
+21	por	por	ADP	_	_	20	advmod	_	_	_
+22	jakina	jakina	NOUN	_	_	21	fixed	_	_	_
+23	)	)	PUNCT	_	_	20	punct	_	_	_
+24	y	y	CCONJ	_	_	29	cc	_	_	_
+25	hau	hau	DET	_	_	26	det	_	_	30:targ
+26	kiza	kiza	NOUN	_	_	29	nsubj	_	_	_
+27	sea	izatea	AUX	_	_	29	cop	_	_	_
+28	bat	bat	DET	_	_	29	det	_	_	30:exp-Negative
+29	gehiago	gehiago	NOUN	_	_	10	conj	_	_	30:exp-Negative
+30	kutrea	kutrea	ADJ	_	_	29	amod	_	_	0:exp-Negative
+31	de	de	ADP	_	_	36	mark	_	_	_
+32	guztiak	guztiak	DET	_	_	33	det	_	_	_
+33	eta	bat	DET	_	_	36	det	_	_	_
+34	hau	hau	PRON	_	_	36	obj	_	_	_
+35	pagoa	izana	AUX	_	_	36	aux	_	_	_
+36	joana	joan	VERB	_	_	29	acl	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00032_22946ddfaa7c13e09725a2d1469d9e43-5
+# text = Usadlo cuando necesites estar en esa ubicacion , pero no es muy comodo para visitar el centro de la ciudad , el mismo Marriott es mucho mejor .
+1	Usadlo	Usadlo	PROPN	_	_	27	nsubj	_	_	_
+2	noiz	noiz	SCONJ	_	_	3	mark	_	_	_
+3	beharrak	beharrezkoa	VERB	_	_	27	advcl	_	_	_
+4	estar	estar	VERB	_	_	3	xcomp	_	_	_
+5	n	n	ADP	_	_	7	case	_	_	_
+6	hori	hori	DET	_	_	7	det	_	_	_
+7	kokapena	kokapena	NOUN	_	_	4	obl	_	_	_
+8	,	,	PUNCT	_	_	13	punct	_	_	_
+9	baina	baina	CCONJ	_	_	13	cc	_	_	_
+10	ez	ez	ADV	_	_	13	advmod	_	_	20:exp-Negative
+11	es	izatea	AUX	_	_	13	cop	_	_	20:exp-Negative
+12	oso	asko	ADV	_	_	13	advmod	_	_	20:exp-Negative
+13	komodoa	komodoa	ADJ	_	_	3	conj	_	_	20:exp-Negative
+14	para	para	ADP	_	_	15	mark	_	_	20:exp-Negative
+15	bisita	bisita	VERB	_	_	13	acl	_	_	20:exp-Negative
+16	bat	bat	DET	_	_	17	det	_	_	20:exp-Negative
+17	ikastetxea	ikastetxea	NOUN	_	_	15	obj	_	_	20:exp-Negative
+18	de	de	ADP	_	_	20	case	_	_	20:exp-Negative
+19	la	bat	DET	_	_	20	det	_	_	20:exp-Negative
+20	hiria	hiria	NOUN	_	_	17	nmod	_	_	0:exp-Negative
+21	,	,	PUNCT	_	_	3	punct	_	_	_
+22	bat	bat	DET	_	_	24	det	_	_	24:targ
+23	berdina	berdina	DET	_	_	22	det	_	_	24:targ
+24	Marriott	Marriott	PROPN	_	_	27	nsubj	_	_	27:targ
+25	es	izatea	AUX	_	_	27	cop	_	_	_
+26	asko	asko	ADV	_	_	27	advmod	_	_	27:exp-Positive
+27	hobea	hobea	ADJ	_	_	0	root	_	_	0:exp-Positive
+28	.	.	PUNCT	_	_	27	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00032_22946ddfaa7c13e09725a2d1469d9e43-6
+# text = Tambien mas caro , ojo .
+1	Tambien	tambien	INTJ	_	_	3	dep	_	_	_
+2	gehiago	gehiago	ADV	_	_	3	advmod	_	_	3:exp-Negative
+3	garestia	garestia	ADJ	_	_	0	root	_	_	0:exp-Negative
+4	,	,	PUNCT	_	_	3	punct	_	_	_
+5	begia	begia	NOUN	_	_	3	dep	_	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00145_cb759f0c83445611c480895d0e80b364-1
+# text = Buen hotel si vas al Camp Nou
+1	Ona	ona	ADJ	_	_	2	amod	_	_	0:exp-Positive
+2	hotela	hotela	NOUN	_	_	0	root	_	_	1:targ
+3	bai	bai	SCONJ	_	_	4	mark	_	_	_
+4	zoaz	joan	VERB	_	_	2	acl	_	_	_
+5	u	u	ADP	_	_	6	case	_	_	_
+6	Kanpaia	Kanpaia	PROPN	_	_	4	obl	_	_	_
+7	Nou	Nou	NUM	_	_	6	nummod	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00145_cb759f0c83445611c480895d0e80b364-2
+# text = El hotel cuenta con ocho plantas si no recuerdo mal y una gran cantidad de habitaciones , La limpieza es correcta y el desayuno tipo buffet .
+1	Bera	bat	DET	_	_	2	det	_	_	_
+2	hotela	hotela	NOUN	_	_	3	nsubj	_	_	_
+3	kontua	kontatu	VERB	_	_	0	root	_	_	4:exp-Positive
+4	honekin	honekin	ADP	_	_	6	case	_	_	0:exp-Positive
+5	zortzikoa	zortzikoa	NUM	_	_	6	nummod	_	_	6:targ
+6	landareak	landarea	NOUN	_	_	3	obj	_	_	4:targ
+7	bai	bai	SCONJ	_	_	9	mark	_	_	_
+8	ez	ez	ADV	_	_	9	advmod	_	_	_
+9	oroitzapen	gogoratu	VERB	_	_	3	advcl	_	_	_
+10	txarra	txarra	ADV	_	_	9	advmod	_	_	_
+11	y	y	CCONJ	_	_	14	cc	_	_	_
+12	bat	bat	DET	_	_	14	det	_	_	14:exp-Positive
+13	handia	handia	ADJ	_	_	14	amod	_	_	14:exp-Positive
+14	kopuru	kopuru	NOUN	_	_	21	nsubj	_	_	0:exp-Positive
+15	de	de	ADP	_	_	16	case	_	_	_
+16	logelak	gela	NOUN	_	_	14	nmod	_	_	14:targ
+17	,	,	PUNCT	_	_	21	punct	_	_	_
+18	La	bat	DET	_	_	19	det	_	_	19:targ
+19	garbiketa	garbiketa	PROPN	_	_	21	nsubj	_	_	21:targ
+20	es	izatea	AUX	_	_	21	cop	_	_	21:exp-Positive
+21	zuzena	zuzena	ADJ	_	_	3	conj	_	_	0:exp-Positive
+22	y	y	CCONJ	_	_	24	cc	_	_	_
+23	bat	bat	DET	_	_	24	det	_	_	24:targ
+24	gosaria	gosaria	NOUN	_	_	21	conj	_	_	26:targ
+25	mota	mota	NOUN	_	_	24	appos	_	_	26:exp-Positive
+26	buffet	buffet	NOUN	_	_	25	nmod	_	_	0:exp-Positive
+27	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00145_cb759f0c83445611c480895d0e80b364-3
+# text = La clientela es variada aunque siempre que nos hemos hospedado hay gran cantidad de extranjeros debido a que esta muy cerca del Camp nou , esto lo hace un sitio ideal para ir al futbol .
+1	La	bat	DET	_	_	2	det	_	_	_
+2	bezeroak	bezeroak	NOUN	_	_	4	nsubj	_	_	_
+3	es	izatea	AUX	_	_	4	aux	_	_	_
+4	askotarikoa	askotarikoa	VERB	_	_	0	root	_	_	_
+5	baina	baina	SCONJ	_	_	11	mark	_	_	_
+6	beti	beti	ADV	_	_	10	advmod	_	_	_
+7	hau	hau	PRON	_	_	10	obj	_	_	_
+8	igual	ni	PRON	_	_	10	obj	_	_	_
+9	hemos	izana	AUX	_	_	10	aux	_	_	_
+10	ostatua	hospedar	VERB	_	_	11	advcl	_	_	_
+11	bada	izana	AUX	_	_	4	advcl	_	_	_
+12	handia	handia	ADJ	_	_	13	amod	_	_	_
+13	kopuru	kopuru	NOUN	_	_	11	obj	_	_	_
+14	de	de	ADP	_	_	15	case	_	_	_
+15	atzerritarrak	atzerritarra	NOUN	_	_	13	nmod	_	_	_
+16	zorduna	zorduna	ADJ	_	_	21	mark	_	_	_
+17	a	a	ADP	_	_	16	fixed	_	_	_
+18	hau	hau	SCONJ	_	_	16	fixed	_	_	_
+19	hau	hau	DET	_	_	21	det	_	_	21:exp-Positive
+20	oso	asko	ADV	_	_	21	advmod	_	_	21:exp-Positive
+21	hurbil	hurbil	ADV	_	_	28	advmod	_	_	0:exp-Positive
+22	honengandik	honengandik	ADP	_	_	23	case	_	_	24:targ
+23	Kanpaia	Kanpaia	PROPN	_	_	21	obl	_	_	24:targ
+24	nou	nou	NUM	_	_	23	nummod	_	_	21:targ
+25	,	,	PUNCT	_	_	21	punct	_	_	_
+26	hau	hau	PRON	_	_	28	nsubj	_	_	_
+27	eta	bera	PRON	_	_	28	obj	_	_	_
+28	hace	egin	VERB	_	_	11	advcl	_	_	_
+29	bat	bat	DET	_	_	30	det	_	_	_
+30	lekua	lekua	NOUN	_	_	28	nsubj	_	_	35:targ
+31	ideala	ideala	ADJ	_	_	30	amod	_	_	35:exp-Positive
+32	para	para	ADP	_	_	33	mark	_	_	35:exp-Positive
+33	joan	joan	VERB	_	_	30	acl	_	_	35:exp-Positive
+34	u	u	ADP	_	_	35	case	_	_	35:exp-Positive
+35	futbola	futbola	NOUN	_	_	33	obl	_	_	0:exp-Positive
+36	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00129_b86a874820c8688f4e9095647e9dda72-1
+# text = En familia Senator Gran Via
+1	En	n	ADP	_	_	2	case	_	_	_
+2	familia	familia	NOUN	_	_	0	root	_	_	_
+3	Senatorea	Senatorea	PROPN	_	_	2	appos	_	_	_
+4	Handia	Handia	ADJ	_	_	3	flat	_	_	_
+5	Bidea	Bidea	PROPN	_	_	3	flat	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00129_b86a874820c8688f4e9095647e9dda72-2
+# text = Viviendo la navidad en madrid .
+1	Bizitzen	bizi	VERB	_	_	0	root	_	_	_
+2	la	bat	DET	_	_	3	det	_	_	_
+3	gabonak	gabonak	NOUN	_	_	1	obj	_	_	_
+4	n	n	ADP	_	_	5	case	_	_	_
+5	mondd	mondd	NOUN	_	_	1	obl	_	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00129_b86a874820c8688f4e9095647e9dda72-3
+# text = Hemos estado en diciembre alojados en este hotel con nuestros tres hijos .
+1	Hemos	izana	AUX	_	_	2	aux	_	_	_
+2	egoera	estar	VERB	_	_	0	root	_	_	_
+3	n	n	ADP	_	_	4	case	_	_	_
+4	abendua	abendua	NOUN	_	_	2	obl	_	_	_
+5	ostatudunak	ostatua	ADJ	_	_	2	obj	_	_	_
+6	n	n	ADP	_	_	8	case	_	_	_
+7	hau	hau	DET	_	_	8	det	_	_	_
+8	hotela	hotela	NOUN	_	_	5	obl	_	_	_
+9	honekin	honekin	ADP	_	_	12	case	_	_	_
+10	gureak	gurea	DET	_	_	12	det	_	_	_
+11	hirukoa	hirukoa	NUM	_	_	10	nummod	_	_	_
+12	hijos	semea	NOUN	_	_	5	obl	_	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00129_b86a874820c8688f4e9095647e9dda72-4
+# text = Ya conocíamos esta cadena y estamos muy contentos con ella .
+1	Orain	dagoeneko	ADV	_	_	2	advmod	_	_	_
+2	conocíamos	ezagutu	VERB	_	_	0	root	_	_	_
+3	hau	hau	DET	_	_	4	det	_	_	_
+4	katea	katea	NOUN	_	_	2	obj	_	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_	_
+6	estamos	estar	AUX	_	_	8	cop	_	_	8:exp-Positive
+7	oso	asko	ADV	_	_	8	advmod	_	_	8:exp-Positive
+8	pozik	pozik	ADJ	_	_	2	conj	_	_	0:exp-Positive
+9	honekin	honekin	ADP	_	_	10	case	_	_	10:targ
+10	bera	bera	PRON	_	_	8	nmod	_	_	8:targ
+11	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00129_b86a874820c8688f4e9095647e9dda72-5
+# text = La ubicación del hotel es privilegiada y se encuentra entre medias de la plaza de callao y plaza españa .
+1	La	bat	DET	_	_	2	det	_	_	4:targ
+2	kokalekua	kokalekua	NOUN	_	_	6	nsubj	_	_	4:targ
+3	honengandik	honengandik	ADP	_	_	4	case	_	_	4:targ
+4	hotela	hotela	NOUN	_	_	2	nmod	_	_	6:targ
+5	es	izatea	AUX	_	_	6	aux	_	_	6:exp-Positive
+6	pribilegiatua	pribilegiatua	VERB	_	_	0	root	_	_	0:exp-Positive
+7	y	y	CCONJ	_	_	9	cc	_	_	_
+8	se	bera	PRON	_	_	9	obj	_	_	12:exp-Positive|12:exp-Positive
+9	encuentra	aurkitu	VERB	_	_	6	conj	_	_	12:exp-Positive|12:exp-Positive
+10	tartean	tartean	ADP	_	_	11	case	_	_	12:exp-Positive|12:exp-Positive
+11	galtzerdiak	galtzerdiak	NOUN	_	_	9	obl	_	_	12:exp-Positive|12:exp-Positive
+12	de	de	ADP	_	_	14	case	_	_	0:exp-Positive|0:exp-Positive
+13	la	bat	DET	_	_	14	det	_	_	16:targ
+14	plaza	plaza	NOUN	_	_	11	nmod	_	_	16:targ
+15	de	de	ADP	_	_	16	case	_	_	16:targ
+16	isila	isila	NOUN	_	_	14	nmod	_	_	12:targ
+17	y	y	CCONJ	_	_	18	cc	_	_	_
+18	plaza	plaza	NOUN	_	_	16	conj	_	_	19:targ
+19	spaña	ezpaina	ADJ	_	_	18	amod	_	_	12:targ
+20	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00129_b86a874820c8688f4e9095647e9dda72-6
+# text = El trato de los trabajadores del hotel es muy agradable y las habitaciones son bastante espaciosas .
+1	Bera	bat	DET	_	_	2	det	_	_	7:targ
+2	tratuan	tratuan	NOUN	_	_	10	nsubj	_	_	7:targ
+3	de	de	ADP	_	_	5	case	_	_	7:targ
+4	eta	bat	DET	_	_	5	det	_	_	7:targ
+5	langileak	langilea	NOUN	_	_	2	nmod	_	_	7:targ
+6	honengandik	honengandik	ADP	_	_	7	case	_	_	7:targ
+7	hotela	hotela	NOUN	_	_	5	nmod	_	_	10:targ
+8	es	izatea	AUX	_	_	10	cop	_	_	10:exp-Positive
+9	oso	asko	ADV	_	_	10	advmod	_	_	10:exp-Positive
+10	atsegina	atsegina	ADJ	_	_	0	root	_	_	0:exp-Positive
+11	y	y	CCONJ	_	_	16	cc	_	_	_
+12	laborantza	bat	DET	_	_	13	det	_	_	13:targ
+13	logelak	gela	NOUN	_	_	16	nsubj	_	_	16:targ
+14	direnak	izatea	AUX	_	_	16	cop	_	_	16:exp-Positive
+15	nahikoa	nahikoa	ADV	_	_	16	advmod	_	_	16:exp-Positive
+16	zuriuneak	zuriunea	ADJ	_	_	10	conj	_	_	0:exp-Positive
+17	.	.	PUNCT	_	_	10	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00129_b86a874820c8688f4e9095647e9dda72-7
+# text = Además , el minibar , wifi y caja fuerte está incluido en el precio y es algo de agradecer porque no es muy habitual .
+1	Gainera	gainera	ADV	_	_	11	advmod	_	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_	_
+3	bat	bat	DET	_	_	4	det	_	_	4:targ
+4	edaritegia	edaritegia	VERB	_	_	11	csubj	_	_	14:targ
+5	,	,	PUNCT	_	_	6	punct	_	_	_
+6	wifi	wifi	NOUN	_	_	4	obj	_	_	14:targ
+7	y	y	CCONJ	_	_	8	cc	_	_	_
+8	kutxa	kutxa	NOUN	_	_	6	conj	_	_	9:targ
+9	indartsua	indartsua	ADJ	_	_	8	amod	_	_	14:targ
+10	está	estar	AUX	_	_	11	cop	_	_	14:exp-Positive|14:exp-Positive|14:exp-Positive
+11	barneratua	barneratua	ADJ	_	_	0	root	_	_	14:exp-Positive|14:exp-Positive|14:exp-Positive
+12	n	n	ADP	_	_	14	case	_	_	14:exp-Positive|14:exp-Positive|14:exp-Positive
+13	bat	bat	DET	_	_	14	det	_	_	14:exp-Positive|14:exp-Positive|14:exp-Positive
+14	prezioa	prezioa	NOUN	_	_	11	obl	_	_	0:exp-Positive|0:exp-Positive|0:exp-Positive
+15	y	y	CCONJ	_	_	17	cc	_	_	_
+16	es	izatea	AUX	_	_	17	cop	_	_	_
+17	zerbait	zerbait	PRON	_	_	11	conj	_	_	24:targ
+18	de	de	ADP	_	_	19	mark	_	_	24:exp-Positive
+19	agradecer	agradecer	VERB	_	_	17	acl	_	_	24:exp-Positive
+20	zeren	zeren	SCONJ	_	_	24	mark	_	_	24:exp-Positive
+21	ez	ez	ADV	_	_	24	advmod	_	_	24:exp-Positive
+22	es	izatea	AUX	_	_	24	cop	_	_	24:exp-Positive
+23	oso	asko	ADV	_	_	24	advmod	_	_	24:exp-Positive
+24	ohikoa	ohikoa	ADJ	_	_	17	advcl	_	_	0:exp-Positive
+25	.	.	PUNCT	_	_	11	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00129_b86a874820c8688f4e9095647e9dda72-8
+# text = Por poner un " pero " , resaltaría el pequeño caos que se forma en el comedor ya que lo han cambiado de sitio y ahora es muy pequeño .
+1	Por	por	ADP	_	_	2	mark	_	_	_
+2	jarri	jarri	VERB	_	_	8	advcl	_	_	_
+3	bat	bat	DET	_	_	2	obj	_	_	_
+4	"	"	PUNCT	_	_	2	punct	_	_	_
+5	baina	baina	CCONJ	_	_	6	cc	_	_	_
+6	"	"	PUNCT	_	_	2	punct	_	_	_
+7	,	,	PUNCT	_	_	2	punct	_	_	_
+8	resaltaría	nabarmentzea	VERB	_	_	0	root	_	_	_
+9	bat	bat	DET	_	_	11	det	_	_	_
+10	txikia	txikia	ADJ	_	_	11	amod	_	_	_
+11	kaosa	kaosa	NOUN	_	_	8	nsubj	_	_	_
+12	hau	hau	PRON	_	_	14	nsubj	_	_	_
+13	se	bera	PRON	_	_	14	obj	_	_	_
+14	forma	sortu	VERB	_	_	11	acl	_	_	_
+15	n	n	ADP	_	_	17	case	_	_	_
+16	bat	bat	DET	_	_	17	det	_	_	17:targ
+17	jantokia	jantokia	NOUN	_	_	14	obl	_	_	29:targ
+18	dagoeneko	dagoeneko	ADV	_	_	22	mark	_	_	_
+19	hau	hau	SCONJ	_	_	18	fixed	_	_	_
+20	eta	bera	PRON	_	_	22	obj	_	_	_
+21	hah	izana	AUX	_	_	22	aux	_	_	_
+22	aldatuta	aldatu	VERB	_	_	8	advcl	_	_	_
+23	de	de	ADP	_	_	24	case	_	_	_
+24	lekua	lekua	NOUN	_	_	22	obl	_	_	_
+25	y	y	CCONJ	_	_	29	cc	_	_	_
+26	orain	orain	ADV	_	_	29	advmod	_	_	_
+27	es	izatea	AUX	_	_	29	cop	_	_	29:exp-Negative
+28	oso	asko	ADV	_	_	29	advmod	_	_	29:exp-Negative
+29	txikia	txikia	ADJ	_	_	22	conj	_	_	0:exp-Negative
+30	.	.	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00129_b86a874820c8688f4e9095647e9dda72-9
+# text = En líneas generales , recomendamos este hotel .
+1	En	n	ADP	_	_	2	case	_	_	_
+2	lerroak	lerroa	NOUN	_	_	5	obl	_	_	_
+3	orokorrak	orokorra	ADJ	_	_	2	amod	_	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_	_
+5	recomendamos	gomendatzea	VERB	_	_	0	root	_	_	0:exp-Positive
+6	hau	hau	DET	_	_	7	det	_	_	7:targ
+7	hotela	hotela	NOUN	_	_	5	obj	_	_	5:targ
+8	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00115_8dfc1adf7823d883234e5313a94ec232-1
+# text = Excelente
+1	Bikaina	bikaina	ADJ	_	_	0	root	_	_	0:exp-Positive
+
+# sent_id = opener_es/kaf/hotel/spanish00115_8dfc1adf7823d883234e5313a94ec232-2
+# text = Lo mejor de este hotel sin duda es el servicio al cliente !!
+1	Lo	bera	PRON	_	_	2	det	_	_	2:exp-Positive
+2	hobea	hobea	ADJ	_	_	10	nsubj	_	_	0:exp-Positive
+3	de	de	ADP	_	_	5	case	_	_	_
+4	hau	hau	DET	_	_	5	det	_	_	_
+5	hotela	hotela	NOUN	_	_	2	nmod	_	_	_
+6	gabe	gabe	ADP	_	_	7	case	_	_	_
+7	zalantza	zalantza	NOUN	_	_	5	nmod	_	_	_
+8	es	izatea	AUX	_	_	10	cop	_	_	_
+9	bat	bat	DET	_	_	10	det	_	_	12:targ
+10	zerbitzua	zerbitzua	NOUN	_	_	0	root	_	_	12:targ
+11	u	u	ADP	_	_	12	case	_	_	12:targ
+12	bezeroa	bezeroa	NOUN	_	_	10	nmod	_	_	2:targ
+13	¡!!	¡!!	PUNCT	_	_	10	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00115_8dfc1adf7823d883234e5313a94ec232-3
+# text = excelente personal !
+1	bikaina	bikaina	ADJ	_	_	2	amod	_	_	0:exp-Positive
+2	langileak	langileak	NOUN	_	_	0	root	_	_	1:targ
+3	!	!	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00115_8dfc1adf7823d883234e5313a94ec232-4
+# text = te hacen sentir como en casa .
+1	te	zu	PRON	_	_	2	obj	_	_	6:exp-Positive
+2	hacen	egin	VERB	_	_	0	root	_	_	6:exp-Positive
+3	sentitu	sentitu	VERB	_	_	2	xcomp	_	_	6:exp-Positive
+4	honela	honela	SCONJ	_	_	6	mark	_	_	6:exp-Positive
+5	n	n	ADP	_	_	6	case	_	_	6:exp-Positive
+6	etxea	etxea	NOUN	_	_	2	obl	_	_	0:exp-Positive
+7	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00115_8dfc1adf7823d883234e5313a94ec232-5
+# text = La relacion calidad · precio es inmejorable .
+1	La	bat	DET	_	_	2	det	_	_	5:targ
+2	erlazioa	erlazioa	NOUN	_	_	7	nsubj	_	_	5:targ
+3	kalitatea	kalitatea	NOUN	_	_	2	nmod	_	_	5:targ
+4	GUTXI EGITEN DUGU	GUTXI EGITEN DUGU	PUNCT	_	_	5	punct	_	_	5:targ
+5	prezioa	prezioa	NOUN	_	_	2	nmod	_	_	7:targ
+6	es	izatea	AUX	_	_	7	cop	_	_	_
+7	inmejorable	inmejorable	ADJ	_	_	0	root	_	_	0:exp-Positive
+8	.	.	PUNCT	_	_	7	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00115_8dfc1adf7823d883234e5313a94ec232-6
+# text = La comida presenta mucha variedad y tiene algunos restaurantes temáticos a parte del buffet .
+1	La	bat	DET	_	_	2	det	_	_	2:targ
+2	janaria	janaria	NOUN	_	_	3	nsubj	_	_	5:targ
+3	aurkezpena	aurkezpena	VERB	_	_	0	root	_	_	_
+4	asko	asko	DET	_	_	5	det	_	_	5:exp-Positive
+5	barietatea	barietatea	NOUN	_	_	3	obj	_	_	0:exp-Positive
+6	y	y	CCONJ	_	_	7	cc	_	_	_
+7	badu	eduki	VERB	_	_	3	conj	_	_	0:exp-Positive
+8	batzuk	bat	DET	_	_	9	det	_	_	10:targ
+9	jatetxeak	jatetxea	NOUN	_	_	7	obj	_	_	10:targ
+10	gaiak	gaimatikoa	ADJ	_	_	9	amod	_	_	7:targ
+11	a	a	ADP	_	_	14	case	_	_	_
+12	zatia	zatia	NOUN	_	_	11	fixed	_	_	_
+13	honengandik	honengandik	ADP	_	_	11	fixed	_	_	_
+14	buffet	buffet	NOUN	_	_	7	obl	_	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00115_8dfc1adf7823d883234e5313a94ec232-7
+# text = Nosotros fuimos al italiano y japones y super bien .
+1	Guk	ni	PRON	_	_	2	nsubj	_	_	_
+2	fuimos	joan	VERB	_	_	0	root	_	_	_
+3	u	u	ADP	_	_	4	case	_	_	_
+4	italiarra	italiarra	NOUN	_	_	2	obl	_	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_	_
+6	gapoiak	japoia	NOUN	_	_	4	conj	_	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_	_
+8	super	super	NOUN	_	_	4	conj	_	_	_
+9	ongi	ongi	ADV	_	_	8	advmod	_	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00115_8dfc1adf7823d883234e5313a94ec232-8
+# text = la piscina y la playa genial , sobre todo la playa .
+1	la	bat	DET	_	_	2	det	_	_	2:targ
+2	igerilekua	igerilekua	NOUN	_	_	0	root	_	_	6:targ
+3	y	y	CCONJ	_	_	5	cc	_	_	_
+4	la	bat	DET	_	_	5	det	_	_	5:targ
+5	hondartza	hondartza	NOUN	_	_	2	conj	_	_	6:targ
+6	genial	genial	ADJ	_	_	5	amod	_	_	0:exp-Positive|0:exp-Positive
+7	,	,	PUNCT	_	_	11	punct	_	_	_
+8	sobre	sobre	ADP	_	_	11	case	_	_	_
+9	guztiak	guztiak	DET	_	_	10	det	_	_	_
+10	la	bat	DET	_	_	11	det	_	_	_
+11	hondartza	hondartza	NOUN	_	_	2	nmod	_	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00115_8dfc1adf7823d883234e5313a94ec232-9
+# text = Muy divertidas las atenciones por parte del equipo de animacion !!!
+1	Osoa	asko	ADV	_	_	2	advmod	_	_	2:exp-Positive
+2	dibertigarriak	dibertigarria	ADJ	_	_	0	root	_	_	0:exp-Positive
+3	laborantza	bat	DET	_	_	4	det	_	_	10:targ
+4	arreta	arreta	NOUN	_	_	2	nsubj	_	_	10:targ
+5	por	por	ADP	_	_	8	case	_	_	10:targ
+6	zatia	zatia	NOUN	_	_	5	fixed	_	_	10:targ
+7	honengandik	honengandik	ADP	_	_	5	fixed	_	_	10:targ
+8	taldea	taldea	NOUN	_	_	4	nmod	_	_	10:targ
+9	de	de	ADP	_	_	10	case	_	_	10:targ
+10	animazioa	animazioa	NOUN	_	_	8	nmod	_	_	2:targ
+11	¡!!!	¡!!!	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00115_8dfc1adf7823d883234e5313a94ec232-10
+# text = son geniales !!
+1	direnak	izatea	AUX	_	_	2	cop	_	_	3:exp-Positive
+2	apartak	genial	ADJ	_	_	0	root	_	_	3:exp-Positive
+3	¡!!	¡!!	PUNCT	_	_	2	punct	_	_	0:exp-Positive
+
+# sent_id = opener_es/kaf/hotel/spanish00044_3f4fc0639d406cb441637348ca6069b7-1
+# text = Perfecto para descansar tras un día de trabajo
+1	Perfecto	perfektua	ADJ	_	_	0	root	_	_	0:exp-Positive
+2	para	para	ADP	_	_	3	mark	_	_	3:targ
+3	descansar	descansar	VERB	_	_	1	acl	_	_	1:targ
+4	tras	tras	ADP	_	_	6	case	_	_	_
+5	bat	bat	DET	_	_	6	det	_	_	_
+6	eguna	eguna	NOUN	_	_	3	obl	_	_	_
+7	de	de	ADP	_	_	8	case	_	_	_
+8	lana	lana	NOUN	_	_	6	nmod	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00044_3f4fc0639d406cb441637348ca6069b7-2
+# text = Aunque ya tiene años y quizá en breve necesite alguna reforma , sobre todo en los baños , el Hotel Senator Barcelona es un lugar perfecto para descansar después de un intenso día de trabajo .
+1	Baina	baina	SCONJ	_	_	3	mark	_	_	3:exp-Negative
+2	dagoeneko	dagoeneko	ADV	_	_	3	advmod	_	_	3:exp-Negative
+3	badu	eduki	VERB	_	_	25	advcl	_	_	0:exp-Negative
+4	urte	urtea	NOUN	_	_	3	obj	_	_	3:targ
+5	y	y	CCONJ	_	_	9	cc	_	_	_
+6	agian	agian	ADV	_	_	9	advmod	_	_	_
+7	n	n	ADP	_	_	9	advmod	_	_	_
+8	laburra	laburra	NOUN	_	_	7	fixed	_	_	_
+9	necesite	beharrezkoa	VERB	_	_	3	conj	_	_	0:exp-Negative
+10	batzuk	bat	DET	_	_	11	det	_	_	11:targ
+11	erreforma	erreforma	NOUN	_	_	9	obj	_	_	9:targ
+12	,	,	PUNCT	_	_	13	punct	_	_	_
+13	sobre	sobre	ADP	_	_	9	advmod	_	_	14:exp-Negative
+14	guztiak	guztiak	PRON	_	_	13	fixed	_	_	0:exp-Negative
+15	n	n	ADP	_	_	13	case	_	_	_
+16	eta	bat	DET	_	_	17	det	_	_	17:targ
+17	komunak	komuna	NOUN	_	_	13	nmod	_	_	14:targ
+18	,	,	PUNCT	_	_	3	punct	_	_	_
+19	bat	bat	DET	_	_	20	det	_	_	_
+20	Hotela	Hotela	PROPN	_	_	25	nsubj	_	_	22:targ
+21	Senatorea	Senatorea	PROPN	_	_	20	flat	_	_	22:targ
+22	Bartzelona	Bartzelona	PROPN	_	_	20	flat	_	_	28:targ
+23	es	izatea	AUX	_	_	25	cop	_	_	_
+24	bat	bat	DET	_	_	25	det	_	_	_
+25	lekua	lekua	NOUN	_	_	0	root	_	_	_
+26	perfektua	perfektua	ADJ	_	_	25	amod	_	_	28:exp-Positive
+27	para	para	ADP	_	_	28	mark	_	_	28:exp-Positive
+28	descansar	descansar	VERB	_	_	25	acl	_	_	0:exp-Positive
+29	ondoren	ondoren	ADV	_	_	28	advmod	_	_	_
+30	de	de	ADP	_	_	33	case	_	_	_
+31	bat	bat	DET	_	_	33	det	_	_	_
+32	handia	handia	ADJ	_	_	33	amod	_	_	_
+33	eguna	eguna	NOUN	_	_	29	obl	_	_	_
+34	de	de	ADP	_	_	35	case	_	_	_
+35	lana	lana	NOUN	_	_	33	nmod	_	_	_
+36	.	.	PUNCT	_	_	25	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00044_3f4fc0639d406cb441637348ca6069b7-3
+# text = Lo mejor : la amplitud de la recepción y habitaciones , el silencio por las noches , y el murmullo del agua en las fuentes del interior y el exterior .
+1	Lo	bera	PRON	_	_	2	det	_	_	_
+2	hobea	hobea	ADJ	_	_	0	root	_	_	_
+3	:	:	PUNCT	_	_	5	punct	_	_	_
+4	la	bat	DET	_	_	5	det	_	_	5:exp-Positive|5:exp-Positive
+5	zabalera	zabalera	NOUN	_	_	2	obj	_	_	0:exp-Positive|0:exp-Positive
+6	de	de	ADP	_	_	8	case	_	_	_
+7	la	bat	DET	_	_	8	det	_	_	8:targ
+8	harrera	harrera	NOUN	_	_	5	nmod	_	_	5:targ
+9	y	y	CCONJ	_	_	10	cc	_	_	_
+10	logelak	gela	NOUN	_	_	8	conj	_	_	5:targ
+11	,	,	PUNCT	_	_	13	punct	_	_	_
+12	bat	bat	DET	_	_	13	det	_	_	13:exp-Positive
+13	isiltasuna	isiltasuna	NOUN	_	_	5	appos	_	_	0:exp-Positive
+14	por	por	ADP	_	_	16	case	_	_	_
+15	laborantza	bat	DET	_	_	16	det	_	_	16:targ
+16	gauak	gaua	NOUN	_	_	13	nmod	_	_	13:targ
+17	,	,	PUNCT	_	_	13	punct	_	_	_
+18	y	y	CCONJ	_	_	20	cc	_	_	_
+19	bat	bat	DET	_	_	20	det	_	_	22:exp-Positive|22:exp-Positive
+20	murmurioa	murmurioa	NOUN	_	_	5	conj	_	_	22:exp-Positive|22:exp-Positive
+21	honengandik	honengandik	ADP	_	_	22	case	_	_	22:exp-Positive|22:exp-Positive
+22	ura	ura	NOUN	_	_	20	nmod	_	_	0:exp-Positive|0:exp-Positive
+23	n	n	ADP	_	_	25	case	_	_	_
+24	laborantza	bat	DET	_	_	25	det	_	_	27:targ
+25	iturburuak	iturburua	NOUN	_	_	20	nmod	_	_	27:targ
+26	honengandik	honengandik	ADP	_	_	27	case	_	_	27:targ
+27	barnealdea	barnealdea	NOUN	_	_	25	nmod	_	_	22:targ
+28	y	y	CCONJ	_	_	30	cc	_	_	_
+29	bat	bat	DET	_	_	30	det	_	_	30:targ
+30	kanpokoa	kanpokoa	NOUN	_	_	27	conj	_	_	22:targ
+31	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00012_0c83d63297cb791b4423232d5f64b614-1
+# text = Opción barata para Las Vegas
+1	Aukera	aukera	NOUN	_	_	0	root	_	_	2:targ
+2	merkea	merkea	ADJ	_	_	1	amod	_	_	0:exp-Positive
+3	para	para	ADP	_	_	5	case	_	_	_
+4	Horiek	bat	DET	_	_	5	det	_	_	_
+5	Vegas	Vegas	PROPN	_	_	1	nmod	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00012_0c83d63297cb791b4423232d5f64b614-2
+# text = Estuvimos alojados en Agosto de 2012 .
+1	Estuvimos	estar	VERB	_	_	0	root	_	_	_
+2	ostatudunak	ostatua	ADJ	_	_	1	obj	_	_	_
+3	n	n	ADP	_	_	4	case	_	_	_
+4	Abuztua	abuztua	NOUN	_	_	2	obl	_	_	_
+5	de	de	ADP	_	_	6	case	_	_	_
+6	2012	2012	NUM	_	_	4	nummod	_	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00012_0c83d63297cb791b4423232d5f64b614-3
+# text = El hotel se encuentra en medio del Strip , con lo que su ubicación es idónea .
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ
+2	hotela	hotela	NOUN	_	_	4	nsubj	_	_	8:targ
+3	se	bera	PRON	_	_	4	obj	_	_	_
+4	encuentra	aurkitu	VERB	_	_	0	root	_	_	_
+5	n	n	ADP	_	_	8	case	_	_	8:exp-Positive
+6	medioa	medioa	NOUN	_	_	5	fixed	_	_	8:exp-Positive
+7	honengandik	honengandik	ADP	_	_	5	fixed	_	_	8:exp-Positive
+8	Strip	Strip	PROPN	_	_	4	obl	_	_	0:exp-Positive
+9	,	,	PUNCT	_	_	16	punct	_	_	_
+10	honekin	honekin	ADP	_	_	16	case	_	_	_
+11	eta	bera	PRON	_	_	16	det	_	_	_
+12	hau	hau	PRON	_	_	16	obl	_	_	_
+13	bere	bere	DET	_	_	14	det	_	_	14:targ
+14	kokalekua	kokalekua	NOUN	_	_	16	nsubj	_	_	16:targ
+15	es	izatea	AUX	_	_	16	cop	_	_	_
+16	egokia	egokia	ADJ	_	_	4	advcl	_	_	0:exp-Positive
+17	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00012_0c83d63297cb791b4423232d5f64b614-4
+# text = Las habitaciones son normalitas , nosotros tuvimos mala suerte porque nos tocó una habitación que daba a un escenario en el que había actuaciones hasta las 3 de la madrugada , con lo que nos tocó dormir con tapones .
+1	Horiek	bat	DET	_	_	2	det	_	_	2:targ
+2	logelak	gela	NOUN	_	_	4	nsubj	_	_	4:targ
+3	direnak	izatea	AUX	_	_	4	cop	_	_	_
+4	normalitak	arrunta	ADJ	_	_	0	root	_	_	0:exp-Positive
+5	,	,	PUNCT	_	_	4	punct	_	_	_
+6	gu	ni	PRON	_	_	7	nsubj	_	_	_
+7	tuvimos	eduki	VERB	_	_	4	advcl	_	_	_
+8	txarra	txarra	ADJ	_	_	9	amod	_	_	_
+9	zortea	zortea	NOUN	_	_	7	obj	_	_	_
+10	zeren	zeren	SCONJ	_	_	12	mark	_	_	_
+11	igual	ni	PRON	_	_	12	obj	_	_	19:holder
+12	tocó	ukitu	VERB	_	_	7	advcl	_	_	19:exp-Negative
+13	bat	bat	DET	_	_	14	det	_	_	14:targ
+14	gela	gela	NOUN	_	_	12	nsubj	_	_	19:targ
+15	hau	hau	PRON	_	_	16	nsubj	_	_	19:exp-Negative
+16	daba	eman	VERB	_	_	14	acl	_	_	19:exp-Negative
+17	a	a	ADP	_	_	19	case	_	_	19:exp-Negative
+18	bat	bat	DET	_	_	19	det	_	_	19:exp-Negative
+19	eszenatokia	eszenatokia	NOUN	_	_	16	obj	_	_	0:exp-Negative
+20	n	n	ADP	_	_	22	case	_	_	_
+21	bat	bat	DET	_	_	22	det	_	_	_
+22	hau	hau	PRON	_	_	23	obl	_	_	_
+23	había	izana	AUX	_	_	19	acl	_	_	_
+24	jardunak	jardunak	NOUN	_	_	23	obj	_	_	_
+25	honaino	honaino	ADP	_	_	27	case	_	_	_
+26	laborantza	bat	DET	_	_	27	det	_	_	_
+27	3	3	NUM	_	_	23	obl	_	_	_
+28	de	de	ADP	_	_	30	case	_	_	_
+29	la	bat	DET	_	_	30	det	_	_	_
+30	goiza	goiza	NOUN	_	_	27	nmod	_	_	_
+31	,	,	PUNCT	_	_	36	punct	_	_	_
+32	honekin	honekin	ADP	_	_	36	mark	_	_	_
+33	eta	bera	PRON	_	_	36	det	_	_	_
+34	hau	hau	PRON	_	_	36	obl	_	_	_
+35	igual	ni	PRON	_	_	36	obj	_	_	39:holder
+36	tocó	ukitu	VERB	_	_	23	advcl	_	_	39:exp-Negative
+37	dormir	dormir	VERB	_	_	36	csubj	_	_	39:targ
+38	honekin	honekin	ADP	_	_	39	case	_	_	39:exp-Negative
+39	tapoiak	tapoia	NOUN	_	_	37	obl	_	_	0:exp-Negative
+40	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00012_0c83d63297cb791b4423232d5f64b614-5
+# text = Está bastante limpio .
+1	Está	estar	AUX	_	_	3	cop	_	_	_
+2	nahikoa	nahikoa	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	garbia	garbia	ADJ	_	_	0	root	_	_	0:exp-Positive
+4	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = opener_es/kaf/hotel/spanish00012_0c83d63297cb791b4423232d5f64b614-6
+# text = El WIFI no es de buena calidad , apenas llega a la habitación .
+1	Bera	bat	DET	_	_	2	det	_	_	2:targ|2:targ
+2	WIFI	WIFI	PROPN	_	_	7	nsubj	_	_	7:targ|13:targ
+3	ez	ez	ADV	_	_	7	advmod	_	_	7:exp-Negative
+4	es	izatea	AUX	_	_	7	cop	_	_	_
+5	de	de	ADP	_	_	7	case	_	_	7:exp-Negative
+6	ona	ona	ADJ	_	_	7	amod	_	_	7:exp-Negative
+7	kalitatea	kalitatea	NOUN	_	_	0	root	_	_	0:exp-Negative
+8	,	,	PUNCT	_	_	7	punct	_	_	_
+9	apenas	apenas	ADV	_	_	10	advmod	_	_	13:exp-Negative
+10	badator	iritsi	VERB	_	_	7	advcl	_	_	13:exp-Negative
+11	a	a	ADP	_	_	13	case	_	_	13:exp-Negative
+12	la	bat	DET	_	_	13	det	_	_	13:exp-Negative
+13	gela	gela	NOUN	_	_	10	obl	_	_	0:exp-Negative
+14	.	.	PUNCT	_	_	7	punct	_	_	_
+

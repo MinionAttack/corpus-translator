@@ -55,12 +55,36 @@ In this section you can have a quick view of the project structure.
     │       ├── dev-eu-es.json
     │       ├── train-eu-es.conllu
     │       └── train-eu-es.json
-    └── norec
+    ├── norec
+    │   └── head_final
+    │       ├── dev-no-es.conllu
+    │       ├── dev-no-es.json
+    │       ├── train-no-es.conllu
+    │       └── train-no-es.json
+    ├── opener_en
+    │   └── head_final
+    │       ├── dev-en-ca.conllu
+    │       ├── dev-en-ca.json
+    │       ├── dev-en-es.conllu
+    │       ├── dev-en-es.json
+    │       ├── dev-en-eu.conllu
+    │       ├── dev-en-eu.json
+    │       ├── train-en-ca.conllu
+    │       ├── train-en-ca.json
+    │       ├── train-en-es.conllu
+    │       ├── train-en-es.json
+    │       ├── train-en-eu.conllu
+    │       └── train-en-eu.json
+    └── opener_es
         └── head_final
-            ├── dev-no-es.conllu
-            ├── dev-no-es.json
-            ├── train-no-es.conllu
-            └── train-no-es.json
+            ├── dev-es-ca.conllu
+            ├── dev-es-ca.json
+            ├── dev-es-eu.conllu
+            ├── dev-es-eu.json
+            ├── train-es-ca.conllu
+            ├── train-es-ca.json
+            ├── train-es-eu.conllu
+            └── train-es-eu.json
 ```
 
 The `translations` folder contains some translated files used in the cross-lingual subtask
