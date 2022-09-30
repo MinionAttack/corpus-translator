@@ -12,7 +12,7 @@ frozenlist==1.2.0
 fsspec==2021.11.0
 huggingface-hub==0.1.2
 idna==3.3
-joblib==1.1.0
+joblib==1.2.0
 multidict==5.2.0
 multiprocess==0.70.12.2
 numpy==1.21.4
